@@ -1,0 +1,486 @@
+{
+  "date": "2026-07-20",
+  "collected_at": "2026-07-20T22:59:31.722272",
+  "items": [
+    {
+      "source": "hatena_hotentry",
+      "title": "AIがBlenderを勝手に操作　3D制作のハードルが一気に下がった (1/4)",
+      "link": "https://ascii.jp/elem/000/004/420/4420739/",
+      "summary": "Anthropicの「Claude Fable 5」や、OpenAIの「GPT-5.6 Sol」を使用したCodexから、3D制作ツール「Blender」を操作する手法が注目を集めています。無料で使えることからBlenderは多くの人が利用していますが、初心者が使いこなすためのハードルはかなり高いという実情があります。しかし、AIエージェントと外部ソフトをつ..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "スペイン代表選手を蹴り倒し、パンチを浴びせる…アルゼンチン代表MFの暴走に批判の声「許される余地などない」 | ゲキサカ",
+      "link": "https://web.gekisaka.jp/news/worldcup/detail/?455653-455653-fl",
+      "summary": "北中米W杯決勝後に乱闘騒ぎが起こった。 現地時間19日に開催されたスペイン代表とアルゼンチン代表による頂上決戦。試合は、スペインが立ち上がりから圧倒的にボールを支配しながらも、得点が生まれずに0-0で延長戦に突入する。すると、延長後半1分にFWフェラン・トーレスが決勝点を奪い、1-0の完封勝利を収めたスペイン..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "在日ベトナム人による東京で食べられる『本場ベトナム料理』店まとめがかなり本格的で参考になる「これは要ブックマーク」「どの地方のスタイルか説明してくれているのがいいね」",
+      "link": "https://togetter.com/li/2722673",
+      "summary": "在日ベトナム人が選ぶ、東京で食べられる「本場ベトナム料理」店まとめ ぜひ保存して東京のベトナム料理屋に行ってみてください🇻🇳😊＼Googlemap付き／なのでわかりやすいです！バインミーやフォー以外のベトナム料理も美味しいです。私の知り合いの範囲ですが在日ベトナム人に… ザン🇻🇳 🇯🇵ベトナム出身♡日本@VietnamZannC..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "「喫茶店ってメニュー見た段階で帰っていいんでしたっけ」「メニュー読むだけで不快になるって」→紅茶の説明の癖が強すぎる喫茶店をめぐって賛否さまざま",
+      "link": "https://togetter.com/li/2722869",
+      "summary": "「喫茶店ってメニュー見た段階で帰っていいんでしたっけ」「メニュー読むだけで不快になるって」→紅茶の説明の癖が強すぎる喫茶店をめぐって賛否さまざま"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "AI時代のドキュメント駆動開発のすすめ - Qiita",
+      "link": "https://qiita.com/Asahi_tech_dev/items/5a3c6420cb0b2fa0e823",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに この数年、AIの登場によって開発現場は大きく様変わりした。バイブコーディングをはじめ、未経験者が開発に参入するハードルは一気に下がり、参入者は急増している。もは..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "「車」が必要なのに“保有”認めず…生活保護受給者の「自立」を妨げる“行政の運用実態”に、裁判所が発した“警告”が意味するもの | 弁護士JPニュース",
+      "link": "https://www.ben54.jp/news/3724",
+      "summary": "「車」が必要なのに“保有”認めず…生活保護受給者の「自立」を妨げる“行政の運用実態”に、裁判所が発した“警告”が意味するもの 生活保護制度において、自動車の保有は原則として認められていません。制度を支える原資が国民の税金である以上、資産価値のある物品の保有が制限されるのは一定の合理性はあるでしょう。 例外..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "誰か俺に優しい言葉をかけてくれ",
+      "link": "https://anond.hatelabo.jp/20260720231820",
+      "summary": "俺かその辺の誰かもお前に優しい言葉をかけるから"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "東京駅から半径40km圏内に「どんな人が住んでいるか？」を6タイプに分けた図が興味深い…「高学歴富裕層」「通勤型デスクワーク層」の多い地区など納得感がある",
+      "link": "https://togetter.com/li/2722863",
+      "summary": "まちの計量舎 @machi_measure 東京駅から半径40km圏内の小地域を69指標（年齢構成・家族類型・住宅・産業・職業・通勤手段・学歴）でクラスタリング。手法はプロマックス回転PCA＋KMeans（K=6）。各地区に「どんな人が住んでいるか」が6つのタイプに分かれたけど、思ったより納得感が高い感じがする。※クラスター名を修..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "仕様駆動開発で起こる「仕様とコードのズレ」をハッシュで決定的に検出するツールを作った",
+      "link": "https://zenn.dev/mrmtsntr/articles/artgraph-spec-code-drift",
+      "summary": "はじめに 仕様・ドキュメント・コード・テストの乖離 (ドリフト) を検出する CLI ツール「artgraph」を作りました。仕様駆動開発 (以後、SDD) を進めていると起こる「コードが変わったのに仕様書が古いまま」、「仕様を変えたのに実装が置き去り」を、LLM に頑張って見つけさせるのではなく、決定的な仕組みで検出します..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "外部記憶と化したWebから生成AIを通じて情報を取り出すとき、何が起こっているのか",
+      "link": "https://ki-to-oku.net/outsourcing-judgment-to-ai-after-memory-goes-external/",
+      "summary": "フラッシュメモリが記憶を手のひらに収めた以前、記憶媒体の変遷をたどった記事で、フラッシュメモリの登場について触れた。フラッシュメモリより前、パソコンの中で記憶を担っていたのはハードディスクだった。 ハードディスクは、円盤を回し、その上を読み書きヘッドが物理的に移動して目的の場所を探す。この物理的な..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "ジェンスン・ファンCEO、「セガ」と「T-ZONE」を語る",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2607/17/news115.html",
+      "summary": "NVIDIAのジェンスン・フアンCEOは7月16日、東京都内で報道関係者の取材に応じた。その中で、創業期に事業面で協力関係にあったセガ（当時のセガ・エンタープライゼス）と、かつて東京都千代田区などにあったPCショップ「T-ZONE」について言及する場面があった。 どんなやりとりがあったのか？ このやりとりは、取材にお..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "「ドコモの銀行」で何が変わる？　ポイント最大4.5％還元、金融経済圏のメリットと課題 (1/4)",
+      "link": "https://ascii.jp/elem/000/004/420/4420599/",
+      "summary": "7月1日、NTTドコモ傘下の金融関連会社をまとめた「NTTドコモ・フィナンシャルグループ」が誕生した。 8月3日には住信SBIネット銀行が「ドコモSMTBネット銀行」に社名が変更となり、「ドコモの銀行」というブランドを冠することになる。 SNS上では「ドコモの銀行、ダサすぎる。SBI新生銀行に乗り換える」といった不満の声..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "三大ブラザーズといえば？",
+      "link": "https://anond.hatelabo.jp/20200227130054",
+      "summary": "マリオブラザーズ ライトブラザーズ もうひとつは？"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "link": "https://forbesjapan.com/articles/detail/101067",
+      "summary": "デイジー・ホールマンは、Anthropic（アンソロピック）のClaude Codeチームで働いている。ロンドンで開催されたAnthropicの「Code with Claude」カンファレンスにおける彼女のセッションで、彼女は会場に集まったエンジニアたちに1つの指示を出した。 自分自身のコピー（分身）を作れ。「現時点でソフトウェアエンジニア..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "元寇のことを調べてたら「一発逆転した神風なんてなかった」説が濃厚でびっくり…「上陸作戦は難しい」「武士が強かった」など",
+      "link": "https://togetter.com/li/2722818",
+      "summary": "渡井亘@8/20幼馴染漫画⑧巻＆コミカライズ①巻 @Watarai_Kou 元寇のこと調べてたら「実は神風なんてなかった」説が今は濃厚らしく、「キッショ、なんで勝てたんだよ」ってなってる 2026-07-17 12:18:46 渡井亘@8/20幼馴染漫画⑧巻＆コミカライズ①巻 @Watarai_Kou とても興味深くて面白いお話をコメントや引用でたくさんの方..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "[第95話]限界OL霧切ギリ子 - ミートスパ土本 | 少年ジャンプ＋",
+      "link": "https://shonenjumpplus.com/episode/9253191255348929866",
+      "summary": "限界OL霧切ギリ子 ミートスパ土本 <毎週火曜更新！最新3話無料>限界生まれ限界育ち、癖の強い奴はだいたい知り合い…。霧切ギリ子が贈る、今日をなんとか生きるライフハック――!?読めば新たな知見を得る限界群像劇。 [JC3巻9/4発売予定]"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "知り合いにＪＲ職員がいるけど、駅員さんにクイズを出してきて、答えられ..",
+      "link": "https://anond.hatelabo.jp/20260720151000",
+      "summary": "知り合いにＪＲ職員がいるけど、駅員さんにクイズを出してきて、答えられないと罵倒してくる鉄道おたくが居るらしい。なんでそんな鉄道に詳しいのに職員になれなかったのか説明して泣かしてやればいいと言っておいた。"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "解説「照らす技術」をRubyで照らす #kanrk09 - Harukasan-dot-dev",
+      "link": "https://harukasan.dev/posts/diary/20260720-illuminating-the-technology-of-illumination-using-ruby",
+      "summary": "解説「照らす技術」をRubyで照らす #kanrk092026年7月20日 7月18日(土)に大津市伝統芸能会館で開催された関西Ruby会議09にて、「『照らす技術』をRubyで照らす」という題で登壇させていただきました。今回の発表はデモが多く、スライドもアニメーションを多用しておりそのまま公開するのが難しいです。また、発表中にふ..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "「ながら」と「によって」のあいだ：エルサルバドルの治安回復を「人権侵害の成功」と呼べるか｜Reading Monkey",
+      "link": "https://note.com/reading_monkey/n/nb8518c66d3db",
+      "summary": "橘玲氏は、2026年7月20日付の記事「人権を侵害して治安を急回復させたエルサルバドルの『不都合な成功』」において、ナジブ・ブケレ政権による非常事態、大量拘禁、巨大刑務所CECOTへの収容、適正手続の制限を取り上げ、それらを契機として犯罪が大幅に減少したと論じている。^1 同記事の重要な功績は、リベラルな政治思..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "関西と四国結ぶ「南海フェリー」が事業撤退発表　鉄道＆フェリーで便利な「鉄道連絡船」またも姿消すのか（東洋経済オンライン） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/13ab72d6d4a8668d204b7d9ec9c7219183ef3a60",
+      "summary": "和歌山港と徳島港を結んでいた南海フェリーが航路から撤退することになった。撤退時期は2028年3月末を予定しているという。 【貴重な写真はこちら】▶旧デザインだった頃の「フェリーかつらぎ」▶かつての「フェリーつるぎ」「フェリーくまの」▶小松島港発着だった頃の「きい丸」▶南海フェリーで活躍した懐かしの面々 ■旅..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "AIがBlenderを勝手に操作　3D制作のハードルが一気に下がった (1/4)",
+      "link": "https://ascii.jp/elem/000/004/420/4420739/",
+      "summary": "Anthropicの「Claude Fable 5」や、OpenAIの「GPT-5.6 Sol」を使用したCodexから、3D制作ツール「Blender」を操作する手法が注目を集めています。無料で使えることからBlenderは多くの人が利用していますが、初心者が使いこなすためのハードルはかなり高いという実情があります。しかし、AIエージェントと外部ソフトをつ..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "AI時代のドキュメント駆動開発のすすめ - Qiita",
+      "link": "https://qiita.com/Asahi_tech_dev/items/5a3c6420cb0b2fa0e823",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに この数年、AIの登場によって開発現場は大きく様変わりした。バイブコーディングをはじめ、未経験者が開発に参入するハードルは一気に下がり、参入者は急増している。もは..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "仕様駆動開発で起こる「仕様とコードのズレ」をハッシュで決定的に検出するツールを作った",
+      "link": "https://zenn.dev/mrmtsntr/articles/artgraph-spec-code-drift",
+      "summary": "はじめに 仕様・ドキュメント・コード・テストの乖離 (ドリフト) を検出する CLI ツール「artgraph」を作りました。仕様駆動開発 (以後、SDD) を進めていると起こる「コードが変わったのに仕様書が古いまま」、「仕様を変えたのに実装が置き去り」を、LLM に頑張って見つけさせるのではなく、決定的な仕組みで検出します..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "外部記憶と化したWebから生成AIを通じて情報を取り出すとき、何が起こっているのか",
+      "link": "https://ki-to-oku.net/outsourcing-judgment-to-ai-after-memory-goes-external/",
+      "summary": "フラッシュメモリが記憶を手のひらに収めた以前、記憶媒体の変遷をたどった記事で、フラッシュメモリの登場について触れた。フラッシュメモリより前、パソコンの中で記憶を担っていたのはハードディスクだった。 ハードディスクは、円盤を回し、その上を読み書きヘッドが物理的に移動して目的の場所を探す。この物理的な..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "「ドコモの銀行」で何が変わる？　ポイント最大4.5％還元、金融経済圏のメリットと課題 (1/4)",
+      "link": "https://ascii.jp/elem/000/004/420/4420599/",
+      "summary": "7月1日、NTTドコモ傘下の金融関連会社をまとめた「NTTドコモ・フィナンシャルグループ」が誕生した。 8月3日には住信SBIネット銀行が「ドコモSMTBネット銀行」に社名が変更となり、「ドコモの銀行」というブランドを冠することになる。 SNS上では「ドコモの銀行、ダサすぎる。SBI新生銀行に乗り換える」といった不満の声..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "link": "https://forbesjapan.com/articles/detail/101067",
+      "summary": "デイジー・ホールマンは、Anthropic（アンソロピック）のClaude Codeチームで働いている。ロンドンで開催されたAnthropicの「Code with Claude」カンファレンスにおける彼女のセッションで、彼女は会場に集まったエンジニアたちに1つの指示を出した。 自分自身のコピー（分身）を作れ。「現時点でソフトウェアエンジニア..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "解説「照らす技術」をRubyで照らす #kanrk09 - Harukasan-dot-dev",
+      "link": "https://harukasan.dev/posts/diary/20260720-illuminating-the-technology-of-illumination-using-ruby",
+      "summary": "解説「照らす技術」をRubyで照らす #kanrk092026年7月20日 7月18日(土)に大津市伝統芸能会館で開催された関西Ruby会議09にて、「『照らす技術』をRubyで照らす」という題で登壇させていただきました。今回の発表はデモが多く、スライドもアニメーションを多用しておりそのまま公開するのが難しいです。また、発表中にふ..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "Google Search Console APIを使ってSEO改善を自動化する",
+      "link": "https://zenn.dev/asoventure/articles/2026-07-19-gsc-api-seo-automation",
+      "summary": "はじめに Futuristic Imagination LLC 代表の佐藤です。AI技術を実事業に注ぎ込み、圧倒的な開発・検証スピードと**徹底した自動化・省力化（仕組み化）**を武器に日々プロダクト開発に励んでいます。自社ではAIオウンドメディアを11サイト運営しており、Next.jsとGemini API、Vercel Cronを組み合わせることで、毎日記..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "バージョン情報の露出を防ぐサーバー設定まとめ ── nginx/Apache/PHP/WordPress対応 - Qiita",
+      "link": "https://qiita.com/jiis-sasaki/items/178a8b20280df919d6a0",
+      "summary": "サイトを公開すると、意識しないうちに「使っているソフトのバージョン」が外部から丸見えになっていることがあります。攻撃者はまずこの情報を集め、そのバージョンに効く既知の脆弱性を狙ってきます。 この記事は次の方向けです。 レスポンスヘッダやHTMLに「nginx/1.24.0」「PHP/8.1.2」のような表示が出ていて気にな..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "PHPで作られた大規模ECサイトから学ぶ負荷対策入門 in PHP Conference 2026",
+      "link": "https://speakerdeck.com/ozakikota/phpdezuo-raretada-gui-mo-ecsaitokaraxue-bufu-he-dui-ce-ru-men-in-php-conference-2026",
+      "summary": "https://fortee.jp/phpcon-2026/proposal/fc3d00e7-91ab-431a-94ae-d79601d9d585"
+    },
+    {
+      "source": "hatena_it",
+      "title": "Maps Grounding Lite MCP を使用して、現実世界の地理空間コンテキストで AI エージェントをグラウンディングする  |  Google Maps Platform  |  Google for Developers",
+      "link": "https://developers.google.com/maps/architecture/grounding-with-maps-mcp?hl=ja",
+      "summary": "フィードバックを送信 Maps Grounding Lite MCP を使用して、現実世界の地理空間コンテキストで AI エージェントをグラウンディングする コレクションでコンテンツを整理 必要に応じて、コンテンツの保存と分類を行います。 AI エージェントの構築は、ソフトウェア開発における大きな進化であり、システムが複雑な推論を..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "GitHub - loopgain-ai/loopgain: An open-source cost controller for AI agent loops — stops a loop when it's actually converged and rolls back before it degrades, instead of running to a fixed max_iterations cap. Real-time loop-gain (Aβ) bands + best-so-far",
+      "link": "https://github.com/loopgain-ai/loopgain",
+      "summary": "An open-source cost controller for AI agent loops. AI agent loops waste time and money when they don't know when to stop. LoopGain measures the loop in real time and stops it the moment it has actually converged — and rolls back before it degrades — instead of running to a fixed max_iterations ca..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "1-bit LLM「Bonsai」活用ガイド — 1.15GB で動く 8B モデルをローカルで使い倒す",
+      "link": "https://zenn.dev/tkou15/articles/bonsai-1bit-llm-guide",
+      "summary": "はじめに 2026年3月31日、Caltech 発のスタートアップ PrismML が 1-bit LLM ファミリー Bonsai を発表しました。8B クラスのモデルがわずか 1.15GB、必要メモリ約 1.5GB で動作し、GPU なしの普通の PC でも実用的な速度で推論できるとして大きな話題になっています。 Bonsai の注目ポイントは次の3つです。 真の 1-bit..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る",
+      "link": "https://zenn.dev/uhyo/articles/async-react-action-queue",
+      "summary": "useActionStateは、React 19で導入された新しいフックです。 その挙動を見ると、非同期版useReducerと言えるような挙動をします。 ただ、筆者は最近、このフックの真髄はユーザーの操作を妨げないUXを作ることにあるのではないかと考えています。ReactはUIライブラリであり、そのゴールは「良いUX」であるように思います..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "開発が速く安くなった後の話　AI時代のソフトウェアエンジニアリング組織論 #devsumi",
+      "link": "https://speakerdeck.com/recruitengineers/developerssummit2026summer_kuroda?slide=49",
+      "summary": "2026/7/16に、Developers Summit 2026 Summerで発表した黒田の資料になります。"
+    },
+    {
+      "source": "hatena_it",
+      "title": "Hugging FaceにAI主導のサイバー攻撃　防御もAIで対抗するも、商用モデルは解析拒否で「GLM」採用",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/20/news010.html",
+      "summary": "米AIプラットフォームのHugging Faceは7月16日（現地時間）、本番インフラの一部が自律型AIエージェントによるサイバー攻撃を受けたと発表した。侵入の検知と解析にAIを活用したが、商用のフロンティアモデルはガードレールによって解析作業を受け付けなかったため、最終的に中国Z.aiのオープンウェイトモデル「GLM 5.2..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "趣味でサーバを触り始めた人のおうちラボ紹介 基本サービスや構築・管理方法について",
+      "link": "https://zenn.dev/pkkudo/articles/homelab-overview-hlv5",
+      "summary": "キャリアとしてはネットワークインフラやネットワークセキュリティをメインに扱っていますが、「Pythonのスクリプトが書けるようになりたい」「サーバを直接触ってみたい」という思いからおうちラボを始めました。 振り返ってみると、おうちラボを始めてから10年が経っていました。そこでおうちラボの構築初期にお勧めし..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "2.4兆「Qwen3.8」公開&オープンウェイト化を予告！Fable 5に次ぐ性能か",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2126345.html",
+      "summary": ""
+    },
+    {
+      "source": "hatena_it",
+      "title": "中国ムーンショットAI、利用急増で新規利用停止　「計算資源不足」 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGM200KF0Q6A720C2000000/",
+      "summary": "【広州=藤野逸郎】中国の人工知能（AI）新興、月之暗面（ムーンショットAI）は19日夜、新規利用の受け付けを停止すると発表した。同社は米国の最先端AIモデルに迫る性能を実現したと発表し、世界的に注目された。利用が急増し、処理に必要な計算リソースが不足しているという。同社は「過去48時間でユーザーの利用が予想..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "バンクーバー警察のウェブサイトには閲覧していたのがバレないようにすぐ離脱できる「クイックエスケープボタン」が搭載されている",
+      "link": "https://gigazine.net/news/20260719-quick-escape/",
+      "summary": "カナダのバンクーバー警察のウェブサイト「https://vpd.ca/」には、直前までサイトを見ていたことがバレにくいように素早く離脱する「QUICK ESCAPE」というボタンがあります。もし誰かが危険にさらされていて、警察に助けを求めたいと考えている自分の行動を隠したい場合に、ブラウザやタブを閉じるよりも行動を隠しやす..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る",
+      "link": "https://zenn.dev/uhyo/articles/async-react-action-queue",
+      "summary": "useActionStateは、React 19で導入された新しいフックです。\nその挙動を見ると、非同期版useReducerと言えるような挙動をします。\nただ、筆者は最近、このフックの真髄はユーザーの操作を妨げないUXを作ることにあるのではないかと考えています。ReactはUIライブラリであり、そのゴールは「良いUX」であるように思います。\nそこで、この記事では、useActionStateがどのようなUXを実現するのに役立つのか、という観点で解説していきます。\n\n useActionStateのインターフェース\nまずuseActionStateのインターフェースを見ましょう。ドキュメ..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Linuxのディレクトリ配置ルール（FHS）超入門",
+      "link": "https://zenn.dev/juth/articles/9dc12f2621e2c1",
+      "summary": "Linuxサーバーを触っていて、「あれ、PostgreSQLの設定ファイルってどこだっけ？」「アプリのデータってどこに保存されてるの？」と迷ったことはありませんか？\n実は、Linuxの世界には　「どのファイルはどこに配置する」という世界共通の厳格なルール　があります。このルールのことを FHS（Filesystem Hierarchy Standard） と呼びます。\n今回は、初心者向けに「なぜその場所にファイルがあるのか」が直感的にわかるよう、Windowsの概念に例えながら基本のディレクトリ構造をまとめました。\n\n\n 📂 Linux基本ディレクトリ配置ルール一覧\nLinuxサーバーを..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "仕様駆動開発で起こる「仕様とコードのズレ」をハッシュで決定的に検出するツールを作った",
+      "link": "https://zenn.dev/mrmtsntr/articles/artgraph-spec-code-drift",
+      "summary": "はじめに\n仕様・ドキュメント・コード・テストの乖離 (ドリフト) を検出する CLI ツール「artgraph」を作りました。仕様駆動開発 (以後、SDD) を進めていると起こる「コードが変わったのに仕様書が古いまま」、「仕様を変えたのに実装が置き去り」を、LLM に頑張って見つけさせるのではなく、決定的な仕組みで検出します。\n\n仕組みの中心は、Spec Kit や Kiro が仕様書に振るFR-001、### Requirement 1のような要求 ID です。artgraph はこの ID を実装コードやテストの側にもタグとして書き込んで 4 層を紐づけ、それぞれの本文をハッシュ..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "自宅でサーバーを建てたいエンジニアにおすすめの構成",
+      "link": "https://zenn.dev/joeee/articles/048addcc0c2ce6",
+      "summary": "自作サーバー\n自宅で開発する際に使う検証機や、開発の際に使うもの、またはVercelなどのようにホスティングで使えるサーバーです。画像だけアップロードできるようにしておくのも良さそうです。\n\n 開発サーバーの構成\n今回以下のスペックでサーバーを組みました。\n・メモリ32GB(16GB×2)\n・SSD1TB\n・CPUはRyzen5600GT\n・Desk Meet X300のベアボーンキット\n・OSはUbuntu\n\n 安くパーツを揃える\n2026年7月現在はかなり材料が高騰しております。パーツを安く買うには、セール品を狙うか新品にこだわりが無ければ中古品を買うのがおすすめです。SSDなど..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと",
+      "link": "https://zenn.dev/ncdc/articles/6c8eabde83cf0a",
+      "summary": "はじめに\n検索画面のUIを決める会議では、「この条件、とりあえずあいまい検索でお願いします」「並び替えはとりあえず全部入れましょう」といったやりとりがよく発生します。その結果、後からバックエンドで検索速度に困る、という経験を何度かしました。\n私が働いているNCDCでは、PMだけでなくデザイナーやエンジニアも要件定義や基本設計の会議に参加することが多いです。業務システムの画面は、デザイナーさんが作ったFigmaを元にお客さんとUIを決めていくのですが、議論の主体はデザイナーさんで、エンジニアは気になった時だけ発言する、というスタンスが多いかなぁと思います。\n本記事では、業務システムの検..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "tokioからフルスタックWebフレームワークtopcoatが出た",
+      "link": "https://zenn.dev/hiiraginil/articles/9c62603c4b37ed",
+      "summary": "RustのAsync対応ランタイムのtokioから、topcoatなるフルスタックWebフレームワークが新しくリリースされていた。\n!\nこの記事はAIの調査結果を人間が加筆修正・校正しました。\n使用エージェント: Cursor Auto\nプロンプト:\ntokioから新しくリリースされたtopcoatというフレームワークがとても気になる。\nリリース日時を調べ、リリースされた経緯とどのようなライブラリか調査し、既存ライブラリとの違いや強み、tokio本体との親和性を調査したうえでzenn.devで公開可能な記事を執筆してください。\n\n\nhttps://github.com/tokio-rs/..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "ゴールまで自走するだけではない？——ループエンジニアリングの本質はどこにあるのか",
+      "link": "https://zenn.dev/r_kaga/articles/a27a3879dd3ce4",
+      "summary": "ループエンジニアリングという言葉が流行っています。エージェントが人の手を離れて、コーディングから何から最後まで自走する。そういう話として語られることが多い気がします。\nただ、少し引っかかってもいました。それって、昔からあった話じゃなかったっけ?\n一方で最近は、Software Factoryという言葉も聞くようになりました。\nエージェントを都度呼び出すのではなく、仕事が来れば仕組みが起動するようにして、人間は設計者や監督者として関わる。そういう世界観です。\nこの記事では、この引っかかりから出発して、ループエンジニアリングの本質はむしろこのソフトウェアファクトリーが指している側にあるんじゃ..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "1-bit LLM「Bonsai」活用ガイド — 1.15GB で動く 8B モデルをローカルで使い倒す",
+      "link": "https://zenn.dev/tkou15/articles/bonsai-1bit-llm-guide",
+      "summary": "はじめに\n2026年3月31日、Caltech 発のスタートアップ PrismML が 1-bit LLM ファミリー Bonsai を発表しました。8B クラスのモデルがわずか 1.15GB、必要メモリ約 1.5GB で動作し、GPU なしの普通の PC でも実用的な速度で推論できるとして大きな話題になっています。\nBonsai の注目ポイントは次の3つです。\n\n\n真の 1-bit モデル — 量子化ではなく、最初から 1-bit（+1 / -1 のみ）で学習\n\n圧倒的な省フットプリント — 8B モデルで 1.15GB。同クラスの 16-bit モデルの約 1/14\n\nApach..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Hekireki というツールを作りました",
+      "link": "https://zenn.dev/mini_bg_pro_n/articles/d2c5d965ac068a",
+      "summary": "Hekireki\n\nhttps://github.com/nakita628/hekireki\n\n はじめに\n Prismaのスキーマから、ZodやValibotなどのバリデーションスキーマ、Drizzle ORMのテーブル定義、そしてMermaidのER図まで生成するツール、Hekirekiを紹介します。\n 以前、OpenAPI定義からZod OpenAPI Honoのコードを生成するHono Takibiというツールを作りました。Hekirekiは、その「定義ファイルを一次ソースにして、定型コードを自動生成する」という考え方を、今度はデータベーススキーマに適用したものです。\n\n⚠..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "ChatGPTで始める衛星画像処理入門",
+      "link": "https://zenn.dev/syu_tan/books/chatgpt-satellite-image-intro",
+      "summary": "生成AIで対話のみの成果物で知識なしでも JAXA の公式配信経路やSTACからデータを取得し、Google Colab で処理します。\n用意した題材に、生成AIへ任せてよいこと、人間とコードで検証すべきことを整理します。事前データがあるので、衛星画像処理の入門書としても活用できます。"
+    },
+    {
+      "source": "zenn_trend",
+      "title": "codexの独自用語乱立･曖昧問題への対策",
+      "link": "https://zenn.dev/u1/articles/codex-referent-before-label",
+      "summary": "この記事はXの元記事をZenn向けに再掲載したものです。\n\n codexで起きやすい問題\ncodexでよく起きる問題として､言葉の定義を適当にして設計や実装をしてしまう問題があります｡経験上､claudeだと少し起きづらいのですがcodexの場合､5.5のときからも駄目で5.6にしてもやはり継続して起きていて困っていた件への対策です｡\n例えば､調査レポートの一節に「圧縮時点」という見出しがありました。本文を読むと、その語は「会話履歴が設定量に達したこと」「自動要約を始めるしきい値」「実際に要約が始まる時」の三つを行き来していました。\n文章は流暢で、技術的な説明らしく見えます。\nしかし、一..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "ImportLintの紹介: import専門の高速なリンター",
+      "link": "https://zenn.dev/uhyo/articles/import-lint-intro",
+      "summary": "皆さんこんにちは。今回は、筆者が最近Claude Fable 5さんと一緒に開発したImportLintを紹介します。\nhttps://github.com/uhyo/import-lint\n\n eslint-plugin-import-accessを知っている・使っている方向けの概要\nImportLintは、筆者がESLintプラグインとして公開していたeslint-plugin-import-accessを移植し、Rust製の独立したCLIツールとして再実装したものです。eslint-plugin-import-accessの全てのオプションをサポートしており、簡単に移行できます。\n..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Git のマージ方法について改めて整理する",
+      "link": "https://zenn.dev/okuda0715tech/articles/bdab4588d93286",
+      "summary": "Git の Fast-forward・Merge Commit・Squash Merge・Rebase・Interactive Rebase を整理して理解する\nGit を勉強していると、\n\nFast-forward (FF) マージ\n--no-ff\nPull Request\nSquash Merge\nRebase\nInteractive Rebase\nFirst Parent\n\nなど、似たような言葉が次々に登場します。\n私自身、「結局どう違うのか」「どんな場面で使い分けるのか」がなかなか整理できませんでした。\nそこで、本記事ではこれらを一つの流れとして整理します。\n\n\n Git の..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "趣味でサーバを触り始めた人のおうちラボ紹介 基本サービスや構築・管理方法について",
+      "link": "https://zenn.dev/pkkudo/articles/homelab-overview-hlv5",
+      "summary": "キャリアとしてはネットワークインフラやネットワークセキュリティをメインに扱っていますが、「Pythonのスクリプトが書けるようになりたい」「サーバを直接触ってみたい」という思いからおうちラボを始めました。\n振り返ってみると、おうちラボを始めてから10年が経っていました。そこでおうちラボの構築初期にお勧めしたいサービスや、構築や管理方法について少しまとめてシェアしたいと思い、このポストにまとめてみました。\nなお詳細な構築手順や具体的な設定内容を紹介するのではなく、「大まかにどのようなものを用意しているか」「どのように構築・管理しているか」といった内容に留めています。\n具体的には、以下の内容..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "AWSのBilling障害の対応への反省点",
+      "link": "https://zenn.dev/blue_jam/articles/08b31e29699b56",
+      "summary": "7月17日午後5時半頃からAWSのコストが過大に表示されるという障害が発生しています。この問題への自分の対応があまり良くなかったと反省しています。障害対応のだめな例として参考にしていただくために、恥を忍んで公開します。\n\n\n 前提\n\n影響があったのは個人のアカウント（ISUCONに参加するために作り、あとで使うかもと思い放置していた）\nAWSの操作にはあまり慣れていない（とくにIAM周り）\n\n\n 主な反省点\nコストアラートのメールを見た後の自分のとった行動のなかで、よくなかったと思うことは次の点です。\n\n（個人のアカウントの問題とはいえ、AIすら頼らず）1人でパニック状態のまま初動対応を..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "ループエンジニアリングの次は本当に「グラフ」なのか考えてみた",
+      "link": "https://zenn.dev/jodycraft/articles/dfe38e73e1ef8a",
+      "summary": "📋 この記事の前提\n\n前回記事「ループエンジニアリングをGitHub Copilotで組めるか調べてみた」を読んでいると話が早い\n「ハーネスエンジニアリング」「ループエンジニアリング」という言葉を見聞きしたことがある\nこの記事は2026年7月18日時点、生まれて1日も経っていない議論を扱っている。数日後には前提が変わっている可能性がある\n\n\n 結論: グラフは配線図、品質を決めるのは配線の交差点\n先に結論を書く。\n「ループの次はグラフだ」という言い方は、半分正しくて半分は言葉が足りない。グラフは複数のループを束ねる配線図としては確かに上位概念だが、配線をどれだけ賢くしても、各交差点で下す..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "AIでがんがん書く時代の「きれいなコード」の守り方 — ESLint+SonarJS / jscpd / knip をCIに置く",
+      "link": "https://zenn.dev/singularity/articles/clean-code-ci-for-ai-era",
+      "summary": "Claude Code や Codex でコードを書くようになって、開発のボトルネックが変わったな、と感じています。以前は「書く速度」が律速でしたが、今は違う。AI がいくらでも書いてくれるので、詰まるのは書いたコードをきれいなまま保つところです。\nAI は、その場の文脈だけで「それっぽく動くコード」を出します。悪気なく、こういうことをします。\n\n1つの関数に処理を全部詰め込んで、気づけば200行\n型が面倒になると any で流す、変数名が md とか e みたいに短くて意味不明\nすでにある truncate() を知らずにもう一回書く（うちでは同じ関数が6個まで増えました）\n「この機能..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
+      "link": "https://zenn.dev/loglass/articles/6aa18c80496ec6",
+      "summary": "!\nこの記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の152週目の記事です！\n3年間連続達成まで残り7週となりました！\n\nこんにちは、ログラスの松岡(@little_hand_s)です。\n\n\n 3行まとめ\n\n「レビューして」でも指摘は返ってくる。「敵対的検証して」は課題がある前提で反証を試み、判定と根拠まで返してくるのが違い\n敵対的検証はClaude Code公式も推奨するパターン。筆者のClaude Code環境では、一言でサブエージェントによる多視点検証が走った\n指摘は鵜呑みにしない。採否を決めるのは人間。この記事自身も敵対的検証を通して書..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "GitHub Release 作成をパッケージリリースのトリガーにするな！",
+      "link": "https://zenn.dev/yumemi_inc/articles/github-release-not-a-publish-trigger",
+      "summary": "はじめに\nGitHub Actions からパッケージを公開するとき，こんなワークフローを組んでいないでしょうか？\n\nGitHub 上で Release を作成する\n→ on: release: types: [published] でワークフローが起動する\n→ npm publish が走る\n\n操作する側から見ると，非常に分かりやすいですよね。Release を作れば NPM にも公開される。GitHub Release を起点として，その後ろにパッケージレジストリへの publish をぶら下げる構成です。\nところが，2025 年に GitHub の Immutable Rele..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "E2Eテストをユニットテスト並みの実行時間に — Playwright並列化とGitHub Actionsチューニングの実践",
+      "link": "https://zenn.dev/berry_blog/articles/39392e1da7ca71",
+      "summary": "私たちのチームでは、品質管理システム（QMS）SaaS「QMSmart」の開発で、約 100 spec / 140 テストケースの E2E テストを、PR ごとに CI で自動実行し、wall-clock 6〜8 分で完走させる運用が回っています。これはユニットテスト（Vitest）の CI とほぼ同じ所要時間です。\n本記事では、これを実現するために行った\n\n並列実行を前提にした E2E テストの構造設計\nPlaywright workers による並列化\n\nGitHub Actions Runner の設定とチューニング（Kong 502 の根治まで）\nflaky テストを作らないため..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "セキュリティの勉強になるサイト138選(2026年版)",
+      "link": "https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "セキュリティを独学するときに役立つサイトを、Webアプリ・クラウド・CTF・マルウェア解析・資格まで分野ごとにまとめました。ほとんどが無料で、ブラウザだけ、あるいはDockerで自分のマシンに立てればすぐ試せます。\n全部で138本。リンクはすべて2026年7月17日に到達を..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【徹底解説】文系でもわかる！機械学習に入門しよう",
+      "link": "https://qiita.com/miruky/items/42b892805eb1d754109c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこんばんは、元ゴリゴリ文系（ゴリ文）のmirukyです。\n機械学習、と聞くと「うげっ」と拒否反応を示す半年前の自分がいました。大学でCS（コンピューターサイエンス）を専攻している人の領分だという勝手なイメージと、複雑な数式が無限に出てくる先入観があったためです..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "個人開発でApp Storeリリースフローを学ぶ ― UIKit + FastAPI + K8sで作るMinecraftサーバー監視アプリ「MineWatch」",
+      "link": "https://qiita.com/jqit-yukiono/items/d33908602fd060f5e1d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "個人開発でApp Storeリリースフローを学ぶ ― UIKit + FastAPI + K8sで作るMinecraftサーバー監視アプリ「MineWatch」\n自宅や友人と運営しているMinecraft Java Editionサーバーって、遊びたいときに限って落ちてた..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "Jenkins から TestFlight へ ― Mac 1 台で iOS リリースを半自動化した話",
+      "link": "https://qiita.com/jqit-yukiono/items/1ebffa98b9ff2dca7a9b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "Jenkins から TestFlight へ ― Mac 1 台で iOS リリースを半自動化した話\n個人開発の iOS アプリを TestFlight に上げるたびに、xcodebuild archive → ipa 化 → validate → upload を手元..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "白って1600色あんねん！",
+      "link": "https://qiita.com/ishi720/items/3e4597bc50695fa9bf79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n「白って200色あんねん」というアンミカさんが残したミームがありますが、200色って少なくないかと思い、本当に白が200色なのか調べてみることにしました。\n\n200色の白の範囲\nRGBそれぞれを256階調(0~255)とした場合の色の数は、16,777,216 ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【AWS障害】2026年7月16日のCloudFront VPC Origins障害まとめ",
+      "link": "https://qiita.com/eureka_/items/6bb207fa1da4add1f61b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n日本時間2026年7月16日 16:45頃〜21:20頃、Amazon CloudFrontで障害が発生し、日本国内ではPayPay・note・ニコニコ生放送などが影響を受けました。\n影響を受けたのはVPC Originsという機能を使っていた利用者のみになり..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "Raspberry Pi 4 で Home Assistant サーバを構築する",
+      "link": "https://qiita.com/Noritama-Lab/items/2530068f6ab65dce1288?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n以前の記事では、Raspberry Pi 4 を Node-RED サーバとして構築する方法を紹介しました。\n今回はその環境をベースに、Home Assistant をインストールし、IoTデバイスやスマートホーム機器を一元管理できるサーバを構築します。\nHom..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "AWS初心者がSSL証明書の共通鍵、公開鍵、秘密鍵について深堀った話",
+      "link": "https://qiita.com/tks_1128/items/31897213450d6f273f51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこんにちは。Tsukasaです！\n皆さん、データ暗号化はご存知でしょうか？\nITパスポートや基本情報技術者試験を受けたことのある方なら勉強をしたことがあるかもしれません。\n私も軽く勉強をしたことがありますが、よくわかっていません。\n以前HTTP/HTTPS、SS..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "あと10日で攻撃コストが激変する。Kimi K3公開前にやるべきセキュリティ対策",
+      "link": "https://qiita.com/udowanllc/items/9a1c5da9a36b7f74691a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "Kimi K3公開まであと10日。開発者・企業がやるべきセキュリティ対策チェックリスト\n\nはじめに\n2026年7月27日、Moonshot AIの「Kimi K3」のモデル重み（モデル本体）が公開される予定です。総パラメータ数2.8兆、パラメータ数ベースでは世界最大のオ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "WEB開発経験の少ない人が「徳丸本」を情報処理安全確保支援士試験に活用する方法",
+      "link": "https://qiita.com/Masaki-M/items/3031762adaa48f33d8ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "WEB開発経験の少ない人が「徳丸本」を情報処理安全確保支援士試験に活用する方法\n\nはじめに\n情報処理安全確保支援士試験では、Webアプリケーションの脆弱性に関する問題が繰り返し出題されます。\n対策としてよく紹介される書籍が、いわゆる「徳丸本」です。\n\n『体系的に学ぶ 安全..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "初心者でもわかる！ Python で学ぶマクロ経済学入門 全100回 総復習",
+      "link": "https://qiita.com/maskot1977/items/02357fd5b91be7b806cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "user:\n「Pythonで学ぶ マクロ経済学入門」も 100回目まで連載しました。ここでまた、これまでの内容の振り返りをしたいと思います。今回はClaude Codeさん、Geminiさん、ChatGPTさんにお願いしました。\n\nClaude Code:\n\nPython..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【Bedrock】Amazon Bedrock Mantleとは？",
+      "link": "https://qiita.com/ryu-ki/items/17fa3462d4c619e4fea5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n2025 年 12 月、Amazon Bedrock に Mantle という新しい推論エンジンが追加されました。re:Invent 2025 のキーノート（Infrastructure Innovations with Peter DeSantis and D..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "E2Eテストを保守できる形にするPage Object Model",
+      "link": "https://qiita.com/ryucciarati/items/27cfabcf398c5e40d785?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n手動で確認している画面操作をPlaywrightで書けば、E2Eテスト自体は作れます。\nただ、操作手順をそのままコードにすると、画面変更のたびに多くのテストを直すことになります。\nこの記事では、E2Eテストを継続して運用するための基本構造として、Page Obj..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【個人開発】マルチレポでnoteクリエイター向け統計ダッシュボードを作ってみた【React / Hono / Chrome拡張】",
+      "link": "https://qiita.com/natsugure/items/e12091867becb931bce0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n私は以前ブログサービスのnoteで記事を書いていたのですが、note公式で実装されているクリエイター向け統計画面（ダッシュボード）には「固定された期間の数字しか見られない」「記事を横断して推移を見られない」という不満をずっと感じていました。\n「これ、自分で作った..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "Webエンジニアだった私がAIエンジニアになるためにやったこと",
+      "link": "https://qiita.com/keisuke_fukuchi/items/c7ab9d18084b90686612?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこんにちは、株式会社estraでエンジニアをしています。福地です。\n「AIエンジニア」という言葉、めちゃくちゃホットで最近よく聞きますが、範囲が広すぎて何から手を付ければいいか分からなくないですかね？\n私は普通のバックエンドエンジニアでしたが、LLMを利用するよ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【個人開発】セルフネイルのネイルレシピアプリを開発しました！（React/Supabase/PWA）",
+      "link": "https://qiita.com/potato11/items/6f010e9bd4d74f88c855?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n最近セルフネイルを始めたのですが、ショート動画を見て「このデザインを真似したい！」と思っても、使用しているネイル用品が動画内に散らばっていたり、そもそも何のアイテムを使っているのか紹介されていなかったりすることがあります。\nそこで、ネイルデザインだけでなく「使用..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "SSL/TLS証明書って何？なぜ必要で、誰が発行して誰が使うのかを整理する",
+      "link": "https://qiita.com/mame_hiro416/items/dc7a18f58eb5a2c8a6e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nサーバーをHTTPSで公開しようとすると必ず出てくるのが「証明書」です。ブラウザで鍵マークが表示されるあの仕組みですが、「なぜ必要なのか」「誰が発行しているのか」「誰が何のために使うのか」を順を追って説明できる人は意外と少ないのではないでしょうか。\n本記事では、..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "AIの推進がうまくいかない組織アンチパターン",
+      "link": "https://qiita.com/jw-automation/items/7a2f85593a2e2ba71306?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nOpenAIによるChatGPTの公開から、早くも3年以上の月日が経ちました。\n企業における生成AI活用は、2023〜2024年の試験導入のフェーズを経て、2025〜2026年にかけて、本格的な業務適用のフェーズへと移りつつあります。\n特に2025年末のコーディ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "技術記事は、公開した瞬間から腐りはじめる",
+      "link": "https://qiita.com/happy_engineer/items/117b43dd0f4d177836d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "ある日、自分の記事に裏切られた\n数年前に自分が書いた記事を、後輩に紹介したことがある。「これ読めば環境構築できるよ」と。\n数時間後、後輩から連絡が来た。「手順通りにやったんですが、エラーになります」。\n見てみると、記事中で使っていたライブラリがメジャーバージョンアップして..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【AWS CDK】Expressモードでリソースデプロイが最大4倍速くなるらしいので試してみた",
+      "link": "https://qiita.com/yosuke-suzuki/items/e6c26b70749abb48df09?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n2026年6月30日のアップデートで、CloudFormation/CDK/SAMにExpressモードが追加されました。\n\nリソースの安定化を待たずにスタック操作を完了扱いにするモードで、内部ベンチマークでは最大4倍速くなるとのことです。コードの改修などは..."
+    }
+  ]
+}
