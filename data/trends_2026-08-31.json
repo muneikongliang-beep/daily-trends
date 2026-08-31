@@ -1,0 +1,486 @@
+{
+  "date": "2026-08-31",
+  "collected_at": "2026-08-31T00:12:19.976403",
+  "items": [
+    {
+      "source": "hatena_hotentry",
+      "title": "データマネジメント研修（デジタル庁）",
+      "link": "https://speakerdeck.com/haseryo/datamanagementkenshu-digital-agency-japan",
+      "summary": "データマネジメントについてデジタル庁で研修する機会がありました。 外部公開用に内容を調整した資料を公開します。 データマネジメント is 何？という初学者向けに、概念とわかりやすさ優先で伝える資料となっています。 民間でもデータマネジメントについて知りたい人の入り口用としてご活用ください。 …"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "「なぜ世界は日本のようになれないのか」不合理すぎる”海外の靴のサイズ表記”に対する海外の反応",
+      "link": "https://kaikore.blogspot.com/2026/08/blog-post_30.html",
+      "summary": "8月 2026 (23) 7月 2026 (23) 6月 2026 (26) 5月 2026 (24) 4月 2026 (25) 3月 2026 (26) 2月 2026 (20) 1月 2026 (20) 12月 2025 (22) 11月 2025 (23) 10月 2025 (31) 9月 2025 (24) 8月 2025 (24) 7月 2025 (22) 6月 2025 (22) 5月 2025 (23) 4月 2025 (20) 3月 2025 (21) 2月 2025 (22) 1月 2025 (23) 12月 2024 (24)..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "「つまらない＝not for you」",
+      "link": "https://anond.hatelabo.jp/20260830201649",
+      "summary": "まではまあいいよ どんな作品でも、世界中を探せば気に入る人はほぼ必ずいるだろうし、 その意味ではあらゆるつまらなかった作品はnot for meだったということでしかないよ でも、 「not for youなんだから無言で離れるべき」 は一体なんなんだよ。どういう根拠で押し付けられるルール？なんだよ 自分にとってどうnot fo..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "「残業203時間」「1人で11億円送金」──はてな事件報告書が暴いた“経営の無関心”",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/31/news043.html",
+      "summary": "レイザー代表取締役／RCIJ代表理事 コミュニケーション戦略アドバイザーとしてPR戦略の企画から危機管理広報まで、企業・行政のブランド価値向上を包括的に支援。 日本において唯一、コミュニケーション戦略におけるリスク管理に特化したカリキュラムを展開する日本リスクコミュニケーション協会（RCIJ）を2020年に設立..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "『アメトーーク！』東京吉本の特集が放送された後、芸人がまとまらなかった理由に様々な反応が集まるが、軍団山本のエピソードを聞くと、彼らが怖かったからではないか？",
+      "link": "https://togetter.com/li/2739331",
+      "summary": "『アメトーーク！』東京吉本の特集が放送された後、芸人がまとまらなかった理由に様々な反応が集まるが、軍団山本のエピソードを聞くと、彼らが怖かったからではないか？"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "同志社国際高「今年度の沖縄研修旅行を中止」「引率教員ら配置換え」…辺野古転覆受け保護者に説明",
+      "link": "https://www.yomiuri.co.jp/national/20260831-GYT1T00006/",
+      "summary": "【読売新聞】　沖縄県名護市辺野古沖で３月、研修旅行中だった同志社国際高（京都府京田辺市）の女子生徒ら２人が死亡した小型船転覆事故を巡り、同高は３０日夜、校長の交代に伴う保護者説明会を開き、西田喜久夫校長の解任や、今年度の沖縄での研修"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "あんま頭良くないのに小説を月に何十冊も読んでる人とか、あんま頭良くな..",
+      "link": "https://anond.hatelabo.jp/20260830184415",
+      "summary": "あんま頭良くないのに小説を月に何十冊も読んでる人とか、あんま頭良くないのに岩波の哲学の古典読みまくってる人のこと、全く理解できない　あいつらって何？　なんかキモくね？　実は頭良いってこと？特に岩波なんてそんなに多くの人が手にとれるような生易しい難易度なわけがないと思うし、にも関わらず出版されすぎ..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "nginxで502が稀に発生する原因はkeepalive接続",
+      "link": "https://zenn.dev/shinagawa_web/articles/transient-502-keepalive-reuse",
+      "summary": "監視アラートが上がる。確認しに行くと502 Bad Gatewayが数件出て、すでに回復している。nginx をリバースプロキシに置いている構成で、同じエンドポイントをリトライすると通る。バックエンドのログには何も出ていない。 nginx の error log には、次の2つの文字列のどちらかが残っている。 upstream prematurely close..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "哲学の勉強：短答問題で知識を整理しよう｜ながと",
+      "link": "https://note.com/nagatonikki/n/n7f8fa7c2cf95",
+      "summary": "哲学や倫理学を独学したい人が「何を読めばいいですか」とアドバイスを求めていることをSNSなどでよく目にします。実際、そういう質問に答えるためのブックリストはいくつも出回っていますし、私自身、そういうものを作ったことがあります。最近は総論だけでなく個別の話題・哲学者に関するものも含めて質の高い入門書が..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "そりゃ国鉄の二の舞いだ…北陸新幹線5兆円超、JR「75％負担案」も浮上する危うい現実",
+      "link": "https://diamond.jp/articles/-/397962",
+      "summary": "北陸新幹線の敦賀―新大阪間で、「小浜・京都ルート桂川案」の決定を受け、2027年度の着工に向けた動きが始まった。しかし、最大5兆円超と見込まれる建設費を誰が負担するのかという根本問題は、いまだ解決していない。JR西日本に巨額の負担を求めれば、「第2の国鉄」を生まないという整備新幹線の大前提そのものが崩れか..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "面接官「採用して失敗するパターンがこれ。絶対メーカーに来たらダメな人材」",
+      "link": "https://posfie.com/@truejapantimes/p/OB9Lt5e",
+      "summary": "大和守🇯🇵🐷🌅 @yamatotake66011 @keru_career これからワラワラ増える女子枠()とかこんなんばっかやろ。しかもそいつらが女性管理職()とかなり出したらもう終わりやぞ。 2026-08-28 07:12:56 栗賀 智史｜採用を科学するコネクトグループ代表 @nyVhpNSghrQ78ee この退職理由、めちゃくちゃリアルですね。 結局これって求..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "大義のないはずのロシアになんとなく肩入れしてしまう日本人の心理",
+      "link": "https://anond.hatelabo.jp/20220319195550",
+      "summary": "自由と民主主義を謳歌しているはずの日本人にもどこか権威主義をあがめる気持ちがあって、 ユーラシア大陸東側のロシア、中国といった権威主義大国に巻かれたいという気持ちがあるんだと思うよ。 元々忖度大好きだし、今ですら大日本帝国に自らのアイデンティティーを重ねる人も少なくないようだし。 まあ、日米同盟の保..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "読売テレビが子ども相手に竹田恒泰の「フェイク皇室史」と「女性天皇否定」を一方的に刷り込む偏向番組を放送！ - 本と雑誌のニュースサイト／リテラ",
+      "link": "https://lite-ra.com/2026/08/post-6401.html",
+      "summary": "読売テレビが子ども相手に竹田恒泰の「フェイク皇室史」と「女性天皇否定」を一方的に刷り込む偏向番組を放送！ 国民の多くが支持している女性天皇論を完全無視し、国民の理解が得られていない「旧宮家の男系男子養子案」を高市政権が数の力で押し切った皇室典範改正。いまだ多くの国民が反対の声をあげているのはもちろ..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "猫の首輪が薄汚れていたので、取り替えようとしたら「解雇っスか⁉️」と言わんばかりに慌て始めて可哀想だけど可愛い",
+      "link": "https://togetter.com/li/2739215",
+      "summary": "猫の首輪が薄汚れていたので、取り替えようとしたら「解雇っスか⁉️」と言わんばかりに慌て始めて可哀想だけど可愛い"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "町山智浩さんがゆたぼんを攻撃「親の犠牲者」「学校に行ってないお父さんが教えたんじゃ反知性の連鎖」",
+      "link": "https://posfie.com/@Elif87995911/p/GsL8E8I",
+      "summary": "冒険家ゆたぼん(17)@覚醒モード @yutabon_youtube 日本に来て、日本のルールを守れない外国人とは共生できません。問題はそれだけではありません。日本に来て、ちゃんと日本のルールを守って、日本の文化を尊重してくれている外国人にも迷惑がかかります。だから僕は声を上げているのに、「ルールを守らない外国人を庇っ..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "紛糾４時間の保護者説明会…質疑応答なしの動きに「向き合う姿勢感じず」　同志社国際高",
+      "link": "https://www.sankei.com/article/20260831-YYK4K3G5XJPIDOW3K6TXICFTBM/",
+      "summary": "沖縄県名護市辺野古沖で船2隻が転覆し、同志社国際高校（京都府京田辺市）2年の武石知華（ともか）さん（17）ら2人が死亡した事故を巡り、同校は30日、市内の関連施設で保護者説明会を開いた。2学期以降の学校運営や校外学習における事故の再発防止策について説明したが、出席した保護者らによると、学校側が質疑応答を..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "郵便不正の情報開示「ほとぼりさめさせる」　総務省の業務チャットに：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASV8Z36QMV8ZUTIL030M.html",
+      "summary": "その書き込みがされたのは2025年10月2日。日本郵便の問題を取材する朝日新聞記者が、同社を監督する総務省に情報開示請求し、受理された直後だった。　「『A社』から開示請求が来ました」。1人が報告する…"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "「世帯収入が低い人ほど独身」の傾向は個人主義的な国で強いとの研究結果",
+      "link": "https://gigazine.net/news/20260831-income-individualism-singlehood/",
+      "summary": "独身であるかどうかには、その人の年齢や収入だけでなく暮らしている国の文化も関係している可能性があります。ポーランドのヴロツワフ大学とアダム・ミツキェヴィチ大学の研究チームが59カ国の7万1169人分のデータを調べたところ、世帯収入と独身であるかどうかの関係はその国が個人主義的か集団主義的かによって異なる..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中",
+      "link": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
+      "summary": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中 JetBrainsは、ローカルで動作するAIコーディングエージェント「Junie Local」の提供開始を発表しました。 Junie Localはその名称の通り完全にローカルマシン上で動作し、API使用料やモ..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "同志社国際高校、今年度の沖縄研修旅行を中止　保護者説明会で説明：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASV8Z4V5DV8ZOXIE01BM.html",
+      "summary": "沖縄県名護市辺野古沖で小型船が転覆し、研修旅行の平和学習中だった同志社国際高校（京都府）の女子生徒と船長が死亡した事故で、同校は30日夜、保護者説明会を開いた。出席者によると、31日付での解任が決ま…"
+    },
+    {
+      "source": "hatena_it",
+      "title": "nginxで502が稀に発生する原因はkeepalive接続",
+      "link": "https://zenn.dev/shinagawa_web/articles/transient-502-keepalive-reuse",
+      "summary": "監視アラートが上がる。確認しに行くと502 Bad Gatewayが数件出て、すでに回復している。nginx をリバースプロキシに置いている構成で、同じエンドポイントをリトライすると通る。バックエンドのログには何も出ていない。 nginx の error log には、次の2つの文字列のどちらかが残っている。 upstream prematurely close..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "「旅する人は全員Vlogを撮ったらいい」AI時代ほど“自分が本当にそこにいた記録”の価値が上がる→アクションカメラやスマートグラスで未来の自分に一次資料を残そう",
+      "link": "https://togetter.com/li/2738057",
+      "summary": "さとうしょうすけ @shosuke_sato 旅する人は全員Vlogを撮ったらいいのに、と思っています。 別にYouTuberになる必要はないし、誰かに見せる必要もないです。 でも、今日歩いた街とか、食べたものとか、出会った人とか、そのとき考えていたことって、たぶん10年後にはほとんど忘れてしまう。 写真は撮るけど、そのとき自..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "参議院のホームページがデザインリニューアルされたが、AIで丸ごと作ったか？という出来栄えで困惑する→落札価格が30万を切っている案件だった",
+      "link": "https://togetter.com/li/2739144",
+      "summary": "参議院審議中継 @sangiinwebtv 参議院ホームページ(sangiin.go.jp)のデザインリニューアルを実施しました。 平成21年以来となる17年ぶりのデザインの刷新により、視認性・操作性を向上させ、利用者が目的の情報にたどり着きやすいホームページといたしました。 併せて、国会議事堂内を360 度の映像で体感できる「バーチ..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中",
+      "link": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
+      "summary": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中 JetBrainsは、ローカルで動作するAIコーディングエージェント「Junie Local」の提供開始を発表しました。 Junie Localはその名称の通り完全にローカルマシン上で動作し、API使用料やモ..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
+      "summary": "【ニューヨーク＝木瀬武】ソニーグループ傘下の音楽出版大手など３５社は、数万曲の歌詞を無断で生成ＡＩ（人工知能）の学習に利用した行為などが著作権侵害にあたるとして、米ＡＩ開発企業アンソロピックと同社のダリオ・アモデイ最高経営責任者（ＣＥＯ）ら創業者２人を米カリフォルニア州の連邦地方裁判所に提訴した..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "【独自】Jアラート「偽の警報可能」　専門家、発信元保証なし",
+      "link": "https://www.47news.jp/14868281.html",
+      "summary": "弾道ミサイル発射や緊急地震速報などの緊急情報を全国の自治体に送信する全国瞬時警報システム（Jアラート）で、人工衛星を経由して送信されるデータの暗号化や発信元を保証する機能がないことが30日、専門家への取材で分かった。総務省関係者も認めた。専門家は「第三者が成り済まして偽の警報を送信することが可能」と..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "ガチ中華の名店「味坊」が茨城になぜか「町中華」、料理人不足解決へロボットシェフ導入 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
+      "link": "https://36kr.jp/500714/",
+      "summary": "茨城県守谷市の国道294号線沿いに今月6日にオープンした「町中華 炒炒」。見た目はよくある中華料理店だが、実はこの店、都内を中心にラム肉を使ったガチ中華を提供する人気チェーン「味坊集団」の新店舗であり、自動調理マシンのロボットが炒め物を作る「ロボット料理店」でもある。ロボットでなぜ町中華なのか味坊集団..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "TypeScript ライブラリとして動作する組版エンジン minitype を公開しました",
+      "link": "https://zenn.dev/inaniwaudon/articles/62f1def4bad627",
+      "summary": "2025 年度下期未踏アドバンスト事業[1]にて開発してきた，TypeScript ライブラリとして動作する組版エンジン minitype を公開しました！ 従来は独立したシステムや専用言語として提供されることの多かった組版処理をライブラリとして提供することにより，LLM や外部アプリケーションを含む，様々な文書生成に活用される..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "「AIに意識はあるのか？」という疑問に対するGoogle研究者の見解",
+      "link": "https://gigazine.net/news/20260830-ai-consciousness-backwards/",
+      "summary": "AIの性能が向上するにつれて、「AIは意識を持つか」についての議論が活発になっています。イギリスの経済誌「The Economist」は、Googleのテクノロジー・社会担当副社長でありAI研究チームを率いるブレイズ・アグエラ・イ・アルカス氏、およびフロリダ・アトランティック大学の教授を務めるスーザン・シュナイダー氏によ..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "AIに機密情報を渡してよいか、判断の軸を自分なりに整理してみた - $shibayu36->blog;",
+      "link": "https://blog.shibayu36.org/entry/2026/08/30/173000",
+      "summary": "社内業務でAIを使うとき、機密情報をAIに渡してよいか判断に迷うことが多い。世の中では「個人情報だからAI禁止」「学習OFFだから安全」のような単純な線引きも見かけるが、これでは安全側に倒しすぎて活用が進まなかったり、逆に思わぬ穴があったりして違和感があった。 そこで自分なりに判断の軸を整理し、「許可して..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "RTX 4070 TiからRadeon AI PRO R9700へ。32GB VRAMでローカルLLMベンチの値はどう変わったか？ - uepon日々の備忘録",
+      "link": "https://uepon.hatenadiary.com/entry/2026/08/29/001732",
+      "summary": "以前、RTX 4070 Ti(12GB)でローカルLLMのベンチマーク定番セットを確立し、12GB VRAMの現在地を記録しました。 uepon.hatenadiary.com そして、前回はGPUをXFX Radeon AI PRO R9700 (32GB)に差し替えました。換装作業そのものは別記事にまとめています。 uepon.hatenadiary.com 今回は、換装後のマシンで前回と同一のマ..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "Your monitor has two types of ports, but only one unlocks its full potential",
+      "link": "https://www.makeuseof.com/your-monitor-has-two-types-of-ports/",
+      "summary": "With legacy standards such as VGA and DVI phased out, the two display connectors you're likely to find on the back of a computer monitor are HDMI and DisplayPort. Early on, if I used a monitor with both HDMI and DisplayPort, I'd plug my computer or laptop into the HDMI port. I had a handful of HD..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
+      "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
+      "summary": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加 米OpenAIは8月26日（現地時間）、7月に発覚したHugging Faceへの侵害インシデントに関する37ページの技術報告書を公開した。同日、第三者調査を担当した米METRも独自の報告書（97ページ）を公開し..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "ターミナルから Backlog を操作できる CLI「bee」を公開しました | 株式会社ヌーラボ(Nulab inc.)",
+      "link": "https://nulab.com/ja/blog/nulab/released-backlog-cli-bee/",
+      "summary": "この記事は ヌーラボブログリレー2026夏 の7日目 Part 1 として投稿しています。 Part 2 → GitHub Actions で Backlog 課題と GitHub プルリクエストを連動させる こんにちは。Backlog Unit の simochee @lollipop_onl です。 Backlog をターミナルから操作できる CLI「bee」を公開しました。 GitHub – nulab/bee: Comma..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "AIお姉ちゃんへの道（2026年版） - nomolkのブログ",
+      "link": "https://nomolk.hatenablog.com/entry/2026/08/30/145025",
+      "summary": "AIお姉ちゃんというのは2023年に骨しゃぶり氏によって提唱された、ChatGPTに顔画像をつけてカスタム指示で人格も指定することで、お姉ちゃん化するカスタマイズのことである。 honeshabri.hatenablog.com 当時自分もやってみたくなって真似してみたら意外に大変だったという記事を書いた。 nomolk.hatenablog.com 自分の..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "「FANZAスタジオ」爆誕へ　成人向けAIマンガに違和感を覚えるマンガ家も期待する部分とは？",
+      "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000911/",
+      "summary": "8月24日から、成人向けECサイトである「FANZA」で独自の新サービス「FANZAスタジオ」の先行体験がスタートしました。生成AIを使って成人向け作品を作り、公開することができ、そうした作品を求めるファンとのコミュニケーションの場にもなるといいます。 FANZAスタジオで作品を作る際には、複数の生成AIモデルを、いちい..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴",
+      "link": "https://www.yomiuri.co.jp/world/20260830-GYT1T00119/",
+      "summary": "【読売新聞】　【ニューヨーク＝木瀬武】ソニーグループ傘下の音楽出版大手など３５社は、数万曲の歌詞を無断で生成ＡＩ（人工知能）の学習に利用した行為などが著作権侵害にあたるとして、米ＡＩ開発企業アンソロピックと同社のダリオ・アモデイ最高"
+    },
+    {
+      "source": "hatena_it",
+      "title": "IAM Policy Autopilot 0.3.0 でサポートされた「Terraform の plan 結果からの IAM ポリシー生成」を試す - kakakakakku blog",
+      "link": "https://kakakakakku.hatenablog.com/entry/2026/08/27/130630",
+      "summary": "はじめに 2026年8月18日に「IAM Policy Autopilot」で Terraform の plan 結果から IAM ポリシーを生成できるようになったというアップデートがリリースされていた💡 aws.amazon.com IAM Policy Autopilot は awslabs で公開されているツールで CLI と MCP サーバーとして使える．今回の機能は IAM Policy Autopilot 0.3..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "LINEヤフー、全社横断でAIエージェント量産体制　カレンダーなど新「Agent i」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2136632.html",
+      "summary": ""
+    },
+    {
+      "source": "hatena_it",
+      "title": "12のマスで考えるイノベーションの戦い方と時間軸 - 🐴 (馬)",
+      "link": "https://blog.takaumada.com/entry/12-innovation-time",
+      "summary": "ガソリン自動車の原型を作ったのは、1886年のドイツのベンツでした。それを移動式組立ラインによる大量生産へ持ち込んだのは、米国のフォードです。戦後には、日本の自動車企業が生産方式と品質管理を磨き、価格と信頼性を改善して世界市場で大きな地位を築きました。 新しい製品原理を成立させること、大量生産の仕組み..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "自作npmパッケージにマルウェアを公開されたときにやったこと",
+      "link": "https://zenn.dev/7nohe/articles/npm-malware-incident-response",
+      "summary": "はじめに\n2026年8月29日の早朝、私が管理しているリリースワークフローの不備を突かれ、npmパッケージ@7nohe/openapi-react-query-codegenに悪意あるバージョンが10個公開されました。\nいわゆるサプライチェーン攻撃で、インストールした時点で攻撃者のコードが実行されます。\nこの期間にインストールしてしまった方には、お詫び申し上げます。\n該当する場合は、そのマシンやCIランナーから到達できる認証情報（npm・GitHubのトークン、SSH鍵、クラウドのアクセスキー、環境変数のシークレット）をすべてローテーションすることを強くお勧めします。\n今回のペイロー..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "SPFとDKIMとDMARCの役割の違いを整理する",
+      "link": "https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles",
+      "summary": "Introduction\n「独自ドメインからメールを送りたい」と思ったとき、SPF・DKIM・DMARCという3つの単語に出会うことがあります。どれも「なりすましメール対策」の文脈で出てきますが、名前が似ているうえに設定もDNSレコードとして書くため、最初は「結局どれが何をしているのか」が非常に分かりにくいです。\nこの記事では、この3つがそれぞれ何を保証していて、なぜ1つではなく3つ揃って初めて意味を持つのかを整理します。前提知識として、DNSにレコードを追加した経験（TXTレコードとは何か程度）があると読みやすいですが、必須ではありません。\n\n 一言でいうと\n\n\nSPF：「このドメ..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
+      "link": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
+      "summary": "はじめに\n株式会社FAcraftの山本です。\nFAcraftは、大手製造業向けのSaaSを開発・運用している小規模なスタートアップです。サービス基盤の一つとして、AWSを利用しています。\nSaaSを提供する以上、しっかりとしたセキュリティ対策を行うことは当然ですが、大手製造業向けにサービスを提供していると、顧客からも具体的で高い水準のセキュリティ要件を求められることが珍しくありません。\nFAcraftでも、少人数のスタートアップとしてはなかなか重いと思えるようなセキュリティ構成をAWS上に構築しています。\nこの記事では、その全体像と、それぞれの仕組みをどのような意図で取り入れているの..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "GPUを燃やさないために - RTX 5090にパワーリミットをかけると、性能はどれだけ落ち、どれだけ冷えるのか -",
+      "link": "https://zenn.dev/holy_fox/articles/572083c130ce46",
+      "summary": "みなさん、GPUを燃やしていますか？\n\nもちろん「研究や開発でGPUを燃やすほど使い倒している」という意味なら、多くの方はイエスでしょう。でも本記事で聞きたいのは、もう少し物理的な意味です。最近のGPU、めちゃくちゃ消費電力が高くて、めちゃくちゃ熱いですよね。RTX 5090の定格は575W。ヒーター並みの熱を部屋内にまき散らしながら働いているわけで、これは良くありません。（とにかく暑い！）\n熱はGPUの敵です。半導体の劣化を速め、電源回路やコネクタにも負担をかけます。それでいて最近のGPUは本当に高い。数十万円もするGPUを高温にさらし続けるのは忍びないし（物理的に）燃やしたくはない。..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
+      "link": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
+      "summary": "概要\n半年前に以下の記事を書きました。\nhttps://zenn.dev/avaintelligence/articles/debt-free-ai-coding-practices\n基本的に前回の流れとそこまで変わってないですが一部で新しいスキルを導入したり、新しいツールを導入したりしているのでもう一度記事を書くことにしました。\n\n 対象読者\nこの記事の対象読者は普段の開発業務でAIコーディングツールを活用しているエンジニアです。\nClaude CodeやCodex CLIを使っている方のほうが理解しやすい内容になっています。\n\n AIに丸投げすると何が起きるのか？\nAIに開発を丸..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "「Enterで送信」は滅びよ ~ IME誤爆に疲れたので、チャットの送信に修飾キーを必須にした ~",
+      "link": "https://zenn.dev/safie_inc/articles/ee72b837e4a5f1",
+      "summary": "みなさんこんにちは。セーフィーで認証基盤まわりを担当しています、中（なか）です。最近は Claude Code に設計や実装を相談することが多く、プロンプトを毎日大量に打っています。\n\n 書きかけのプロンプトが、AI に向かって飛んでいく\nある日のことです。Claude Code に長めの文章をコピペして、改行を入れてから「これを要約して」と続けるつもりでした。ところが改行のつもりで押した Enter で、貼り付けただけの文章がそのまま送信されてしまいました。指示のない文章を渡された Claude は律儀に解釈を始めます。私はあわててそれを止め、改めて指示を書いて、もう一度送りました。無..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "肥大化し続けるCLAUDE.md",
+      "link": "https://zenn.dev/tokium_dev/articles/claude-md-keeps-growing",
+      "summary": "はじめに\nTOKIUM でエンジニアをしているちっちです。26卒として入社し、現在は2ヶ月の研修を経て開発に取り組んでいます。\n突然ですが、今お使いのCLAUDE.mdは何行ありますか？\n以前、中身を整理した方も気づくと膨れ上がっていませんか？\nかくいう自分も研修を終えて数週間後、ふとCLAUDE.mdを開いてみると378行ありました。しかも、そこに書いてあることを自分でも半分くらい覚えていません。\n書き足すたびに便利にしているつもりが、実際にやっていたのは自分でも把握できていないものを Claude に毎回読ませることでした。\n\n 整理しても、静かに崩れていく\n公式ドキュメントには..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "MacBook Pro 128GB でローカル LLM がついに実用になった ─ Qwen3.8 Flash Next 実測",
+      "link": "https://zenn.dev/jtechjapan_pub/articles/local-llm-qwen-flash-next-eval",
+      "summary": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\n昨年 MacBook Pro を買うときに、ローカルの AI が開発に使えたらいいなと思って、奮発して 128GB のモデルにしました。それから時々、開発にしっかり使えるレベルになっているかを確かめるためにいろいろなモデルを試してきたのですが、サブスクでやっている作業を置き換えられるものには当たりませんでした。35B や 27B のような小さいモデルか、逆に 256GB ないと動かない大きなモデルが多く、80GB から 100GB のあたりで能力の高いものがなかなか見つかりません。そこに Qwen3.8 Flash N..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "RTX 5090 + RAM 128GBでQwen3.8-Flash-Nextをllama.cppで動かしてみた",
+      "link": "https://zenn.dev/holy_fox/articles/04887ff8177b87",
+      "summary": "検証日：2026年8月27日\nQwen3.8-Flash-Nextは125B規模のMoEモデルですが、RTX 5090 32GBとRAM 128GBの1台構成でも動作しました。\nUnslothのUD-Q2_K_XL量子化とQwen3.8-Flash-Next対応版のllama.cppを使い、64kコンテキストで設定を詰めた結果、短文生成で約48.0 tokens/s、約16kトークンの入力後でも43.3 tokens/sを記録しました。prefillは約1,429 tokens/s、約16kトークン入力時のTTFT（最初のトークンが返るまでの時間）は約11秒です。\nこの記事ではモデルの出..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Claude Code の承認待ちを見逃さないために、光る Clawd を机に置いた",
+      "link": "https://zenn.dev/lincwell_inc/articles/79092d88245748",
+      "summary": "!\n本記事で紹介するのは業務外で作った個人プロジェクトです。Anthropic 非公式の\nファンプロジェクトであり、Anthropic とは無関係です。\n\n\n 15 分間、Claude Code は私を待っていた\nClaude Code にタスクを投げて別の作業に移り、戻ってきたら権限確認ダイアログで止まったまま 15 分経っていた——これを何度もやりました。ターミナルのベルもデスクトップ通知も、自分には定着しませんでした。\n通知は「見に行くもの」で、気づけないときは結局気づけない。\nそこで、状態そのものを机の上に置くことにしました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nM5Atom Lite(..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "ローカル AWS エミュレータで Terraform を検証する",
+      "link": "https://zenn.dev/edash_tech_blog/articles/0ea5ab1ef9a751",
+      "summary": "はじめに\nZenn 読者のみなさん、こんにちは。e-dash VPoE の伊藤です。\ne-dash ではアプリケーションインフラとして多くのプロダクトで AWS を採用しており、IaC として Terraform でインフラリソースを全面的に管理しています。\n最近はインフラ構築・運用も全面的に AI にお任せするようになってきました。AI 登場前はあまり気にならなかったのですが、インフラも AI に任せるようになったことで、ローカルで迅速にフィードバックループが回せる環境がほしくなってきました。\n今回は、Terraform から使えるローカル AWS エミュレータを取り上げ、何が評価..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "並行開発に Orca がめちゃ便利",
+      "link": "https://zenn.dev/rhosokawa/articles/d0a958c17c2820",
+      "summary": "Orca という並行開発前提のエディタ（正確には Agent IDE　と言うらしい）があります。\nhttps://www.onorca.dev/\n元々1年ほど前は VSCode や Cursor を使ってその中でたくさんターミナルを生やし、その後は cmux や Superset などを活用しておりました。\nしかし最近 Orca に乗り換えて感動した&amp;全人類これ使ったほうが幸せになりそうなので共有です。\n\n 前置き\nOrca などの並行開発エディタ改め Agent IDE は当然ながら AI を複数並行して開発するのに便利です。その代わり個々のファイル編集や閲覧の機能は最低限にな..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "ローカルでの開発やめませんか？Claude Code / Cursorで開発の8割をクラウドに移した話",
+      "link": "https://zenn.dev/sc30gsw/articles/953334f11df507",
+      "summary": "はじめに\n退勤直前にタスクを投げ、PCを閉じて帰る。寝ている間にテスト、AIによるレビュー修正まで回ってPRが上がってくる。翌朝、上がってきたPRをレビューする。\nこれは現在の私の開発の実情です。私がここでやることは2つだけで、止まったエージェントを起こすことと、承認が必要なものの確認・許可をすることだけです。\nこれは何も私に限った話ではないと感じてます。\n実際クラウドエージェントでの開発は海外では当たり前になりつつあるように思います。grill-meで知られるMatt Pocockさんは、「ローカルの開発環境から離れつつある」とポストしていました。\nhttps://x.com/ma..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "メッシュグラデーションをSVGで「真面目に」近似する",
+      "link": "https://zenn.dev/yayo1/articles/ffd14050214f52",
+      "summary": "これはGoogle Summer of Code 2026にて、Graphiteのコントリビューターとして取り組んだうちの一部、メッシュグラデーションの実装実験より得た知見をまとめた記事です。インタラクティブデモを用意しているので、以下のリンクからどうぞ。\nhttps://yayo1.com/demo/mesh-gradient-in-svg-1.1/\n!\nSafariでは想定した通りに動かない可能性があるので、できればChromium系ブラウザから見てください。実装の最中にfeDisplacementMapにCoreImage移植が原因と思われるリグレッションが発生し、新しいSafar..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた",
+      "link": "https://zenn.dev/layerx/articles/e01465a15e79c2",
+      "summary": "こんにちは。アカウント基盤開発部でエンジニアをしている tkmt (たくまつ) です。\n今回は、IETF で標準化が進んでいる Transaction Tokens について調査してまとめてみました。というのも、この Transaction Tokens が解こうとしている課題が、バクラクが抱えていた課題とほとんど同じだったためです。\n実はバクラクでは、同じ課題を解くための仕組みを自作しています。バクラクで実装された仕組みは、ドラフトで検討されている内容とどこが同じで、どこが違うのか読み比べてみたく調査しました。\n\n 解きたかった課題\nバクラクには、プロダクトを跨いで認可を行いたいケース..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "オンコール手当の相場を50社分調べて、1社も見つからなかった話",
+      "link": "https://zenn.dev/cscloud_blog/articles/e0ea529d061906",
+      "summary": "!\nこのブログは CSCでオンコール運用を検討する際に手当について調査した結果 となります。\nこれから検討に取り組まれる方はぜひ参考にしてください！\n\n3行で言うと\n\nオンコール手当の「金額」を5チャネル・約50社で調べたら、1件も出てきませんでした。\n\nでも「金額が公開されていない」で終わらせず、「そもそも金額から設計するのが間違いかもしれない」 という気づきがありました。\n実額が取れない前提で、テンプレートから自社基準を作るのが現実的、というのが結論です。\n\n\n 導入\nWebサービスやSaaS、クラウド基盤の普及で、システムは24時間365日動き続けることが前提になりました。「深夜だ..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "TanStack Start + Hono + oRPC + Cloudflare Workersで社内ERPを作った設計と学び",
+      "link": "https://zenn.dev/yosashusaku/articles/enterprise-erp-tanstack-hono-orpc",
+      "summary": "はじめに\n建築業向けの社内ERP（プロジェクト管理・CRM・工数管理・ダッシュボード）を、Full-Stack TypeScriptでスクラッチ開発しました。TanStack Start + Hono + oRPCを、Cloudflare Workersの上で動かしています。\nこの構成はまだ事例が少なく、「動くところまでは書けるが、業務システムのサイズに育ったときにどうなるのか」が想像しづらい領域だと思います。この記事はスタックの紹介ではなく、どこに境界を引いたのか／引き直したのかの話です。\n結論を先に並べると、主な判断はこの4つです。\n\n\n\n判断\n採用\n主な理由\n\n\n\n\n実行基盤\n..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "AIは回せば回すほど凄いのか ―「常時稼働」という設計の敗北",
+      "link": "https://zenn.dev/eggletric/articles/4ea81df765fb66",
+      "summary": "SNSに溢れる「AI常時ぶん回し」への違和感\n近年、SNSでこういう投稿をよく見かけます。\n\n「AIエージェントを24時間動かして開発を完全自動化しました」\n「寝ている間もAIがコードを書き続けています」\n「AI社員を常時稼働させて、プロダクトを量産中です」\n\n一見すると、とても先進的で凄そうに見えます。\n実際、こうした投稿は伸びやすく、「これからはこういう時代だ」という空気も感じます。\nただ、現役の開発者としてAIを日常的に使っている立場から、どうしても引っかかることがあります。\n本当に、そんなに回す必要があるのでしょうか?\n後述しますが、コストの面でも設計の面でも、「常時稼働」は..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "最近育てているフロントエンド開発用テンプレートの話",
+      "link": "https://zenn.dev/newt_st21/articles/next-template-2026",
+      "summary": "フロントエンドの Web アプリケーションを開発する用に、私がよく使う設定を盛り込んだテンプレートリポジトリを育てています。\nhttps://github.com/newt239/next-template\nリポジトリ名は next-template となっていますが、React Router や Tanstack Router で使うケースもあるため Next.js 専用というわけではありません。フレームワーク以外でも使いたいものはアプリによって違うことが多いので、このテンプレートから開発をする際は .claude/skills/ に置いたカスタマイズ用のテンプレートを使用することで、..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Ctrl+C でプログラムが止まる仕組みを調べた",
+      "link": "https://zenn.dev/wakame_atsushi/articles/05a74885eb963d",
+      "summary": "はじめに\n以前 Go の並列処理を学ぶ中で、graceful shutdown を扱いました。Ctrl+C についても軽く学びました。\nただ、Ctrl+C を押したときに何が起きているかは軽くしか学べておらず、自分の中で引っかかっていました。\n今回調べたのは、Ctrl+C を押してプログラムが実際に止まるまでです。（見ていくのは Linux です）\n\n 全体の流れ\nCtrl+C を押してからプログラムが終了するまでの簡単な流れは以下の通りです。\n\nプログラムが何もしていないときに、カーネルが勝手に終了させる経路を追っていきます。\ncat や sleep が Ctrl+C で終了するの..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "Claude Code に制限モードが入った。自作スキル47本が0本になった",
+      "link": "https://qiita.com/jqit_suwa/items/4183a8e97738ba45f435?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "--restricted が Claude Code 2.1.248 で追加されました（測定に使ったのは 2.1.250）。\n公式の説明は「コマンド実行系のツールと WebFetch を外し、ファイル操作を作業ディレクトリに限定する」です。安全に使うためのモードという書き方..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "API連携でデータを外部に渡して大丈夫なのか調べてみた｜OAuth・APIキー・保管場所・やめ方を業務システム56件で【2026年8月調査】",
+      "link": "https://qiita.com/songchong/items/bed44cf5b639df476952?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "「外部のサービスにデータを渡して、大丈夫なんですか」\n社内で連携の話をすると、必ず出る質問です。そして、この質問には答えにくい。「大丈夫です」と言っても根拠がなく、「危ないです」と言えば話が止まるからです。\n問題は、「安全か」が漠然としすぎていることです。分けて聞けば答えら..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "ESP32 シリーズを使ってイチから電子工作まとめ　 (回路設計/基板設計編)",
+      "link": "https://qiita.com/_shin_/items/47bc69006f6467d79e91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n最近、ESP32を使った電子工作にハマったので、いくつかガラクタを作ってみた経験をもとにESP32を使ったおおまかな電子工作のやり方を紹介しようと思う\n\nESP32とは\n　ESP32シリーズとはEspressif Systemsという中国の会社が開発しているマイ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "Active Directoryを構築しよう",
+      "link": "https://qiita.com/takumi_security/items/b7c90c0ad73ffe3b54ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "やりたいこと\n今回は！！\n自宅にActive Directory(以下AD)環境を構築していく！！\nやりたいことがいくつかある。\n\nADの操作に慣れたい。（権限周りとか。）\nSIEM接続（splunk?）\nADへのレッドチーム演習\n攻撃後のDF\nADのハードニング\n\nAD..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【AWS DevOps Agent】コードレビューと自動検証テストの検証",
+      "link": "https://qiita.com/aliean/items/bec57a9a20c7f9e60f79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "この記事は「2026 Japan AWS Jr. Champions 真夏のQiitaリレー」の29日目の記事となります。\n過去の投稿（リンク集）は以下リンクからご覧ください。\n\nはじめに\n開発が進むにつれて提出される Pull Request（PR）。\n気づ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "「ハーネス」ってなんぞ？ Claudeに“性格”と“記憶”を持たせる仕組みを、おじさんでも分かるように調べてみた",
+      "link": "https://qiita.com/OnuuuumaX/items/8b7ac7751411f79a41d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n最近、AIにコーディングを手伝ってもらう文脈で「ハーネス」という言葉を見かけるようになりました。専門用語っぽくて身構えてしまいますが、中身はとてもシンプルらしいです。\n難しい記事を漁りましたが、頭の中で整理しきれなかったので、Claudeに教えてもらいつつまとめ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "IT業界で皆知ってる「クラウド」「AWS」、分かったふりやめて先輩に聞いてみた",
+      "link": "https://qiita.com/prumnn/items/d155a4ac10477d1eb41f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n\n会社でしょっちゅう飛び交う「クラウド」という言葉に、分かったふりで相槌を打ち続けていたぷらむんが、思い切ってたぬき先輩に「クラウドって結局何なんですか?」と聞いてみたら、モヤモヤの正体がようやく整理できた話です。\n\n会社で自称マスコットキャラをやってるのに..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "Azure無料枠を意識してWindows Server 2022を構築してみた",
+      "link": "https://qiita.com/NoguchiHikaru/items/d55d3b9cfdc38a07034d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n前回の記事では、Azure上でWindows Serverを構築する際に考えておきたいポイントを、インフラ目線で整理しました。\n今回はその実践編として、実際にAzure Portalを操作しながらWindows Serverを1台構築してみます。\n今回のゴールは..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "ガバメントクラウドAWS環境における統合監視・AIによる障害時自動調査について検討してみた",
+      "link": "https://qiita.com/fj_yoshimura_kosuke/items/1cb40e25071475268431?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "富士通 Japan 株式会社 Public &amp; Education 事業本部\nクラウドサービス事業部の吉村 康良です。\n令和3年度のガバメントクラウド先行事業から、ガバメントクラウドを利用したインフラストラクチャの設計に従事し、現在は主にガバメントクラウド上のインフラ運用保..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【ポエム】2026年 AIコーディングプログラマの心象風景",
+      "link": "https://qiita.com/ssc-ksaitou/items/d48a62b87545a0e7d2c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n2026年現在、AIコーディングエージェントを使ってプログラミングしている時に、私がどういうメンタルモデルで作業しているかメモしておきます。\n\nハーネスについての考え方\n\n制約がなければ出力は無限にある\nAIコーディングエージェントを何も制約のない状態で動かし..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【個人開発】MLBの試合日程をGoogleカレンダー・Appleカレンダーに自動同期するWebアプリを作りました【React/TypeScript/iCalendar】",
+      "link": "https://qiita.com/takahiro_honda/items/b44d4e2b526aa009f822?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nMLB（メジャー・リーグ・ベースボール）の試合日程をGoogleカレンダー・Appleカレンダーに自動同期するWebアプリを作成しました。\nその感想を書いていきます。\n\n開発理由\n最近、大谷翔平選手の所属するドジャースの試合にめちゃくちゃどハマりしています！\n..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "頑張ったのに結果が出ない、は当然のこと — 努力を「縦軸」だけで測るのをやめた話",
+      "link": "https://qiita.com/teppei19980914/items/c7e28f97b815360bbbf4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "この記事は約8分で読めます。\n\n筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。\n👉 ポートフォリオ: 筆者ホームページ\n今日は..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "AIの口癖を日本語記事で測ろうとして、3回とも失敗した",
+      "link": "https://qiita.com/jqit_suwa/items/4231026d13f7527c0f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "AI が書いた文章には、特徴的な語彙がある。 そういう分析が Hacker News で 663 ポイントを集めていました。\n面白かったので、自分の Qiita 記事30本で同じことをやろうとしました。\n3回とも失敗しました。 この記事は、その記録です。\n「日本語でも同じ手..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "AIに淘汰されそう",
+      "link": "https://qiita.com/J-T_ky2g/items/5d3d125bcd1450585092?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "この記事の目的\n\n現状と目標のアウトプットをすることで、現状と目標の解像度を上げる\n書き留めておくことで振り返りできるようにする\n\n現状\n\nSESで5年ほど経験しReact, Ruby on Rails, AWSをツールとして動かすことはできるが中身はあまり理解していな..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "S3 Vectors、安すぎん？OpenSearch Serverlessからの本番移行",
+      "link": "https://qiita.com/takahumi27/items/6fe3157b5f1d28cba2ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "本記事の移行元および料金比較の対象は、Amazon OpenSearch Serverless Classicです。\n2026年5月に一般提供されたAmazon OpenSearch Serverless NextGenは、今回の比較には含めていません。\n\nはじめに..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【AWS】AgentCore Runtimeのフェールオーバーとリトライ設計について確認しました",
+      "link": "https://qiita.com/yakumo_09/items/6f83dc660382f10388c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nECS上で動かしているFastAPIのエージェント部分を、AgentCore Runtimeに切り出す検討をしています。そこで気になったのが「障害が起きたとき、会話や処理はどうなるんだろう？」というところでした。\nドキュメントを読んでもセッションのライフサイクル..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【CloudFront OAC × Lambda Function URL】SSRアプリのPOSTだけ403になった話",
+      "link": "https://qiita.com/yosuke-suzuki/items/3cbd19db1e33853a2f91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n個人で運用している「AI模試ノート」(AWS認定試験の学習アプリ)を、ビルド時間に対する課金が膨らんできたため、AWS Amplify HostingからAWS CDK(Lambda Web Adapter + CloudFront)への移行をしたところ、ホステ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【AWS入門】セキュリティグループとネットワークACLの違い",
+      "link": "https://qiita.com/y-kojima-next/items/93342baa7c3339b435bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n前回、NAT Gatewayについて調べた際の記事（ https://qiita.com/y-kojima-next/items/fa37c47a0f62aa02dc1a ）で、「NAT Gatewayにはセキュリティグループを設定できないので、制御したい場合は..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "Claude Codeでトライ！④ - Claude CodeとFlutterで麻雀点数計算アプリを作ってみた",
+      "link": "https://qiita.com/OnuuuumaX/items/4bb47e2770e28207778a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nFlutterで「牌をカメラで撮影するだけで点数計算してくれるアプリ」を思い付きましたのでclaudeにお願いするだけで作れるか試してみました。\n（リサーチの結果、巷には同じようなアプリは多数存在するようです）\n実装はClaude Code（AIコーディングエ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "「AIに店長を任せてみた実験」からもらった、これからの働き方のヒント",
+      "link": "https://qiita.com/sumomoo/items/5726c8769b487e118571?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや\n考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\n「AIに全..."
+    }
+  ]
+}
