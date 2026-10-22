@@ -1,0 +1,486 @@
+{
+  "date": "2026-10-22",
+  "collected_at": "2026-10-22T00:25:44.242343",
+  "items": [
+    {
+      "source": "hatena_hotentry",
+      "title": "阿部寛のホームページ",
+      "link": "https://abehiroshi.la.coocan.jp/",
+      "summary": ""
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "対立候補の母親使って個人攻撃　米知事選、共和陣営広告　全米で最も醜悪な選挙戦",
+      "link": "https://www.sankei.com/article/20261021-KTUPPXUGFBO7FPAAIW45XMZHQM/",
+      "summary": "米中間選挙に向けたキャンペーンで演説する共和党候補のラマスワミ氏。奥はトランプ大統領＝10月12日、ヤングスタウン（ロイター） 米中間選挙の中西部オハイオ州知事選で、共和党候補のビベック・ラマスワミ氏の陣営が、対立候補の民主党エイミー・アクトン氏の母親を選挙広告に起用し、個人攻撃をしていることが20日明..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/10/21/174516",
+      "summary": "2026年10月20日、PHPの開発元であるThe PHP Groupのセキュリティチームは、PHPの深刻な脆弱性2件を修正するセキュリティリリースを予告しました。ここでは関連する情報をまとめます。（開発元等から詳細情報が公開され次第更新します。） 開発元は何を予告したの? PHPのセキュリティチームは10月20日(協定世界時)、2件の..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "車で草原を走ると火災になる理由",
+      "link": "https://anond.hatelabo.jp/20261021204804",
+      "summary": "モンゴルで自然保護区の草原が大火災になり、KDDIの子会社の社員が車で走ったことが原因と報じられている件に関して。 「何で車で走ると火事になるのか？」と疑問を投げかけている人が結構多いので解説しまっする。 https://b.hatena.ne.jp/entry/s/news.livedoor.com/article/detail/32606839/ それは車の下には触媒コ..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ",
+      "link": "https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html",
+      "summary": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作り、23時15分以降に..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "メンテナンス中に503を返すだけでは足りない Google公式ドキュメントで読む必須・推奨・禁止事項 - SEMリサーチ",
+      "link": "https://www.sem-r.com/entry/20261022/1792605105",
+      "summary": "サイトメンテナンス時の正しいHTTP応答　緊急メンテ当日に各社の対応を調べてわかったこと なぜメンテナンス時のHTTP応答が重要なのか 必須事項 やらないと検索結果掲載に問題が発生する可能性があるもの 1. すべてのページで、元のURLのまま503を返す 2. robots.txtは503にせず、通常どおり200で返し続ける 3. 503を数..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "やめろ好きになってしまう第70話 死は平等にやってくる　その①｜ヤンジャン＋集英社公式・ジャンプ系青年マンガ誌アプリ",
+      "link": "https://ynjn.jp/viewer/21346/324136",
+      "summary": "故意か無邪気か!?　脳内騒然ラブコメディ!!　上っ面を取り繕い生きてきた冷静な男子高校生・松浦吾妻。他人の本性を容易に見透かす彼だが、ある日突然陽キャのツインテ美少女・厳木紗代（きゅうらぎさよ）にアプローチされて―!?　故意か無邪気か、あざとい彼女の一挙手一投足に松浦は…― 「やめろ！　好きになってしまう!..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "モンゴル草原で大規模火災　出火元はKDDI子会社の車両か、KDDIが謝罪　東京都の2.4倍焼失、中国にも延焼迫る｜FNNプライムオンライン",
+      "link": "https://www.fnn.jp/articles/-/1137017",
+      "summary": "モンゴル草原で大規模火災　出火元はKDDI子会社の車両か、KDDIが謝罪　東京都の2.4倍焼失、中国にも延焼迫る モンゴルで大規模な草原火災があり、通信大手KDDIは現地子会社が活動を行っていたところ火災が発生したとして、謝罪しました。 モンゴルメディアによりますと10月8日、希少な野生動物が生息する東部のヌムルグ..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "早稲田大周辺に４大油田、理工系キャンパスには学生による石油王…「ハイオク」も始めました",
+      "link": "https://www.yomiuri.co.jp/national/20261020-GYT1T00391/",
+      "summary": "【読売新聞】　早稲田大学の３年生２人がキャンパス内にキッチンカーを出し、早大生のソウルフードである「油そば」を販売している。学生が構内で飲食店の営業を続けるのは珍しく、連日行列ができるほどの人気ぶりだ。２人は「自信作をぜひ食べてほし"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "Xやネットで見かける古参気取りオタクおじさんたち見てて思うけど、絶対当時いなかったよね",
+      "link": "https://anond.hatelabo.jp/20261021162616",
+      "summary": "そりゃ、Xで「仕事なくて暇なんだろな」、っていうのがわかるほどポストしてる、かつての2000年代くらいには結構名前見かけたけど、今は何の作品出してんのか聞かない、主流ゲーム業界とかにお呼びかかってないラノベ作家とかクリエイター垢とかみたいな人たちは 当然当事者だから例外ではあるんだろうけど 「昔のオタク..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "ゼレンスキー氏の支持率が急伸　トランプ氏の圧力にウクライナ国民反発 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGR21BZO0R21C26A0000000/",
+      "summary": "【ウィーン=金子夏樹】トランプ米大統領がウクライナに対する圧力を強めるなか、同国のゼレンスキー大統領の支持率が急伸した。トランプ氏はロシア国内の製油所に対する攻撃停止を要求し、指導者の交代にまで言及した。圧力に対するウクライナ国民の反発が反映された。キーウ国際社会学研究所が10月8〜16日に実施した世..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定",
+      "link": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
+      "summary": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定 Cloudflareは、TypeScriptをRustに移植した「tsrs」を発表しました。 下記は、Cloudflareに買収されたVoidZeroによるtsrsに関するポストです。VoidZeroもこのtsr..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "3年前に退職したところから「なんでPHPで作ったんだ！今すぐ来い！」って電話あったけど、どこに相談したらいいの？労基？→あるエンジニアに起きた災難に「笑えない」",
+      "link": "https://togetter.com/li/2761260",
+      "summary": "国家サイバー統括室(注意・警戒情報) @cyber_forecast PHPのセキュリティチームが、重大な２件の脆弱性に関する注意喚起を行っています。公開しているウェブサイトでPHPを使用しているか確認し、10月21日午後11時（日本時間）に公開される修正パッチについて、可及的速やかに適用できるよう準備をお願いいたします。 php..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "アコーディオン弾き - 肋骨沙 | 少年ジャンプ＋",
+      "link": "https://shonenjumpplus.com/episode/9253191257382361268",
+      "summary": "アコーディオン弾き 肋骨沙 その美貌と美声で人々を惹きつける歌姫・ネコ。愛に飢えた彼女は自分を愛してくれる男を探していたが、いつも上手くいかなかった。そんなある日、アコーディオン弾きのイタチと自分に関するとある噂を聞き…"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "高市総理「大至急、PHPパッチ適用を」Xで異例の要請　エンジニアは評価「経営層に伝わる」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002483/",
+      "summary": "「今夜に対応して頂きたい大至急のお願い」――高市早苗首相は10月21日午後10時前、自身のXアカウントで、PHPの「緊急」の脆弱性について、修正パッチを「可及的速やかに適用できる準備」をするよう求めた。パッチはこの投稿の約1時間後（21日午後11時ごろ）に公開された。 首相が個別のソフトウェア脆弱性について、Xで直..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "デジタル庁、「神Excel」対策ツールを公開　AIと組み合わせたデータ整備方法も紹介",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002475/",
+      "summary": "デジタル庁が、Excelファイルなどが“機械にとって読みやすいか”を判定するツール「Harunobu」を公開している。紙に印刷した際のレイアウトを優先してセル結合などを多用した、いわゆる「神Excel」の対策にも活用できるという。AIと組み合わせたデータの整備方法も取り上げている。 Harunobu（はるのぶ）という名称のこの..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "食事の質、若年層で最低　収入や生活習慣が関連―東京大：時事ドットコム",
+      "link": "https://www.jiji.com/sp/article?k=2026102100140&g=soc",
+      "summary": "食事の質、若年層で最低　収入や生活習慣が関連―東京大 時事通信 編集局2026年10月21日14時58分配信 食事する若者たち（写真はイメージ） 日本人の食事の質は、男女いずれも思春期から２０代前半にかけて最も低く、中高年層では比較的高いことが２１日までに、東京大の研究グループの調査で分かった。収入や教育水準、朝..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "尾道駅前の渡船、中高生の「積み残し」続く　乗員不足で減便、学校は分散登校に | 中国新聞デジタル",
+      "link": "https://www.chugoku-np.co.jp/articles/-/912650",
+      "summary": "広島県尾道市の本土と向島を結ぶ渡船航路の一つ、駅前航路が9月中旬以降、早朝のラッシュ時に2隻で運航ができない状態が続いている。乗員不足が理由で、1隻での折り返し運航だ。通学客や観光客の移動に影響が出ており、一部学校では始業時間を遅らせるなどの対応を余儀なくされている。 尾道水道の三セク渡船、ラッシュ..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "鳥取県・平井知事　来春の知事選不出馬表明　理由の一つに「深い失望感」「自分の人格や一人の人間としての尊厳を放棄したわけではありません」涙ぐむ場面も…【会見全文掲載】（BSS山陰放送） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/c8f1ac155d48187f82eba12cae76f438a35c23cb",
+      "summary": ""
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "「私は純粋なロシア人」「日本は米国の犬」　ウクライナ侵略の邦人義勇兵が旅券燃やす動画",
+      "link": "https://www.sankei.com/article/20261021-F3BY6CLTXNP47IHOAI5L65CTB4/",
+      "summary": "ロシア南部チェチェン共和国の特殊部隊「アフマト」のアラウジノフ司令官＝ロシアが実効支配するウクライナ東部ルガンスク州（タス＝共同） ウクライナ侵攻に参加するロシア南部チェチェン共和国の特殊部隊アフマトのアラウジノフ司令官は21日、部隊に参加する日本人義勇兵が日本のパスポートを自分の意思で焼き捨てる動..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "3年前に退職したところから「なんでPHPで作ったんだ！今すぐ来い！」って電話あったけど、どこに相談したらいいの？労基？→あるエンジニアに起きた災難に「笑えない」",
+      "link": "https://togetter.com/li/2761260",
+      "summary": "国家サイバー統括室(注意・警戒情報) @cyber_forecast PHPのセキュリティチームが、重大な２件の脆弱性に関する注意喚起を行っています。公開しているウェブサイトでPHPを使用しているか確認し、10月21日午後11時（日本時間）に公開される修正パッチについて、可及的速やかに適用できるよう準備をお願いいたします。 php..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/10/21/174516",
+      "summary": "2026年10月20日、PHPの開発元であるThe PHP Groupのセキュリティチームは、PHPの深刻な脆弱性2件を修正するセキュリティリリースを予告しました。ここでは関連する情報をまとめます。（開発元等から詳細情報が公開され次第更新します。） 開発元は何を予告したの? PHPのセキュリティチームは10月20日(協定世界時)、2件の..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "高市総理「大至急、PHPパッチ適用を」Xで異例の要請　エンジニアは評価「経営層に伝わる」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002483/",
+      "summary": "「今夜に対応して頂きたい大至急のお願い」――高市早苗首相は10月21日午後10時前、自身のXアカウントで、PHPの「緊急」の脆弱性について、修正パッチを「可及的速やかに適用できる準備」をするよう求めた。パッチはこの投稿の約1時間後（21日午後11時ごろ）に公開された。 首相が個別のソフトウェア脆弱性について、Xで直..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ",
+      "link": "https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html",
+      "summary": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作り、23時15分以降に..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "デジタル庁、「神Excel」対策ツールを公開　AIと組み合わせたデータ整備方法も紹介",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002475/",
+      "summary": "デジタル庁が、Excelファイルなどが“機械にとって読みやすいか”を判定するツール「Harunobu」を公開している。紙に印刷した際のレイアウトを優先してセル結合などを多用した、いわゆる「神Excel」の対策にも活用できるという。AIと組み合わせたデータの整備方法も取り上げている。 Harunobu（はるのぶ）という名称のこの..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "メンテナンス中に503を返すだけでは足りない Google公式ドキュメントで読む必須・推奨・禁止事項 - SEMリサーチ",
+      "link": "https://www.sem-r.com/entry/20261022/1792605105",
+      "summary": "サイトメンテナンス時の正しいHTTP応答　緊急メンテ当日に各社の対応を調べてわかったこと なぜメンテナンス時のHTTP応答が重要なのか 必須事項 やらないと検索結果掲載に問題が発生する可能性があるもの 1. すべてのページで、元のURLのまま503を返す 2. robots.txtは503にせず、通常どおり200で返し続ける 3. 503を数..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "「総理大臣がXでお願いを出すレベル」PHPのセキュリティチームが2件の脆弱性に関して注意喚起 23:00からエンジニアとハッカーの戦いが始まる",
+      "link": "https://togetter.com/li/2761269",
+      "summary": "国家サイバー統括室(注意・警戒情報) @cyber_forecast PHPのセキュリティチームが、重大な２件の脆弱性に関する注意喚起を行っています。公開しているウェブサイトでPHPを使用しているか確認し、10月21日午後11時（日本時間）に公開される修正パッチについて、可及的速やかに適用できるよう準備をお願いいたします。 php..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定",
+      "link": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
+      "summary": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定 Cloudflareは、TypeScriptをRustに移植した「tsrs」を発表しました。 下記は、Cloudflareに買収されたVoidZeroによるtsrsに関するポストです。VoidZeroもこのtsr..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "PHPの「緊急」レベルの脆弱性、開発元が修正バージョン公開　「直ちにアップデートを」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002480/",
+      "summary": "プログラミング言語「PHP」開発プロジェクトは10月21日（協定世界時）、「緊急」レベルの脆弱性2件を修正したPHP 8.5.12／8.4.27／8.3.36／8.2.35を公開したと発表した。20日に予告していたセキュリティアップデートに関するもので、攻撃者が遠隔で任意のコードを実行できてしまう脆弱性などを修正する。「全てのPHPユー..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "「客を一切信用してなくてワロける」ドラッグストアコスモスの防犯カメラの多さが話題に→「むしろ信頼できる」「これでも少ない店舗」",
+      "link": "https://togetter.com/li/2761220",
+      "summary": "防犯カメラの数、尋常じゃない...！　セキュリティ意識が強すぎるドラッグストアが話題に(全文表示)｜Jタウンネット 九州を拠点とするドラッグストア「コスモス薬品」（本社・福岡市）。西日本ではお馴染みといえるドラッグストアだが、インターネット上であることが話題になった。赤い丸で囲った部分が防犯カメラだ（提..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明",
+      "link": "https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/",
+      "summary": "プログラミング言語のPHPに「PHP2Shell」と呼ばれる重大な脆弱性が見つかり、緊急アップデートがリリースされました。「PHP2Shell」の2つの脆弱性は、セキュリティ企業のCalifとWizがそれぞれ独立して2026年8月に発見していたことが報告されています。 PHP2Shell — AI uncovers critical vulnerabilities in the backbon..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "これが視界に入った瞬間、1秒以内に「AIだ！」と思ったけど我々は一体何に「AIっぽさ」を感じているのか→文字や色味以外にも判別ポイントがある？",
+      "link": "https://togetter.com/li/2761175",
+      "summary": "これが視界に入った瞬間、1秒以内に「AIだ！」と思ったけど我々は一体何に「AIっぽさ」を感じているのか→文字や色味以外にも判別ポイントがある？"
+    },
+    {
+      "source": "hatena_it",
+      "title": "「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2150161.html",
+      "summary": ""
+    },
+    {
+      "source": "hatena_it",
+      "title": "本来116桁の秘密鍵がたった3桁 インド認証局の一部中間CA証明書にミス",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2150099.html",
+      "summary": ""
+    },
+    {
+      "source": "hatena_it",
+      "title": "楽天市場が緊急メンテ、その他の企業サイト・サービスも続々メンテ　21日夜～",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150133.html",
+      "summary": ""
+    },
+    {
+      "source": "hatena_it",
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "summary": "Earlier today, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35. These releases fix two critical vulnerabilities that, under the right conditions, allow an unauthenticated attacker to execute code on servers running PHP. If you run PHP, it is imperative that you update now. The ann..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "Patch the Planet — OpenAI",
+      "link": "https://patchtheplanet.org/",
+      "summary": "Working with frontier AI and security experts to help secure open source and make our digital infrastructure more secure"
+    },
+    {
+      "source": "hatena_it",
+      "title": "【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI",
+      "link": "https://zenn.dev/tyamadadd/articles/c02a27af771dd2",
+      "summary": "PHPerの皆様、お疲れさまでした。 少し体力が残っているので、現在の対応状況をまとめてみました。 生成AIでまとめたものを当方で確認しております。 また気になる追加情報を補足に追加しました。 2026年10月21日、PHP の重大な脆弱性2件（CVE-2026-109618 / CVE-2026-109619、通称「PHP2Shell」）の修正版が公開されま..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "大阪公立大のシステム障害、NECの再委託先へのサイバー攻撃が原因：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASVBP15NCVBPPTIL00MM.html",
+      "summary": "大阪公立大学は21日、今月2日に発生したシステム障害について、システムの保守と運用を委託しているNECの再委託先の事業者がサイバー攻撃を受けたことが原因だと、発表した。■大阪大でも個人情報7万8千人…"
+    },
+    {
+      "source": "hatena_it",
+      "title": "eMudhraで侵害された8つの認証局すべての秘密鍵はなんとたった「1バイト」で秘密鍵の1つは「4」、Mozilla・Microsoft・Apple・Chromeのルートプログラムや多くの下流トラストストアによって信頼されているルート証明書に連鎖",
+      "link": "https://gigazine.net/news/20261022-emudhra-problem/",
+      "summary": "2026年10月20日、eMudhraの中間認証局(CA)証明書8件の秘密鍵が侵害されたことが明らかになりました。侵害された証明書はMozilla・Microsoft・Apple・Chromeなどの主要なルートプログラムおよび多くの下流トラストストアによって信頼されているルートに連鎖していたため、攻撃者は侵害された中間CAの秘密鍵を悪用して様々..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "「PHPのドカ脆弱性」=「今すぐDynmap止めろ」ではなかった話",
+      "link": "https://zenn.dev/56drich/articles/f52bd4a1dae988",
+      "summary": "「PHPのドカ脆弱性」=「今すぐDynmap止めろ」ではなかった話\n\n 1. はじめに\n2026/10/21、PHPに関してCVSS v4.0で9.2の重大な脆弱性（CVE-2026-109618・CVE-2026-109619）が2件出たと大騒ぎになった。日本時間21日23時に修正版（8.5.12 / 8.4.27 / 8.3.36 / 8.2.35）が公開されている。\nhttps://www.php.net/archive/2026.php#2026-10-21-5\n私の管理しているマイクラサーバーでPHPを使っているものがないか調査する中で、DynmapがPHPを使っている疑惑..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "加点の条件を絞ったら、23日間で一度も加点されなかった — 棄却したはずの案と同じ症状が出た【直前期編】",
+      "link": "https://zenn.dev/rokusoudou_ts/articles/nw-2026-no-credit",
+      "summary": "はじめに\n9月28日に、レベル評価の規則と午後IIの出題形式を直しました。その2週間判定です（実際に測ったのは 10/20 までの23日間）。\n試験は目前で、科目Aが10月23日、科目Bが11月13日です。この記事は直前期の報告でもあります。\n結論を3つ。\n\n\n午後IIは骨子の形になりました。 6日中5日。第10回の時点では14問中1問でした\n\n加点は23日間で0回でした。 評価に届く問題の割合は 58.3% → 23.8% に戻っています\nただし成績は落ちていません。不正解は21問中5問だけです。指標が下がった理由は、加点の入口を狭くしすぎたことでした\n\n前回、A案（1段上の設問を..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "ブラウザ起点の長い処理をサーバー側へ移して、画面を閉じても終わるようにした",
+      "link": "https://zenn.dev/matasuke_t/articles/50bd0bee5b6a3a",
+      "summary": "社内向けのツールで、外部サイトを Puppeteer で順に更新していく処理があります。1回の実行が数分から数十分かかり、これまでは画面（React）が司令塔でした。画面が対象の一覧を持ち、1件ずつサーバーの API を叩き、進み具合を集めて表示する形です。\nこの形はスマホから使い始めて破綻しました。PWA を閉じたりスリープしたりすると、残りの API 呼び出しが出ないので処理が途中で止まります。しかもサーバー側には「途中で止まった」という情報が無く、履歴は「処理中」のまま残ります。今週はこれを、サーバーが司令塔になる形へ移しました。そのときに考えたことを書きます。\n\n 画面は「計画」..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Pi 3B 2台で家のサーバを回してきた — そろそろ限界、Pi 4/5 を買う前に稼働率を測る",
+      "link": "https://zenn.dev/tinker42/articles/ca22660eedca0a",
+      "summary": "先に結論\n\n家の Pi のうち4台を1週間、5分ごとに測った。CPU はどれも余裕があり、足りないのはメモリだった\nHAOS 用の Pi 3B は、メモリが平均75%・最大83%。時間帯による差がなく、常にこの水準にいる\n買い替えの理由は「速くしたい」ではなく「メモリを増やしたい」だった。Pi 4 の 3GB か 4GB が候補\n\n\n はじめに\nサーバは、持つのをやめても意外と困らない。ただ、しばらくすると Linux を触りたくなる。\nわが家のサーバは3世代目になる。第一世代は、自室に置いたタワー型の、文字どおりのサーバ機だった。第二世代は、ネット上のクラウドとレンタルサーバ。あるとき..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "cronのclaude -pが\"ok\"だけで4万トークン——--safe-modeと--tools \"\"で98%削減",
+      "link": "https://zenn.dev/yosiki/articles/claude-p-cron-token-diet",
+      "summary": "LaunchAgent（macOSのcronのようなもの）から定期的に claude -p \"ok\" を呼ぶ小さなジョブを動かしています。返事の文面には用がなく、呼び出しが成功するか（認証が切れていないか）だけを見る処理です。\nところが、その返事が毎回こう始まっていました。\nObsidian: mistakes.md / Preferences/ / Agent-Handoff.md を自動読み込みしました。\nこれは、私が普段の対話用に設定している SessionStart フックの決まり文句です。つまり 「ok」と返させるためだけに、個人用の CLAUDE.md、フックが注入するメモ、..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "個人事業主が App Store の有料アプリ契約を有効にするまで。Apple は組織を選べず、私は納税フォームを2つ出した",
+      "link": "https://zenn.dev/hk_work/articles/sole-proprietor-app-store-paid-apps-agreement",
+      "summary": "Flutter で作った蔵書管理アプリ「本棚（hondana）」を、個人事業主として App Store に出す準備をしています。2026年10月に開業届を出し、Apple と Google のアカウントを用意しました。\nこの記事は、その手続きで「思っていたのと違った」ところの記録です。個人事業主は Apple の「組織」を選べないこと、住所が公開される条件、有料アプリ契約が有効になるまでに納税フォームが2つ要ったこと、Google Play の個人アカウントだと住所が出ることを順に書きます。\nhondana は、10月16日に App Store の審査へ再提出し、審査を通って公開され..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Amazon Bedrock Guardrails を AnswerCarefully で試してみた",
+      "link": "https://zenn.dev/aws_japan/articles/bedrock-guardrails-japanese-tier",
+      "summary": "Amazon Bedrock Guardrails は、生成 AI モデルに届く前の入力と、モデルが生成した後の出力を検査します。有害だと判定した内容は、利用者へ渡さずにブロックできます。\nユーザー入力 → Guardrail の入力判定 → モデル → Guardrail の出力判定 → 利用者\nこの記事では、Guardrail が入力や出力を遮断することを「ブロック」、Guardrail を通過した質問への回答をモデル自身が断ることを「拒否」と呼びます。\nGuardrails には、判定に使う仕組みが異なる Classic と Standard の 2 つの Tier があります。日..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "EKS に Graviton を導入して、arm64 と amd64 を混ぜて運用を始めました",
+      "link": "https://zenn.dev/socialplus/articles/eks-graviton-arm64-migration",
+      "summary": "こんにちは、ソーシャルPLUSの三口です!\n弊社では Amazon EKS 上で Rails のアプリケーションを動かしていますが、これまでノードはすべて Intel/AMD (amd64) のインスタンスでした。今回、そのノードに AWS Graviton (arm64) を導入し、Spot インスタンスでは arm64 と amd64 を混ぜて運用する構成にしました。\nGraviton への移行自体はすでに多くの企業が取り組んでいて、真新しい話ではないと思います。\nただ、4 月に入社した自分にとっては、インフラの知識だけでなく、各サービスがどう動いているかを知るきっかけにもなった案件..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Devinに問い合わせ調査を任せて見えてきた「原因未特定」の正体。過去の約700件を分類してみた",
+      "link": "https://zenn.dev/canly/articles/9c19bb123e208c",
+      "summary": "こんにちは、カンリー店舗集客チームの山下です。\n私たちのチームでは、CSやCRといった顧客対応のチームから開発に来る問い合わせの一次調査を、AIエージェントのDevinにやってもらっています。\n運用を始めてしばらく経ちましたが、AIが原因まで特定できる問い合わせと、「原因未特定」としてエンジニアに引き継がれる問い合わせがあると感じていました。\nでは、AIが原因を特定しきれないのはどんな問い合わせなのか。何を見られるようにすれば、原因まで特定できるようになるのか。\nなんとなくの感覚はあったものの、ちゃんと数えたことはなかったので、過去の問い合わせを分類してみました。\nこの記事で分かることは..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "「どう作るか」から「何を作るか」へ。バックエンドを学び始めた、その後の話",
+      "link": "https://zenn.dev/peoplex_blog/articles/0873a7f9cc091b",
+      "summary": "こんにちは。PeopleX エンジニアの深澤です。現在はAI面談チームで開発をしています。\n以前、フロントエンドを10年やってきた自分がバックエンドを学び始めた話で、AI時代にどう生き残るかという危機感から、プロダクト全体の設計に関わろうとしていることを書きました。\n今も学んでいる途中ですが、一年前はフロントエンドしか実装していなかった自分が、現在はバックエンドからフロントエンドまで概ねすべての領域を実装し、さらにデータから課題を考えて改善案を試作するところまで取り組むようになっています。\n今回はどんなことを考えながらデータ分析をはじめ、改善案の試作につなげていったのかをお話ししたいと思..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "dbt と Cloud DLP で面接の文字起こしから氏名を消す実装ガイド",
+      "link": "https://zenn.dev/zenkigen_tech/articles/1714ede7f27e10",
+      "summary": "dbt と Cloud DLP で面接の文字起こしから氏名を消す実装ガイド\nこんにちは。ZENKIGEN でデータエンジニアをしている @Nazuna720 です。\nこの半年間、「個人情報をマスキングした上で、本文テキストを抽出・分析対象としたい」という要件に取り組んできました。\nこの記事では、その中で構築した Cloud DLP による氏名マスクの仕組みを紹介します。同じ構成を検討している方が、スムーズに導入できるよう、詳細を解説します。\n\n なぜ文字起こしの氏名を消す必要があったのか\n面接の文字起こし本文には、応募者や面接官の氏名が、氏名カラムとは別に会話中に現れます。\nBigQ..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "AI にリバースエンジニアリングさせる REA を触って、持ち帰ったのは「証拠付きで進める」考え方でした",
+      "link": "https://zenn.dev/flinters_blog/articles/3b377ce568d676",
+      "summary": "はじめに\nこんにちは。FLINTERSの河内です。\n社内で毎週開いている AI 活用の勉強会で、今回（2026-10-19）は REA（Reverse Engineer Anything）を取り上げました。担当は川上さんです。AI エージェントにバイナリやアプリを解析させるためのツールで、10月に入ってから GitHub のスターが急に伸びています。\n結論から書くと、REA を使いこなすところまでは行けませんでした。題材選びでつまずき、コマンドの引数でつまずき、最後は別のスキルに切り替えています。それでも私がこの回で一番面白いと思ったのは、REA の設計思想でした。REA は、エージ..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Oxlint + Oxfmt で規約をコード化するモノレポ運用",
+      "link": "https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006",
+      "summary": "長らく ESLint + Prettier を使ってきました。大きな不満はなかったものの、実行時間が少し気になっていました。そこで、Biome と Oxc を実際のモノレポで検証して、最終的に Oxlint + Oxfmt に移行しました。\nこの記事では、Biome と Oxc を比較・検証した過程と、Oxlint + Oxfmt を使ってコーディング規約をコードとして強制する運用を紹介します。\n\n 導入の経緯とモチベーション\n\n lint / format の待ち時間が気になるようになった\nTypeScript の静的解析ツールが TSLint から ESLint に移りつつあった 2..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Chromium(V8)のArray.prototype.fillを最大約7倍高速化した",
+      "link": "https://zenn.dev/dinii/articles/5b8edc7856c25b",
+      "summary": "はじめに\n!\n修正や追加等はコメントまたはGitHubで編集リクエストをお待ちしております。\n\nダイニーで一番若いエンジニアのriya amemiya(21歳)です。\n(V8の配列系メソッド高速化職人をそろそろ名乗っても怒られないんじゃないか？と最近思い始めました🧐)\n今回は Array.prototype.fill（以下 fill）をSmiとdouble向けに最大約7倍高速化しました。\nV8の配列系メソッドのfast path実装に取り組む人は世界で見てもほとんどいないので、この記事から少しでも興味を持っていただけると嬉しいです。\nパッチはこちらです。\nhttps://chromi..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "AIペネトレーションテストツール「Strix」を試してみた",
+      "link": "https://zenn.dev/turquoise123/articles/df481032f6b405",
+      "summary": "はじめに\n最近、AIを使ったサイバー攻撃により日本のWebサービスでは情報漏洩事件が頻発するようになってしまいました。いちエンジニアとして大変悔しい思いですが、だからといって手をこまねいているわけにはいきません。まず、攻撃者の手口を知ることで、自分たちのアプリケーションがどこまで耐えられるのかを把握しておく必要があります。\nそんな中、AIエージェントが自律的にWebアプリを攻撃し、脆弱性を発見・検証してくれるペネトレーションテストツールが増えてきました。最近の攻撃者の手法として、こうしたペネトレーションテストツールであるStrixやCairnをHermes agentのような自律エー..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Claude Code で CI 待ち時間を 18 分から 4 分台に短縮する【GitHub Actions】",
+      "link": "https://zenn.dev/edash_tech_blog/articles/5b90aa33bd8d49",
+      "summary": "はじめに\nこんにちは。e-dash でエンジニアをしている iakito です。\nAI コーディングエージェントを使って開発していると、実装と一緒にテストも増えていき、気づいたときには膨大な量になっていることがあります。私が担当しているプロダクトも例外ではなく、PR CI の待ち時間は長いときで 18 分を超え、日々の開発で地味なストレスになっていました。\n本記事では、Claude Code を使ってこの待ち時間を 4 分台まで短縮した取り組みを紹介します。\n\n 背景\nCI 改善の対象は日々開発をしている Next.js（TypeScript）のアプリケーションです。テストには Vi..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Cloudflare + EmDash の自サイトを点検したら Server-Timing から内部情報が見えていた話",
+      "link": "https://zenn.dev/masaru21/articles/2100616bb5110d",
+      "summary": "Webサイトのセキュリティについて勉強するため、まずは自分で管理しているサイトを実際に点検してみることにしました。\n対象は、Cloudflare上で動かしている自分のWebサイトです。\n構成は大まかに、\n\nCloudflare Workers\nAstro\nEmDash CMS\nCloudflare D1\nCloudflare KV\nCloudflare R2\n\nなどを利用しています。\n今回は、いきなり広範囲な脆弱性スキャンを行うのではなく、\n\nNucleiで低負荷な技術判定\n\ncurl でHTTPレスポンスヘッダーを確認\n不要な情報露出がないか調査\n原因となるコードを特定\n必要最小限の修..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "AI時代、配布するPythonコードをどう守るか: 難読化の実験と判断軸",
+      "link": "https://zenn.dev/pksha/articles/0f9c11d1daea2e",
+      "summary": "はじめに\nこんにちは。PKSHA Technology でソフトウェアエンジニアをしている山本です。\n2026 年 8 月 22 日に広島で開催された PyCon JP 2026 にて、「AI 時代、配布する Python コードをどう守るか: 難読化の実験と判断軸」というタイトルで発表しました。本記事は、その発表内容をもとに、発表時間の都合で触れられなかった内容も加えて文章にまとめ直したものです。\n\n発表ページ: https://2026.pycon.jp/ja/talks/AQY9EF\n\nスライド: https://speakerdeck.com/pkshadeck/ai-jid..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "生産計画を手を動かして学ぶ ― OSS の frePPLe で MRP・需要予測・CP-SAT まで",
+      "link": "https://zenn.dev/rkawajiri/books/frepple-tutorial-ja",
+      "summary": "受注から購買・製造・配送の計画がどう作られるかを、OSS の生産計画ソフト frePPLe を Docker で動かして体験する無料ハンズオンです。MRP（所要量計算）と有限能力の制約あり計画の違い、遅れの原因をたどる方法、What-if、在庫・拠点間の配送、需要予測、OR-Tools CP-SAT による最適化まで、小さなモデルから順に学べます。業務知識は不要で、最初の3章はインストールなしで読めます。非公式ガイドです。"
+    },
+    {
+      "source": "zenn_trend",
+      "title": "ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する",
+      "link": "https://zenn.dev/nkzn/articles/my-first-void",
+      "summary": "筆者のポートフォリオサイトnkzn.netは、これまで何度か作り直してきました。最初はNext.jsとExpo(react-native-web)を組み合わせた構成、2代目はExpo Router、3代目はAstroと、その上で動くCMSのEmDashで作り始めたものの、完成しないまま止まっていました。\nそこへ2026年10月15日、Cloudflareのブログに「Deploy with Void」という記事が公開されました。\nhttps://blog.cloudflare.com/deploy-with-void/\nVoidZeroが開発していたVoidを、Platformまで含めてO..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "AWS初心者がエンジニアを辞めた話",
+      "link": "https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこんにちは。Tsukasaです！\nタイトルにある通りエンジニアを辞めました！\n今日は今までのキャリアの振り返りと何故エンジニアになったのか？そして何故辞めたのか？について振り返りたいと思います。\n\n今までのキャリア\n私は国際学部国際学科出身の正真正銘の文系です。..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "パスワード管理ツールについて調べた（1Password・Bitwarden）",
+      "link": "https://qiita.com/kozakoza/items/534ca5aadd59bfd1f6b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nパスワード管理ツールはなんとなく安全なんだろうなぐらいの認識だったので、どういう仕組みなのかを調べてみました。\nこの記事で扱うパスワード管理ツールは、1PasswordとBitwardenです。\nパスワードを管理している仕組みや、Googleパスワードマネージャ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "「ドパ資料」の作り方",
+      "link": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "この記事を開いたあなたは「ドパガキ」もしくは「ドパおじ」いや「ドパおば」かもしれませんね。 いずれにしてもドーパミンがドバドバ出る資料を求めてここにたどり着いたものと推測します。そんなあなたのためにこの記事ではドパ資料の作り方を書いていきます。\n\n👀 対象読者\n\n技術記事を..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "AI時代の開発プロセスとチームのあり方を考える",
+      "link": "https://qiita.com/kizuku_tabata/items/6d5b58ad0cb832d2a4c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n最近、Claude CodeやCodexといったAIコーディングツールを、ツール開発や提案用のPoC（概念実証）開発で活用する機会が増えてきました。\nまた、Google Apps Script（GAS）を使ったちょっとした業務改善などでも、AIを活用することがあ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "古くさいと思っていた報連相を、PMになってから今一度考えた話",
+      "link": "https://qiita.com/fe1ix/items/d78130c065835a6343a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n報連相。報告・連絡・相談。\n正直に言うと、僕はこの言葉がちょっと苦手でした。新人研修で最初に習うやつ。部下が上司に気をつかって、こまめに顔色をうかがうためのやつ。そんなイメージがあったんです。\nチームの若手から「報連相って、もう古いですよね」と言われたときも、内..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "怠惰の化身が資格取得するための勉強の習慣を身につけるまで",
+      "link": "https://qiita.com/giganticsaki_A/items/f0ed9ec5cff12106978e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n私は勉強が嫌いです。\n一生分の「勉強に使える集中力」は学生時代に使い果たしました。\n仕事が終わったら酒を飲みたい。\nできれば何もしたくない。\n休みの日は寝たい。\nそもそも勉強が嫌いなので、仕事以外の時間まで勉強したくない。\nとはいえ、エンジニアとして働いている以..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "Oracle AI Data Platform(AIDP)：Private Endpointの AI Lakehouseで Knowledge Base・RAG検索してみてみた",
+      "link": "https://qiita.com/shirok/items/8dd19291f959da310c99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "Oracle AI Data Platform（AIDP） では、Knowledge BaseやAgentなどのAI機能を利用するために、Oracle Autonomous AI Lakehouse（AI Lakehouse） を関連付けます。このAI Lakehouseは..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "NWの自動化はなぜ進まないのか(1) - 「割に合わない」が積み上がる構造",
+      "link": "https://qiita.com/corestate55/items/3c14cf36091495d8880b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n何をいまさら…という話ですが、クラウドの世界では Infrastructure as Code や Kubernetes による運用の自動化が当たり前になりました。\nNW運用領域でも、Ansible などで設定変更や情報収集をしているところは多いでしょう。では、..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～",
+      "link": "https://qiita.com/yuji-arakawa/items/1df29b844478f9df5960?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこの記事の内容は 2026/10/21 の Oracle AI Jam Session #41 はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～ にてご紹介させていただく内容をまとめたものです。\n生成AIを業務で活用するには、社内ナ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "AI の「直しました」に証拠を付けさせろ！ pstack を Claude Code に入れてみた",
+      "link": "https://qiita.com/kobayashi-fuuki/items/a7fbba06bb158dae0e11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "こんにちは、小林です!\n株式会社リンクアンドモチベーションでデータスチュワードをしています。個人開発では機械学習で米国株の押し目を推定して売買する機能を持ったアプリを作っていて、その開発で Claude Code を使い込んでいます。その環境に、Cursor の公式プラグイ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "2026年10月20日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "link": "https://qiita.com/ennagara128/items/19da01cfd8b63abfd018?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\nCVE-2026-99999（PwnEscap..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "AI Data Platform(AIDP) にオープンデータを取り込んで東京都62市区町村を分析してみてみた",
+      "link": "https://qiita.com/shirok/items/399e0042896dcc4c0b4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "■ はじめに\n前回は、Oracle AI Data Platform（AIDP）を作成し、外部Databaseの表へSQLを実行してみてみました。今回は、Databaseの外にあるデータをAIDPへ取り込み、SQLで比較できる形に整えるところから試してみます。\n使用する..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【2026年版】AIを駆使した開発手法をざっくりまとめてみた",
+      "link": "https://qiita.com/kobori_slj/items/b9683ce90f4c26a6e7ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "本記事は筆者個人の理解に基づくまとめです。\nこの分野は新しい言葉が次々に生まれていて、同じ言葉でも人や企業によって指す範囲が違います。厳密な定義が必要な場合は、各手法の提唱元の情報を確認してください。間違いや補足があれば、コメントで教えていただけると嬉しいです。\n\n..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "Lambda Web Functionsについて！",
+      "link": "https://qiita.com/PDC-Kurashinak/items/510620a2938af38f319d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "どうもこんにちは。\n2026/10/12にLambda Web Functionsが発表されましたね。\n\nついこの前、Lambda Web Adapterの記事を書いた僕にとっては、「この記事もうおじゃんになるんじゃね！」って思ったんですが、何やらちょっと調べてみたら棲..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "ngrok のような HTTP トンネルを docker compose 1つで自前運用できる OSS「gridbase」を試す",
+      "link": "https://qiita.com/nogataka/items/170f99bb52ecd720d3ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\ngridbase は、手元の Web アプリを公開 URL で見せるための HTTP トンネルを、自分のサーバーで動かす OSS です。\nngrok のようなサービスを、自前で持てる感覚です。\ndocker compose up 1回で、トンネルのサーバーと管理..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "「どうせ変わらない」は設計されたバグだ ― 政治改革・選挙制度の工学的分析 : システム設計視点の行動経済学 (45)",
+      "link": "https://qiita.com/maskot1977/items/32f57ea5e95bafcd322f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "user:\n「システム設計視点の行動経済学」、第45回を始めましょう。その前に、まず前回の復習として、\n「地方消滅」は財源幻想が招いた人災だ ― 地方財政の制度設計 : システム設計視点の行動経済学 (44)\nhttps://qiita.com/maskot1977/it..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "🔒「ファイルを送信しない」をCSPとPlaywrightで保証する",
+      "link": "https://qiita.com/Ruria1024/items/70c607a7899e1bda24b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "「このツールはファイルをサーバーに送りません」と書いてあるWebサービスは多いですが、それを利用者が確かめる手段はほとんどありません。この記事では、ブラウザ内で完結する道具箱サイトで「送信しない」を約束するために、CSPで通信先を物理的に止め、Playwrightで毎回確か..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 31",
+      "link": "https://qiita.com/maskot1977/items/2212572eb9b28044f4ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "user:\nソース動画のタイトル、そしてこの動画の内容について教えてください。\n\nGemini:\n動画のタイトルは 「日本経済を止める税制のブレーキ : Pythonで学ぶマクロ経済学入門 Podcast 31」 です。\nこの動画（YouTubeチャンネル「Pyth..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "Summernoteで挿入した画像を署名付きURLでS3に直接アップロードする",
+      "link": "https://qiita.com/ishi720/items/5468cfb47e7e3c96ddbb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nWYSIWYGエディタの Summernote は、画像を挿入するとデフォルトでは base64に変換してHTMLに直接埋め込みます。\nbase64のままだと画像がテキストとして本文に含まれてしまうため、画像ファイルのままAWSのストレージであるS3に保存したい..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "Claude Code × Figma MCP で作ったデザインを別のAIに検査させる — デザインのグラフエンジニアリング",
+      "link": "https://qiita.com/vivi-koh/items/fc957950ba9fd21c1d1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "Claude Codeで完璧なFigmaを出力させたい\nClaude Codeに「この画面、Figmaに起こして」と頼むと、Figma上に数分でフレームが出てきます。\nただ、一見して完成品でもデザイナー的には未完成です。\n配置や既存画面の情報設計を無視していることも多く、..."
+    }
+  ]
+}
