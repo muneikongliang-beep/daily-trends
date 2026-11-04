@@ -1,0 +1,486 @@
+{
+  "date": "2026-11-04",
+  "collected_at": "2026-11-04T01:54:04.499084",
+  "items": [
+    {
+      "source": "hatena_hotentry",
+      "title": "Amazonプライムビデオで見て損無しのマジおもろ映画厳選10作 | オモコロブロス！",
+      "link": "https://omocoro.jp/bros/kiji/592898/",
+      "summary": "Amazonプライムに入ってると見放題の「Amazonプライムビデオ」の中から、それなりにたくさん映画を見ている側の人間の私が、「これは面白いのでオススメです」と自信をもってオススメできるおもろ映画を色んなジャンルで10作ほどご紹介したいと思います。 こんにちは、映画好き人間です。 Amazonプライムってみんな入っ..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "アダルト動画サイトに組み込まれた情報窃取スクリプト群を追う - Weekend Researcher Tsurezure Diary",
+      "link": "https://disconinja.hatenablog.com/entry/2026/11/03/230647",
+      "summary": "要約 rivo.vinの名称を表示するアダルト動画サイトのHTMLに、非表示iframeとJavaScriptを動的に追加するコードを確認しました。収集したHTMLそのものには、3件の非表示iframeと5件の外部scriptを追加するローダーが存在しました。その後に改めて確認すると、メインページと2つのiframeで、当初の静的HTMLの一覧に加えてm..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "E2Eテスト大全（あなたの知らない、E2Eテスト周辺の理論） - 若くない何かの悩み",
+      "link": "https://blog.kuniwak.com/entry/e2ebok",
+      "summary": "目次 前置き 独自用語の整理と拡張について E2Eテストの境界と定義 UIテストとの概念的な差異 UIを操作しないE2Eテスト E2Eテストで検知可能な欠陥 正当性違反 妥当性違反 E2Eテストの利点 単体テストでは検知できない結合バグの検出 高い忠実度 内部設計への非依存性 E2Eテストの欠点と数理的制約 実行コストの高さ 保..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "ハウスメーカーの今の建築費をどう考えるか",
+      "link": "https://imoz.jp/scraps/202611_housemaker.html",
+      "summary": "ハウスメーカーの今の建築費をどう考えるか 同じ広さの家でも、構造や内外装、設備、設計・点検の範囲によって価格は変わります。本記事では、希望する家と予算に合う依頼先を考えるため、ハウスメーカー7社の特徴と価格を比較します。工務店で近い家を建てる場合の費用や、過去10年の建築費の変化も取り上げます。 ハウ..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "Aterm設定画面、「PHP使ってないのに.php」なぜ？　NECに聞いた",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002847/",
+      "summary": "同社によると、Atermの設定画面ではPHP本体や、一般に提供されているPHPの実行環境は使っていない。PHPから移行したわけでもなく、「過去にPHPを使っていた名残」との見方も否定した。 ではなぜ「.php」なのか。 クイック設定画面で「.php」と表示される機種に実装されているのは、「PHPの一部の仕様を参考にした独自の..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "トランプ氏、対イスラエル支援打ち切り表明…共和党苦戦の中間選挙影響か「なぜ我々が狂人の攻撃に耐えなければならないか」",
+      "link": "https://www.yomiuri.co.jp/world/20261104-GYT1T00042/",
+      "summary": "【読売新聞】　【ワシントン＝上村健太】米国のトランプ大統領は３日、米ＦＯＸニュースのインタビューに対し、イスラエルに対する年間４０億ドル（約６３００億円）の支援を年内で打ち切ると述べた。米紙ニューヨーク・タイムズは「数十年にわたる米"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "自治体システム移行で高額請求、ＩＴ大手の「手切れ金」との声も…公取委が実態調査へ",
+      "link": "https://www.yomiuri.co.jp/economy/20261103-GYT1T00297/",
+      "summary": "【読売新聞】　地方自治体が住民基本台帳などのシステム運用委託先を切り替えようとすると、委託先から高額な作業費を請求される事例などが相次いでいるとして、公正取引委員会は実態調査に乗り出す方針を固めた。独占禁止法が禁止する取引妨害に当た"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "「能動的に働かない」を半年やったら、ストレスフリーも甚だしかった｜kon_yu",
+      "link": "https://note.com/kon_yu/n/n09b2bab2e7a4",
+      "summary": "今年3月、会社売却を経て所属していたAIコンサルを退職した。 辞めた経緯について下の方の紹介文にリンクがある。その記事はたまに人に褒められる。 新卒で社会人になってから約20年間、働き続けてきた。そんな生活にいったんピリオドを打って次のあても決めず、社会的役割も一切持たない「無収入の半年間」へと突入した..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "アメリカ中間選挙2026 開票速報",
+      "link": "https://vdata.nikkei.com/us-election/2026/live/",
+      "summary": "およそ30年議席を守ってきた共和党のコリンズ氏を急進左派に近いジャクソン氏が破るのか。コリンズ氏はトランプ氏と距離がある共和穏健派の代表格。"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "「トヨタはすごい」は幻想に…EV補助金縮小であらわになる中国BYDと性能差　頼みの綱は高市政権による“嫌中”作戦だけになる　古賀茂明 | AERA DIGITAL（アエラデジタル）",
+      "link": "https://dot.asahi.com/articles/-/296641?page=1",
+      "summary": "古賀茂明氏 この記事の写真をすべて見る 豊田章男会長率いるトヨタ自動車。巨大な系列システムの頂点に立ち、全ての利益を吸い上げる仕組みを構築した世界に冠たる自動車帝国は不滅に見える。 【写真】北京モーターショーで公開されたトヨタのEVセダン「bZ7」がこちら そのビジネスモデルは世界中の企業の研究対象となり..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "【ぼくらの一線】22歳の会社員が美形の小学6年生相手に恋愛する漫画見つかる→『完全な性加害作品ですね。』",
+      "link": "https://posfie.com/@yonepo665/p/sPmxUkv",
+      "summary": "翼 @DWe5k @yamanakanobody 18禁…ではないのか？これ？ じゃあレジスタなんかよりもこっちを問題視というか重要視するべきなのではないのか？……おい！フェミども出番だぞ！！？ 2026-11-01 14:40:40"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "freeeにおけるSoftware Factory",
+      "link": "https://speakerdeck.com/freee/freee-niokeru-software-factory",
+      "summary": "freee 技術の日 2026のセッション資料です。"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "スペインサッカーのヘスス・デミゲル選手、衝突プレーで死亡　30歳",
+      "link": "https://www.cnn.co.jp/showbiz/35254320.html",
+      "summary": "（CNN） サッカーのスペイン2部リーグで2日に行われた試合中、選手同士がフィールド上で衝突する場面があり、スペイン人ストライカーのヘスス・デミゲル選手（30）が亡くなった。所属チームのテネリフェが明らかにした。 デミゲル選手は試合終了間際、アンドラのGKヘスス・オウォノ選手と衝突して負傷した。デミゲル選手..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "ランチの値段はもう1500円が当たり前になってしまった。 ほんの数年前はランチ800円だった店も1500円とかでほぼ倍になってるのに、給料は倍になんてなってない… 駅前はつぶれる飲食店が増えてる やっぱどの店もこの急激な値上げ値上げで客が減ってるのかな→「私は『ワンコインランチ』が主流だった頃を覚えてますが、その当時から時給が3倍になってはないですね」",
+      "link": "https://posfie.com/@kalofollow/p/Lr87LNs",
+      "summary": "ベイクスタンド・シャモニー @29g85lZWQufOUEO @nyankoro1017 ランチの値段が気になる現役世代の皆さんが、この先老いて施設に入ろうと思った時、おそらくその費用にまた愕然とすることになると思います 氷河期世代は野垂れ死になんて言われるかもしれません😢 2026-11-03 16:10:44 nyankoro @nyankoro1017 @29g85lZWQuf..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "ロシア軍がウクライナの学校に滑空誘導爆弾を大量爆撃して民間人31名が死亡、巨大な3トン爆弾投下の情報（JSF） - エキスパート - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/expert/articles/4a308d002ef95a8c87f25835e2fadc34d63f7e12",
+      "summary": "2026年11月2日にロシアによる侵略が続くウクライナの南部ザポリージャ州のコミシュヴァハ村の学校にロシア軍の戦闘機の投下した滑空誘導爆弾による爆撃があり、ウクライナ国家非常事態庁は11月3日午後2時現在（日本時間11月3日21時）で31名が死亡したと報告しています。まだ50人近くが行方不明で救助活動は継続中であり..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
+      "link": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
+      "summary": "agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI です。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作します。この記事では agent-desktop の基本的な使い方を確..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "『スカイリム』に続く新作『TES6』の正式タイトルが『The Elder Scrolls VI: Sentinel』と発表！！",
+      "link": "https://news.denfaminicogamer.jp/news/261104e",
+      "summary": "11月3日、『エルダー・スクロールズ』シリーズの正式タイトルが『The Elder Scrolls VI: Sentinel』となることが発表された。 この情報はBethesda Game Studiosの40周年を祝う映像の中で、トッド・ハワード氏が発表したもの。映像はしばらくの間、砂漠のような風景が映し出されたのち、その中から何かしらの人工物が現れ..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "日経トレンディ「2026年ヒット商品ベスト30」　この1年で売れたものは",
+      "link": "https://xtrend.nikkei.com/atcl/contents/18/01506/00001/",
+      "summary": "物価高騰に消費者が悲鳴を上げている――。「インフレ疲れ」で様々なストレスにさらされる世相を反映するように、2026年のヒット商品は「高くて良い物」ではなく、支出を抑えながらも「小さな幸せを得られる物（ポケット消費）」が多かった。30商品・サービスのランキングを一挙に無料公開する。 閲覧中第1回 日経トレンデ..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "第1話 運命の相手 / Honey Creep - 柳本光晴 | サンデーうぇぶり",
+      "link": "https://www.sunday-webry.com/episode/12207421984447636988",
+      "summary": "ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標（登録番号 第6091713号）です。 詳しくは［ABJマーク］または［電子出版制作・流通協議会］で検索してください。"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "三菱UFJ、三菱UFJエムット銀行でキャッシュカード全廃　サイバー防御へスマホ入出金 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB29C0N0Z21C26A0000000/",
+      "summary": "三菱UFJフィナンシャル・グループは2027年に開業する新銀行でキャッシュカードを全廃する。セブン銀行と提携し、スマートフォンを使って預金を引き出せるようにする。認証方法を複数にしてサイバー犯罪からの安全性を高める。半世紀続く預金の出し入れが変わる転機になる。人工知能の進化で企業へのサイバー攻撃が急増し..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "アダルト動画サイトに組み込まれた情報窃取スクリプト群を追う - Weekend Researcher Tsurezure Diary",
+      "link": "https://disconinja.hatenablog.com/entry/2026/11/03/230647",
+      "summary": "要約 rivo.vinの名称を表示するアダルト動画サイトのHTMLに、非表示iframeとJavaScriptを動的に追加するコードを確認しました。収集したHTMLそのものには、3件の非表示iframeと5件の外部scriptを追加するローダーが存在しました。その後に改めて確認すると、メインページと2つのiframeで、当初の静的HTMLの一覧に加えてm..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "E2Eテスト大全（あなたの知らない、E2Eテスト周辺の理論） - 若くない何かの悩み",
+      "link": "https://blog.kuniwak.com/entry/e2ebok",
+      "summary": "目次 前置き 独自用語の整理と拡張について E2Eテストの境界と定義 UIテストとの概念的な差異 UIを操作しないE2Eテスト E2Eテストで検知可能な欠陥 正当性違反 妥当性違反 E2Eテストの利点 単体テストでは検知できない結合バグの検出 高い忠実度 内部設計への非依存性 E2Eテストの欠点と数理的制約 実行コストの高さ 保..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "Aterm設定画面、「PHP使ってないのに.php」なぜ？　NECに聞いた",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002847/",
+      "summary": "同社によると、Atermの設定画面ではPHP本体や、一般に提供されているPHPの実行環境は使っていない。PHPから移行したわけでもなく、「過去にPHPを使っていた名残」との見方も否定した。 ではなぜ「.php」なのか。 クイック設定画面で「.php」と表示される機種に実装されているのは、「PHPの一部の仕様を参考にした独自の..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "freeeにおけるSoftware Factory",
+      "link": "https://speakerdeck.com/freee/freee-niokeru-software-factory",
+      "summary": "freee 技術の日 2026のセッション資料です。"
+    },
+    {
+      "source": "hatena_it",
+      "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
+      "link": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
+      "summary": "agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI です。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作します。この記事では agent-desktop の基本的な使い方を確..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "薄く・軽く。画質も「プロ級」になった新iPad mini【西田宗千佳のRandomTracking】",
+      "link": "https://av.watch.impress.co.jp/docs/series/rt/2153275.html",
+      "summary": ""
+    },
+    {
+      "source": "hatena_it",
+      "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
+      "link": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
+      "summary": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ　CVE-2026-58882をGoogleがCriticalで修正 Androidの電話機能を、細工されたSMSを受信させるだけで停止させる脆弱性「CVE-2026-58882」が公表されました。「SMS of Death」と呼ばれるこの問題は、利用者がメッセージを開く操作をしなくても発..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "GitHub、より高度なコードレビューを行う「Copilot Code Review Max」発表。GitHub Universe 2026",
+      "link": "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
+      "summary": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、より高度なコードレビューを行う新機能「Copilot Code Review Max」を発表しました。 GitHub Copilotは以前からコードレビューのための機能「Copilot Code Review」を提供しており、バグの検出などのコードレビュ..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+      "link": "https://blog.cloudflare.com/zero-wire/",
+      "summary": "November 3, 2026Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities You run security at your organization. It’s 7:00 am, and you’re having breakfast. You receive a ping: a new critical vulnerability has been disclosed. Your team scrambles to compare vendor advisories,..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026",
+      "link": "https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html",
+      "summary": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、AIエージェント時代に対応した大幅な性能向上を実現することを明らかにしました。 性能向上はGitHubの基盤をMicrosoft Azureへ移行し、コンピュートとストレージを分離する新アーキテクチャの採用と、ロックをリポ..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "ライフカード「Vプリカ」で個人情報漏えいの可能性、委託先のGMOペイメントゲートウェイで「不正ユーザーによる行為」",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2153282.html",
+      "summary": ""
+    },
+    {
+      "source": "hatena_it",
+      "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜 - Qiita",
+      "link": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f",
+      "summary": "⚖️ はじめに 最近Jevをはじめとした判断特化型のモデルが続々と出てきていますよね。文章は書かずに「はい」の確からしさだけを返してくれるモデルです。この判断モデルをRAGの検索に使う「DecisionRAG」という論文が出ていたので自分なりに噛み砕いてみました。後半は通常のRAG（以降NaiveRAGと記載）と比較検証をしてみ..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "委託先メール配信サービスへの不正アクセスに関するお詫びとお知らせ  |NEWS|アソビュー株式会社",
+      "link": "https://www.asoview.co.jp/news/articles/AyTdT_tX",
+      "summary": "平素よりアソビュー！をご利用いただき、誠にありがとうございます。このたび、弊社がメール配信に利用している、アララ株式会社（以下「アララ社」）が提供するメール配信サービス「アララメッセージ」（以下「本サ..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
+      "link": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
+      "summary": "「業務フローがよくわからないんだよね」という状態でも、チャラくバイブコーディングで自力でシステムが作れる時代が来ました。特にエンジニアは、アイディアをすぐに形にできます。普段からClaude CodeなどのAIエージェントに慣れ親しんでいれば、バイブコーディングのハードルは数ミリ程度まで下がっています。その結..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "アンドパッドSREが抱える課題をPlatform Engineering Kaigi 2026の参加者にぶつけてみた結果 - ANDPAD Tech Blog",
+      "link": "https://tech.andpad.co.jp/entry/2026/11/04/100000",
+      "summary": "はじめに ブースについて 「Platform Engineering チャレンジ」 当日の様子 ノベルティ ANDPAD バッグ メジャー 御朱印帳 ブースで会話した内容 よく聞かれた質問・話題 参加者の課題感として共通していたこと 印象に残った会話 学び・今後に向けて 参加して見えた業界の動向 アンドパッドの Platform Engineering にど..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "「黙ってブラビアを買いなさい。」アワード大賞受賞モデル“True RGB”の価値と魅力を語りつくす！[Sponsored]",
+      "link": "https://av.watch.impress.co.jp/docs/topic/special/2149395.html",
+      "summary": ""
+    },
+    {
+      "source": "hatena_it",
+      "title": "個人情報を扱う常駐型AIエージェント「Muse」のセキュリティの仕組み｜npaka",
+      "link": "https://note.com/npaka/n/ncccb2783a262",
+      "summary": "1. はじめに2026年9月8日、Metaは常駐型AIエージェント「Muse」のセキュリティ設計について、技術記事「How We Built Safety Into Muse」を公開しました。 Museは、ユーザーの好みや個人情報を記憶し、メールの確認、予定の管理、買い物、Web操作などを自律的に実行するAIエージェントです。 こうした機能は便利ですが、..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "毎年1万円だったドメインが、いきなり17万円になった話｜藪原太郎",
+      "link": "https://note.com/t_yabuhara/n/n7871bfc65d5c",
+      "summary": "はじめに「毎年1万円弱で更新していたドメインが、ある日突然17万円に…」 そんな話、信じられますか？ しかし、これは私が管理している 「taro.bar」 というドメインで起きた現実です。今回はその経緯と、国際ルールとの衝突をテーマに書いてみようと思います。 実際に起きたことこれまで「taro.bar」は 9,566円 で更新..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "続報：毎年1万円だったドメインが、いきなり17万円になった話｜藪原太郎",
+      "link": "https://note.com/t_yabuhara/n/nf9692965d028",
+      "summary": "結論前回お知らせした taro.bar の件は、残念ながら状況が変わりませんでした。上位レジストリによるプレミアム化という説明のもと、更新価格は 171,517 円の提示が維持され、販売会社の裁量では変更できないという回答でした。補償策として、別ドメイン取得に充当できる 1 万円分のポイント付与をご提案いただきました..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "アソビュー 1580万件が流出か - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/pickup/6601228",
+      "summary": "レジャー施設等のチケット予約システムを手掛ける「アソビュー！」のメール配信システムが第三者による不正アクセスを受け、同社でチケットを購入した人の個人情報が流出した可能性があることが分かりました。福井県立恐竜博物館のチケットを同社経由で購入した人の情報も流出した可能性があり、県が注意を呼び掛けてい..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Radeon VIIとUbuntu 26.04でROCmを動かし、Flash-NextをOpenCodeにつないだ",
+      "link": "https://zenn.dev/masanork/articles/radeon-vii-rocm-strata-opencode",
+      "summary": "5年ほど前に組んだデスクトップがある。当時、GPUにはすでに型落ちだったRadeon VIIを5万円くらいで入手して載せた。Stable Diffusionで遊んでいた時期もあったが、飽きてからはすっかり出番がなくなっていた。\n最近はローカルLLMが盛り上がっている。とはいえ、パソコンもGPUもクソ高い。新しいGPUを買う前に、あまり期待せず、久しぶりにこのデスクトップに火を入れて環境を組み直してみることにした。\n気になったのは、Radeon VIIのROCm公式サポートが切れていることだ。かなり苦戦する覚悟だったが、実際にはChatGPTのGPT-6.1 Terra（medium）に相..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "(備忘録) お名前.comからRoute 53へドメイン移管し、お名前メールをさくらのメールボックスへ移す",
+      "link": "https://zenn.dev/momura/articles/896dbde5e42491",
+      "summary": "はじめに\n個人で利用している独自ドメインの管理をお名前.com → Route 53 に移し、お名前メールもやめた。その作業の備忘録。\n\nDNS とドメインの登録を Route 53 に移す流れ\nメールの移行先の選定（WorkMail は終了予定）\nRoute 53 のレコード名に @ と入れてメールが届かなくなった件\n\nドメイン名やサーバー名は example.com などに置き換えている。\n\n 前提と構成\n\n\n\n項目\n移行前\n移行後\n\n\n\n\nレジストラ\nお名前.com\nAmazon Registrar（Route 53 Domains）\n\n\nDNS\nお名前.com\nRoute 5..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Aurora とDynamoDBとTimestreamとBigQueryを2400万レコードで性能比較してみた",
+      "link": "https://zenn.dev/ncdc/articles/c47df2c1f32e0c",
+      "summary": "はじめに\n私が働いているNCDCでは、年に1回会社でハッカソンをやっています。\n興味ある技術を使って、なんか作るみたいなイベントです。\n私はDBに最近興味を持っているので、DBの性能を比較するWEBアプリを構築しました。\nそこで得た知見をこの記事に残したいと思います。\nこの記事は、ベンチマーク記事というより、性能を比較しようとして気づいたことをまとめたものです。\nフェアな比較の難しさも、あわせて書いています。\n数値は、私が組んだ条件での参考値として読んでください。\n\n シナリオ\n電車の IoT センサーが、1 秒に 1 回、5 つの値を記録して、データが溜まっていく場面を想定しました..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "ADRをregoでlintする",
+      "link": "https://zenn.dev/babarot/articles/regomark-adr-checker",
+      "summary": "AIが書くADRのフォーマットをどう揃えるか\n自分のリポジトリでは、設計の決定を ADR（Architecture Decision Records）として docs/adr/ に残している。最近は、その ADR の多くを Claude Code に書いてもらっている。決定を相談して、「これを ADR にしておいて」と頼むと書いてくれる。\nただ、AI に書かせた ADR は、少しずつ自由になっていく。テンプレートを置いて書き方を指示していても、ずれるときはずれる。たとえば、\n\nDecision に、画面のメニュー項目の一覧や定数、構造体の定義まで書いてある。仕様書に近づいて、コードを..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "1 人チームでKiro CLI とISUCON2026に参加した記録：エージェントに任せたこと、任せきれなかったこと",
+      "link": "https://zenn.dev/ndmxjp/articles/isucon2026-kiro-agent-ops",
+      "summary": "はじめに\nこんにちは！ AWSでソリューションアーキテクトをしている齋藤 拓巳です。\n2026 年 10 月 31 日のISUCON2026に、1 人チーム「takumi_」で参加しました。作業のほとんどは手元の Kiro CLI に任せ、最終スコアは 109,240 点、順位は 149 位でした。\n8 時間で試した変更は 42 個です。ただ、優勝の 625,857 点とは約 5.7 倍の差があり、「こうすれば勝てる」と言える結果ではありません。この記事は、作業のほとんどをエージェントに任せた 1 人チームが、何を用意し、当日どう動かし、どこで行き詰まったかの記録です。用意したキット..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
+      "link": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
+      "summary": "「業務フローがよくわからないんだよね」という状態でも、チャラくバイブコーディングで自力でシステムが作れる時代が来ました。特にエンジニアは、アイディアをすぐに形にできます。普段からClaude CodeなどのAIエージェントに慣れ親しんでいれば、バイブコーディングのハードルは数ミリ程度まで下がっています。その結果、要件定義できるほどの解像度はない、できてからいろいろ意見はしたい、でも人の介在は最小限にしたい、という ガチのシステム屋さんに言ったら殴られそうな 要望を持つことも多いでしょう。\n\n TL;DR\n\n要件が固まらないままClaude Codeでバイブコーディングしたら、テストは通る..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "quench を管理者アカウントから卒業させる：シャットダウン専用の Windows アカウント svc-power",
+      "link": "https://zenn.dev/ryuchama/articles/forge-svc-power-account",
+      "summary": "はじめに\n前回の記事で、ラズパイから Windows PC をシャットダウンするコマンド quench を作りました。quench foo と打てば、確認を挟んで SSH で shutdown を送り、PC が止まるまで待ってくれます。\nただ、前回の記事の最後にも書いたとおり、今の quench は Windows の管理者アカウントで SSH しています。ラズパイに置いてあるこの秘密鍵があれば、シャットダウンどころか、ソフトのインストールもファイルの削除も、何でもできてしまいます。\n最近、企業の情報漏洩のニュースを目にすることが急増しています。個人の環境であっても、「必要以上に強い..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Human-out-of-the-loop(もどき)で戦うISUCON2026 (301,558 点 | 12 位)",
+      "link": "https://zenn.dev/ponyo877/articles/2a8a24acc2ea3b",
+      "summary": "ISUCON2026に応援とちょっかい出しの二人とClaude Code(Opus 5.5+Fable 5.1)のチームで参加しました。\n結果は 301,558 点で856 チーム中 12 位でした 🎉\n\nISUCONとは与えられたWebアプリを8時間でどこまで速くできるかを競うコンテストです。\n運営が用意したベンチマーカーを走らせるとスコアが出ます、楽しいです。\n今回は人間は方針を伝えるだけにしてコードの修正からデプロイ、ベンチ、結果の判断、記録までをエージェントに任せてみました\n人間が一手ずつ確認する「ヒューマン・イン・ザ・ループ」の逆、人間がループの外にいる形なので、ヒューマン・ア..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "ISUCON2026 で優勝しました（当日編）",
+      "link": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
+      "summary": "はじめに\nこんにちは！ @kawasy です。普段は Typing Bears という人間1人の会社で個人開発・研究をしながら、スタートアップを中心に経営課題の解決を支援しています。活動の主なテーマは、ソフトウェアプロダクト開発企業に必要なCTO機能の提供と育成です。\nISUCON2026 にチーム Typing Bears として1人で参加し、最終スコア 625,857 点で優勝しました。ISUCON への参加は10年ぶりです。\n今回は、完全自律で動作する、HOOTL（Human-out-of-the-loop）型のISUCON用の競技エージェントを用意して参加しました。土曜日は子..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "学部生3人でISUCON2026に出て、最後に証拠より常識を選んで負けた話",
+      "link": "https://zenn.dev/enari_k/articles/b512e044ec9240",
+      "summary": "はじめに\nこんにちは、enari_Kです。ISUCON2026 にチーム 判 で出ました。最終スコアは約 30,000。途中で約 40,000 まで出ていたのに、最後の最後にチームの判断ミスで落としました。悔しいので、当日何が起きていたのかを残しておきます。\nスコアはどれも記憶ベースのおおよその値です。\n最終スコア29387の最大スコア45248\n順位は全体409位、学生27位です。\n\n 問題の概要\n今年の題材は写真 SNS の「ISUReal」。アプリサーバが asia1・europe1・america1 の 3 台あって、DB は asia2 の PostgreSQL 1 台をみ..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
+      "link": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
+      "summary": "はじめに\nみなさん、ADR（Architecture Decision Record）は書いていますでしょうか？\nAIを使ったソフトウェア開発において「意思決定の記録を残す」ことの重要性は、今や多くのエンジニアに周知されているかと思います。\n僕が率いるチームにおいても、プロジェクト開始初期から様々な技術的な意思決定をADRに記録し、運用してきました。最近では、ADRのドラフト作成もAIに任せるようになっています。\nところが、ADRを書くルールを整備しないままAIに書かせていると、 人間が読み返しづらいADR が次々と出てくるようになりました。「人間がじっくり目を通すべきものの代表格」..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "弊社がAIでPlaywrightテストコードを生成するために調整したこと",
+      "link": "https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude",
+      "summary": "こんにちは！CastingONEの大沼です。\n\n 始めに\n弊社では毎回のQA期間で行うテスト工数を減らすために、Playwrightを使った自動テストを導入しました。テストコードはAIで生成したものを使っていましたが、最初は品質が悪く色々調整する必要があったため、この辺について備忘録としてまとめました。\n\n AIが生成したコードで微妙だった点と対策\nどういったルールが必要なのか僕も分からなかったので一旦AIに色々書かせてみて、ここは調整した方が良いなと思ったのをいくつか紹介します。なお、最初のルールはとりあえず公式が説明している方法で出力されたルールを日本語訳にしたものを使いました。\nh..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Agent DX 〜 AI時代にフレームワークHonoは必要か",
+      "link": "https://zenn.dev/yusukebe/articles/3d3dc6605ca1b1",
+      "summary": "AIがユーザーになりました。我々は人間向けの開発者ではなく、AI向けの開発者体験を考えなくてはいけません。\n我々は人間です。雰囲気で「フレームワークは必要ない」「フレームワークは必要」と言っても、AIの意見ではありません。人間の意見です。説得力がありません。我々人間はAIのことをもっと知らなくてはいけません。\nそこで、Honoでは「Agent DX」というプロジェクトを立ち上げて、AI向けの開発者体験をちゃんと測りました。以下3つのカンファレンスでAgent DXについて話しました。\n\nAI時代のWebフレームワークはどこへ行く？ - フロントエンドカンファレンス福岡 2026\nHono..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "ISUCON2026 にツールを捨てて勝ちたかった",
+      "link": "https://zenn.dev/mazrean/articles/5c968503fd69a3",
+      "summary": "ISUCON2026 に INUCON2026(いい感じに猫を動かすコンテスト ニャオニャム)として参加したのでその参加記です。\n最終スコアは 198,146、順位としては 40~50 位あたりになりそうです。\nISUCON には ISUCON 9 から参加していて、ISUCON 12 からは「誰でも ISUCON 優勝クラスのチューニングができる」ようにできないかと思い、ツールの力で勝とうと 1人チームで参加していました。\nhttps://trap.jp/post/2434/\nただ、前回の ISUCON 14 から2年たち、少なくとも昨年以前の問題では「誰でも ISUCON 優勝クラス..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "日本の全法令を git の履歴にしてみた",
+      "link": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
+      "summary": "きっかけ\nただの思いつきです。\n私は法律のことを全然知りません。ただ、最近は AI のおかげで、知らない分野の調べものがとても速くなりました。国会会議録の API を眺めていたときに、ふと「法律を git で管理したら面白いのでは」と思いつきました。知らない分野でも、AI と一緒ならどこまでできるのか試してみたくなりました。\n法律の改正は「〇〇法の一部を改正する法律」という別の法律で行われます。中身は「第三条中『A』を『B』に改める」のような書き換えの指示なので、読んでも結局どこがどう変わったのかが分かりにくいです。\nこれは diff だな、と思いました。法律の本文をファイルにして、..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
+      "link": "https://zenn.dev/kauche/articles/f3736c660aab77",
+      "summary": "この記事の下書きは、メンバーの 1 人が使っていた Claude Code が、当日の Slack、リポジトリ、Google Meet の自動メモをもとに作りました。そのメンバーが加筆と修正をしています。\n\n3 人のチーム「いくぜカウシェ」で ISUCON2026 に参加しました。最終スコアは 207,039 点です。\n各メンバーが自分の PC で Claude Code を動かし、調査からデプロイ、ベンチマークの実行までを任せました。エージェントどうしは会話の履歴を共有していません。連絡はすべてチームの Slack チャンネルで行い、4 台のサーバーへのデプロイがベンチマークの実行と..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "ペイントツール上でニューラルネットワークを動かす",
+      "link": "https://zenn.dev/melville/articles/953aa2b41f674b",
+      "summary": "ペイントツール（ここではKrita）で数字を描くと、その数字に対応する棒が伸びます。\n\nKritaの標準フィルターと合成レイヤーのみで計算しています。入力レイヤーを変更すると、クローンレイヤーとフィルターレイヤーの依存関係に従って出力が更新されます。\n以前ペイントツール上でライフゲームを動かすという記事を書きましたが、今回はその発展として手書き数字を認識するニューラルネットワークを作成してみた形になります。\n\n 下準備\n各ピクセルで負の数も含めた計算を行いたいため、プロジェクト設定は RGBA・32bit浮動小数点・linear RGB にします。\n\n 何を計算するか\n\nこれは今回作った..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "FlutterKaigi 2026 で生字幕を映像に載せて会場スクリーンに投影しました",
+      "link": "https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae",
+      "summary": "自動翻訳字幕\n\n取り急ぎ、問い合わせが多かったので書きました。不足分は徐々にアップデートします。\nFlutterKaigi 2026（2026-10-29・30）では、登壇者の話をその場で文字起こし・翻訳して、スライドとカメラを合成した映像に字幕として焼き込みました。英語のセッションには日本語の字幕、日本語のセッションには英語の字幕が出ます。\n実際の字幕はこちらからご確認いただけます。\nこの記事では、各部屋に 1 台置いて、合成と字幕の焼き込みをした「合成 Mac」を紹介します。\n\n 処理の流れ\n合成 Mac は、スライドとカメラの映像を合成し、訳した字幕を足して、3 か所に出力しま..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "今後のセキュリティの考え方",
+      "link": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
+      "summary": "どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。\n本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。\n当日は時間の関係でお伝えしきれなかった、今後のセキュリティの考え方について、改めて書いてみます。\n特に AWS 環境の話をしていきますが、すべての環境において共通です。\n\n アタックサーフェスや管理面を減らす\n管理面を減らすというのはどういうことかというと、例えばポートを閉じるとかです。意外に思われるかもしれませんが、例えば Amazo..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
+      "link": "https://zenn.dev/progate/articles/24b1140180300c",
+      "summary": "Progate で業務委託エンジニアをしている横江( @yokoe24 )です！\nセキュリティの話が重要視される昨今ですが、\nみなさんは GitHub Actions の Workflow ファイルで、こんな書き方をしていませんか？\nsteps:\n  - uses: actions/checkout@v7\n・・・私は書いています！！🙈\nこの記事を書きながら、過去の個人リポジトリ、直さなきゃなぁ……って思っています。\n\n @v7 と書くリスク\nnpm の件などで敏感になっている方はお気付きかもしれませんが、\n@v7 のような書き方は、最新の v7.x.x に追従でき便利な一方[1]、\n攻撃..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "営業こそコミュニティでは「No sell」でいよう",
+      "link": "https://qiita.com/sadabon444/items/83535ce9f3dd7d56600e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "この記事は100%人力で書いています。\n\n忘れもしない、しばらく前のこと。\nとあるITコミュニティに、同僚の営業職が参加した。\n私は営業職ながら、そのコミュニティや、コミュニティにいる方々を良く知っている。\nそのため、善意で色んな人を繋ごうと、紹介しようとした。\n「こ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "生成 AI が進化する今こそ、「人材育成」が経営の重要課題ではないか",
+      "link": "https://qiita.com/Takashi_Masumori/items/3c3091a6142d3e05385b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "今の成果と、将来の組織の力は同じではない\n生成 AI をどう社内で活用するか。費用対効果は出ているのか。どれだけ業務を効率化できるのか。\n企業で生成 AI の活用を進める際、こうしたことが議論されています。もちろん、どれも大切です。\nただ、生成 AI が急速に進化している..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【未来を解説】AIでエンジニア格差を生み出す質とスピードの考え方",
+      "link": "https://qiita.com/Sicut_study/items/b9e38c0584d4aa720d31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこんにちは、Watanabe Jin(@Sicut_study)です。\nAIエージェントによる開発が当たり前になり、多くの現場でスピードを求められるようになりました。\nしかし、便利になったと感じると同時に、こんな瞬間はありませんでしたか？\n「一年前と比べて、ス..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "「⚪︎⚪︎はしないで」は効かない？AI Agent の危険行動を制限する 5 つの方法と守られる強さで比べた",
+      "link": "https://qiita.com/songchong/items/945479177d4dcbb80f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "AI エージェントに「⚪︎⚪︎はしないで」と書けば、その通りにしてくれるのでしょうか。\n答えは、🔴 問題: 「しないで」と禁止だけを頼むと、守られないことがありました、です。IT連携マップ編集部は、AI エージェント（Claude Code・Antigravity CLI・..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜",
+      "link": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "⚖️ はじめに\n最近Jevをはじめとした判断特化型のモデルが続々と出てきていますよね。文章は書かずに「はい」の確からしさだけを返してくれるモデルです。この判断モデルをRAGの検索に使う「DecisionRAG」という論文が出ていたので自分なりに噛み砕いてみました。後半は通..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "[AWS]日本語OCRがついにきちゃー！ ~Textractにいろいろ読ませてみた~",
+      "link": "https://qiita.com/kikuziro/items/9aff0fefe89cfa13192e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "📣 はじめに\n2026年11月2日にAWSのAmazon Textract（OCRしてくれるやつ）が日本語に対応して東京リージョンでも使えるようになりました。以下記事がとてもわかりやすいので是非ご参照ください。\n\nこの記事ではいろんな画像をTextractに読ま..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "ナレッジグラフを自動生成!?Oracle AI Database 26aiの23.26.4で追加されたGraphRAG機能を試してみた",
+      "link": "https://qiita.com/ssfujita/items/62b9502167c97f898b90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "GraphRAGは文書の意味的な類似性だけでなく、文書に含まれるエンティティ（人物・組織・製品など）とその関係性を活用して情報を検索する技術です。\n通常のベクトル検索では捉えにくい、複数の情報間のつながりを検索に利用できる点が特徴です。\nOracle AI Database..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "S3への画像アップロード、署名付きPUTとPOSTはどう使い分ける？",
+      "link": "https://qiita.com/pengin_r/items/d3f3fbe1b4ba1e648ed7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nエンジニア未経験で入社し、初めてAWSに触れる中で、画像をAmazon S3にアップロードする方法が複数あることを知りました。\nその中でも、署名付きPUT URLと署名付きPOSTという2つの方法があり、何を基準に使い分ければ良いのか迷ったため、今回はAWS公式..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【Vue.js_1時間入門⏰】1時間でローカル環境の構築からシンプルなカウンターアプリを作るまで🔢【初心者向け】",
+      "link": "https://qiita.com/saito_next/items/5c9c643228e33b3d6e3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "この記事で作るもの\nこのようなものを作ります。ブラウザで動くカウンターアプリです。\n「ボタンを押してね」を押すたびに画面の数字がカウントされていく仕組みです。\n\nはじめに\nJavaScript、そしてそのフレームワークであるVue.jsの操作感を学習するために、簡易的な..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "Strataを使ってMac mini（32GB）でQwen3.8-Flash-Next（125B）を動かす",
+      "link": "https://qiita.com/eiji-noguchi/items/174b7557ffcdb932ca40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "初めに\n普段は M4 Mac mini（32GB）でOllamaを使って30B前後のモデルでローカルLLM環境を作っているのですが、32GBだとどうしても動かせるモデルのサイズに限界があります。\nそんな中、最近 Strata というツールが「メモリに入りきらない大きなモデ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "Qiita Advent Calendar 2026のアップデートの紹介",
+      "link": "https://qiita.com/Qiita/items/64672279a5a83b739f7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n今年もQiitaでは毎年恒例の Qiita Advent Calendarを開催中です    \n\nこの記事では、今年のQiita Advent Calendarのアップデート・新企画をご紹介します！\n\n新企画\n\n巨大Qiitan ぬいぐるみ（50cm）を最..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "Claude CodeとArduino CLIは相性バツグン！時代はバイブIoTだー",
+      "link": "https://qiita.com/moritalous/items/744f13ec61892e9c520b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "M5STACKご存知でしょうか？こういうやつです。\n\n私が持ってるのは「Core2 For AWS」というAWSカラーのものです！\n\nこの四角いもの以外にも、色んな形があります。ケーブルで接続するだけで使えるセンサーとかもあって、楽しいです。\n\n一昔前（？）までは..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【AWS】GitHubのトラフィックを定期的に集計するダッシュボードを作ってみた",
+      "link": "https://qiita.com/yakumo_09/items/e3a3235210220486621d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nGitHub のリポジトリには Insights → Traffic という画面があって、ビュー数やクローン数を見られます。ただ、見られるのは直近14日分だけです。\n\nそこで、トラフィックを毎日集計して DynamoDB に貯め、累計をダッシュボードで見られるよ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "インフラの開発環境構築を3ヶ月→1ヶ月にしたClaude Codeの使い方（AWS / ECS 9サービス）",
+      "link": "https://qiita.com/shainfra07/items/c149c06162ab1f3b136a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nAWS上の開発環境の構築を、Claude Codeを使って3ヶ月→1ヶ月で終えました。\nこの記事では、何をClaude Codeに任せ、何を任せなかったのか、なぜ短縮できたのかを書きます。\n※案件が特定されないよう、構成は一般化しています。\n\n作った環境\n\nクラ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "キャラに合う2D背景が見つからないので、Claude Codeにプロンプトを書かせてChatGPTで一から作った",
+      "link": "https://qiita.com/yasuharusmooth/items/450fe98c52ea6fc8b5a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "キャラに合う2D背景が見つからないので、Claude Codeにプロンプトを書かせてChatGPTで一から作った\n私はゲームのプログラムが書けません。AIに日本語で指示して、Unity 6で2Dアクションゲームを作っています。\nこの記事は、前回の記事の続きです。\n2Dアニ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "AI から答えを取り上げた上長が、今度は評価から「コード」を取り上げることにした",
+      "link": "https://qiita.com/jksoft/items/e09426e5fbf291dcf146?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "前回書いた「エラーを3秒でAIに丸投げする若手を見て、AIから答えを取り上げることにした」が、思っていたよりずっと多くの人に読まれました。コメントもはてなブックマークのコメント（100件以上ありました）もひととおり読みました。ありがとうございます。（賛否両方あって、読んで..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "防御側の LLM 活用：ログ分析・アラート一次対応・脅威インテリジェンスで「ログを入力として疑う」設計",
+      "link": "https://qiita.com/shalXXXX/items/5920c6ba75c2f1203f1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "SOC（セキュリティ監視の現場）でも、LLM にログを要約させる、アラートの一次判定をさせる、脅威レポートから IoC（侵害の痕跡となる IP アドレスやドメイン）を抜き出させる、といった使い方が広がっています。件数の多い作業を減らせる一方で、防御側の LLM には特有の弱..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "AIに証明を書かせてセキュアに開発できる言語 Tauto をリリースしました！",
+      "link": "https://qiita.com/ryo33/items/3a1a9d1ba2b289b23244?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nAIにコードを書いてもらうのが当たり前になってきました。\nでも、こんなモヤモヤはありませんか？\n\nAIが書いたコード、差分を全部読むのはもう限界\n\nテストは通っている。でも テストを書いていないケースは大丈夫？\n\nAIに「なぜ正しいの？」と聞いても、その説明が正..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "Claude Codeを導入して開発速度が5倍になったのに、なぜ私の疲労度は10倍になったのか",
+      "link": "https://qiita.com/xiaoy/items/c4340fda4f660e9c2e4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに：爆速開発の果てに待っていた「前例のない脳疲労」\nここ数週間、日々の開発に Claude Code や Cursor を徹底的に組み込み、いわゆる「AIネイティブ開発」を本気で回してきました。\n表面的な数字だけを見れば、大成功と言っていいはずでした。\nこれまで設計..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "PHPの脆弱性「php2shell」が来たので、Amazonの公式パッケージを待たずにPHPを自分でビルドして本番に入れた話",
+      "link": "https://qiita.com/Tukirukiki/items/beec6fedd37f63e1c231?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n2026年10月に公表された PHPの脆弱性「php2shell」に、公表当日の夜に対応しましたので、備忘録としてやったことを記載していきます！\nいろんなPHPを使っている企業がメンテになって、中には、まる1日メンテになってる企業もありましたね、、\n僕たちのプ..."
+    }
+  ]
+}
