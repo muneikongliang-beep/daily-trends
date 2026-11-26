@@ -1,0 +1,486 @@
+{
+  "date": "2026-11-26",
+  "collected_at": "2026-11-26T03:57:05.174718",
+  "items": [
+    {
+      "source": "hatena_hotentry",
+      "title": "日本語サイトで指定しておきたいCSS 2026年版 - Qiita",
+      "link": "https://qiita.com/tofu_frontend/items/6a1bb7d80a58736eef0e",
+      "summary": "text-autospace は3エンジンすべてに実装が入っていますが、一部の値で実装差が残っており、web-features の Baseline 判定はまだ Limited です。 ただしここに挙げたものは全部、非対応ブラウザでは無視されるだけです。レイアウトが壊れることはないので、プログレッシブエンハンスメントとして入れて問題ありません。..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "1Password、従業員のGitHubアカウント経由で顧客の氏名とメールアドレスが流出したと発表 — BigGo ファイナンス",
+      "link": "https://finance.biggo.jp/news/86bd3431-ad2e-4b18-b885-4fb6393beb46",
+      "summary": "1Passwordは、攻撃者が侵害した従業員のGitHubアカウントを利用してバックエンドシステムに悪意あるコードを仕込み、一部ユーザーの氏名、ログイン用メールアドレス、公開鍵、アカウント識別子、ログイン日時をダウンロードしたと発表した。攻撃者は非公開リポジトリからソースコードもコピーし、同社のCI/CDシステムに..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "ネズミ退治へ「大作戦」 浦安駅一帯 市民から苦情相次ぐ",
+      "link": "https://www.chibanippo.co.jp//articles/1696879",
+      "summary": "ここ数年、「ネズミがごみ袋を荒らす」「車のボンネットに入り込み配線をかじる」などと苦情が絶えないのを受け、浦安市は来年初めから東京メトロ東西線浦安駅一帯で「ネズミ被害防止大作戦」を展開する。駆除だけでなく、ごみ袋の出し方の講習会なども検討しており、市と住民、飲食業者らが協力して環境改善を進める。 ..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "「日本一うまいコロッケそば」と言われる駅そば・桃中軒のみしまコロッケそばを食べてみた / 立ち食いそば放浪記：第411回 静岡県三島",
+      "link": "https://rocketnews24.com/2026/11/25/2868038/",
+      "summary": "» 「日本一うまいコロッケそば」と言われる駅そば・桃中軒のみしまコロッケそばを食べてみた / 立ち食いそば放浪記：第411回 静岡県三島 特集 新幹線のぞみっていまいち旅情がない。思うに、移動に全力すぎるのだ。確かに、東京-大阪間が2時間21分は便利。だが、それゆえにもはやRTAしてるみたいな感覚になる。どんどん..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "MetaのAIエージェント Museを1ヶ月使い倒してわかったこと | kinoko dev",
+      "link": "https://dev.sin5d.com/meta-muse-usage",
+      "summary": "XAIのGrokBot、Nous ResearchのHermes Aagent、OpenAIのChatGPT Bots、などなど、クラウドエージェントタイプのAIが百花繚乱中です。前回の記事でGrokBotについて詳しく書きましたので、今回はGrokBot以上によく使っているMeta社のMuseについてくわしく書いていこうと思います。 執筆時2026/11/25時点での情報なので状況..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "｢静岡だけのせい｣から一転｢全工区の問題｣に…リニア開業発表を｢無期限延期｣したJR東海の苦しすぎる言い訳",
+      "link": "https://president.jp/articles/-/122996",
+      "summary": "理由について丹羽社長は、「全工区で工事の進め方や工期、工事費の精査を進めている。技術的な検討などが必要となった」として、「その作業に思いのほか時間を要している」ことを強調した。 静岡工区を請け負う大成建設などのゼネコンが談合事件で有罪が確定し、工事契約の更新ができなくなっていることは「1つの要因に..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "「防衛族」怒りの矛先が首相官邸に　防衛費の大幅増額、期待裏切られ：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASVCT45NZVCTUTFK01CM.html",
+      "summary": "防衛費の大幅増額を願う「防衛族」の自民党議員たちが、首相官邸に怒りの矛先を向けている。一体どういうことなのか。　6日夜、防衛省の職員が、防衛産業を担う主要企業に電話やメールで一斉に連絡を入れ始めた。…"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "観測者から当事者へ、AI 時代にドメインへ深入りする知識と技術 / From Observer to Practitioner: Going Deep into Domains in the Age of AI",
+      "link": "https://speakerdeck.com/nrslib/from-observer-to-practitioner-going-deep-into-domains-in-the-age-of-ai",
+      "summary": "Modeling Forum 2026 におけるトークスライドです モデリングの前と後、そして実際のモデリングをコモディティ化しています イベント概要：https://umtp-japan.org/event-seminar/mf2026/78668 CQRS+ES実践ガイド：https://…"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "東京都民に配ったQUOカードPayが「残高ゼロ」…子育て支援金9000万円分、不正流出か：東京新聞デジタル",
+      "link": "https://www.tokyo-np.co.jp/article/530676",
+      "summary": "東京都の子育て支援事業「赤ちゃんファーストギフト」で、都は25日、特設サイトを通して対象者に贈ったデジタル商品券「QUOカードPay」の約9000万円分が、何らかの原因で使えなくなっていると発表した。都はデジタル商品券が外部に不正流出した可能性もあるとみて、警視庁に相談している。"
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "外国人労働者、東北GDP底上げ　農・水産業「いないと成り立たず」 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOCC18CUY0Y6A111C2000000/",
+      "summary": "「人手不足が限界を突破している。もはや外国人がいなければ成り立たない」――。東北の経営者からよく聞かれる言葉だ。過疎化の勢いが止まらないなか、外国人労働者の流入は経済にどのような影響を与えるのか。取材を重ねると、農・水産業への就労を通して県内総生産（GDP）に貢献している実態が見えてきた。宮城県北東部..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "デュラン・デュランのアンディ・テイラー死去 - amass",
+      "link": "https://amass.jp/193232/",
+      "summary": "デュラン・デュラン（Duran Duran）での活躍でも知られるアンディ・テイラー（Andy Taylor）が死去。バンドが発表。65歳でした。 以下、声明より 「本日、アンディ・テイラーの家族と、かつてのバンドメンバーであるデュラン・デュランのメンバーによる共同声明が発表され、ギタリストのアンディ・テイラーが、前立腺が..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "「AI検索に電話番号が……」鳴りやまぬコールセンター　バッファローは壊れた「顧客導線」をどう改善した？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news015.html",
+      "summary": "入電が「月に1400件急増」なぜ？　理由を探ると…… 「10年以上もかけて構築してきたWebの仕組みが、一瞬で無駄になったような感じでした」 バッファロー 品質保証部 FAQ課長の嶋田豊秋氏は、AI検索によって電話問い合わせが増加した当時の心境をこう振り返る。 同社が外部委託して運営するコンタクトセンターには、電話、..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "高齢者は家を借りられない、なんてない。―門前払いの現実を変える。影山桐子さんが挑む、安心できる社会―｜LIFULL STORIES",
+      "link": "https://media.lifull.com/stories/20260312343/",
+      "summary": "借りられる部屋がない。十分な預金があり、健康体で、保証人もいるが、物件探しは門前払い──。これは実際に、いまの日本で起きていることだ。断られる理由は、あなたが65歳を過ぎているから、である。 「これは自分の問題だと思った」 70代の両親が賃貸探しに困窮した際、いつか自分も同じ問題に対峙する可能性を感じ取..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "Amazon Bedrockの存在意義がようやくわかったのに、新参者だと使えない話 - Sweet Escape",
+      "link": "https://www.keisuke69.net/entry/2026/11/26/085248",
+      "summary": "今つくっているプロダクトで、Amazon Bedrockを使うことにした。これまで僕はBedrockに利用価値も存在意義もほとんど感じていなかった。 なんで価値を感じていなかったのか。まず「全部AWSでいいじゃん」みたいなノリがあんまり好きじゃない、というのが大前提としてある。 それに加えて、フロンティアモデルを使いたい..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
+      "link": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html",
+      "summary": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供 AIエージェントと外部ツールを接続する業界標準となっているMCP（Model Context Protocol）に、新機能として「Skills over MCP」がβ版として追加されました。 Skills over MCPを利用することで、AIエージェントはMCP経由でM..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "査読者への信頼：査読制度はいかにして科学的正当性の指標となったのか（文献紹介）",
+      "link": "https://current.ndl.go.jp/car/287767",
+      "summary": "米・マサチューセッツ工科大学出版局（MIT Press）が運営する学術出版物のオンラインプラットフォームMIT Press Directに、オープンアクセス（OA）書籍“In Referees We Trust?: How Peer Review Became a Mark of Scientific Legitimacy”（査読者への信頼：査読制度はいかにして科学的正当性の指標となったのか）が掲載..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "【AED問題】女性の尊厳を高く釣り上げたまま下げられない国の末路が「救命テント」の登場なんですよ。もうお笑いでしょこれ(笑)普通に考えて1分ごとに救命率が10%下がるんだからテント設営している間に死ぬか、後遺症の確率大な訳だが、、、",
+      "link": "https://posfie.com/@yonepo665/p/33PCSxA",
+      "summary": "若葉 @t77VQkZKDzLpvdz 女性の尊厳を高く釣り上げたまま下げられない国の末路が「救命テント」の登場なんですよ。もうお笑いでしょこれ(笑)普通に考えて1分ごとに救命率が10%下がるんだからテント設営している間に死ぬか、後遺症の確率大な訳だが、それでも尊厳が大事ならもう尊厳抱えたままあの世に行ってくれとしか思..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "「コテとかドライヤーとか毎回抜くってこと？」電源OFFでもコンセントは抜くべき？ 抜く派・抜かない派で議論になるも、火災につながりかねない理由がある",
+      "link": "https://togetter.com/li/2775046",
+      "summary": "あくび @sjmsr_luv_z 長女が毎朝使ってるコテが、コンセント差しっぱなし(電源はOFF)だった。 これわたしが抜いちゃったら、差しっぱなしに気づかないよな、、本人のためにもこのままにして翌朝気づかせよう、、それが成長や、、 とおもってそのままにした。 翌朝長女が出かけたあと見てみたら、変わらず差しっぱなしだ..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "闇バイト対策として日本刀を挙げる意見に「たぶん意味ない」と投稿したVTuberのかなえ先生にXで猛批判が集まるが、実際に日本刀を使いこなすのは難しい",
+      "link": "https://togetter.com/li/2774873",
+      "summary": "ユキト＠バツイチ投資家 @yukito_ueful 楽天証券の情報漏洩は全部漏れてるパターンでした😭 当面の対策として、剣道四段は持ってるので、自宅のさっと手が届くところに木刀を３本は置いてます。うち１本は殺傷力の高い白樫の素振り用木刀です。あとはキックボクシング歴が６年なんですが、他に何か用意しておいた方がい..."
+    },
+    {
+      "source": "hatena_hotentry",
+      "title": "パスワード管理「1Password」でデータ流出、一部顧客の氏名やメールアドレスなど／パスワード保管庫やその鍵は無事、招待・復旧メールを装ったフィッシングに注意",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2159320.html",
+      "summary": ""
+    },
+    {
+      "source": "hatena_it",
+      "title": "日本語サイトで指定しておきたいCSS 2026年版 - Qiita",
+      "link": "https://qiita.com/tofu_frontend/items/6a1bb7d80a58736eef0e",
+      "summary": "text-autospace は3エンジンすべてに実装が入っていますが、一部の値で実装差が残っており、web-features の Baseline 判定はまだ Limited です。 ただしここに挙げたものは全部、非対応ブラウザでは無視されるだけです。レイアウトが壊れることはないので、プログレッシブエンハンスメントとして入れて問題ありません。..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "1Password、従業員のGitHubアカウント経由で顧客の氏名とメールアドレスが流出したと発表 — BigGo ファイナンス",
+      "link": "https://finance.biggo.jp/news/86bd3431-ad2e-4b18-b885-4fb6393beb46",
+      "summary": "1Passwordは、攻撃者が侵害した従業員のGitHubアカウントを利用してバックエンドシステムに悪意あるコードを仕込み、一部ユーザーの氏名、ログイン用メールアドレス、公開鍵、アカウント識別子、ログイン日時をダウンロードしたと発表した。攻撃者は非公開リポジトリからソースコードもコピーし、同社のCI/CDシステムに..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "「AI検索に電話番号が……」鳴りやまぬコールセンター　バッファローは壊れた「顧客導線」をどう改善した？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news015.html",
+      "summary": "入電が「月に1400件急増」なぜ？　理由を探ると…… 「10年以上もかけて構築してきたWebの仕組みが、一瞬で無駄になったような感じでした」 バッファロー 品質保証部 FAQ課長の嶋田豊秋氏は、AI検索によって電話問い合わせが増加した当時の心境をこう振り返る。 同社が外部委託して運営するコンタクトセンターには、電話、..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "MetaのAIエージェント Museを1ヶ月使い倒してわかったこと | kinoko dev",
+      "link": "https://dev.sin5d.com/meta-muse-usage",
+      "summary": "XAIのGrokBot、Nous ResearchのHermes Aagent、OpenAIのChatGPT Bots、などなど、クラウドエージェントタイプのAIが百花繚乱中です。前回の記事でGrokBotについて詳しく書きましたので、今回はGrokBot以上によく使っているMeta社のMuseについてくわしく書いていこうと思います。 執筆時2026/11/25時点での情報なので状況..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "観測者から当事者へ、AI 時代にドメインへ深入りする知識と技術 / From Observer to Practitioner: Going Deep into Domains in the Age of AI",
+      "link": "https://speakerdeck.com/nrslib/from-observer-to-practitioner-going-deep-into-domains-in-the-age-of-ai",
+      "summary": "Modeling Forum 2026 におけるトークスライドです モデリングの前と後、そして実際のモデリングをコモディティ化しています イベント概要：https://umtp-japan.org/event-seminar/mf2026/78668 CQRS+ES実践ガイド：https://…"
+    },
+    {
+      "source": "hatena_it",
+      "title": "Amazon Bedrockの存在意義がようやくわかったのに、新参者だと使えない話 - Sweet Escape",
+      "link": "https://www.keisuke69.net/entry/2026/11/26/085248",
+      "summary": "今つくっているプロダクトで、Amazon Bedrockを使うことにした。これまで僕はBedrockに利用価値も存在意義もほとんど感じていなかった。 なんで価値を感じていなかったのか。まず「全部AWSでいいじゃん」みたいなノリがあんまり好きじゃない、というのが大前提としてある。 それに加えて、フロンティアモデルを使いたい..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
+      "link": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html",
+      "summary": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供 AIエージェントと外部ツールを接続する業界標準となっているMCP（Model Context Protocol）に、新機能として「Skills over MCP」がβ版として追加されました。 Skills over MCPを利用することで、AIエージェントはMCP経由でM..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "パスワード管理「1Password」でデータ流出、一部顧客の氏名やメールアドレスなど／パスワード保管庫やその鍵は無事、招待・復旧メールを装ったフィッシングに注意",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2159320.html",
+      "summary": ""
+    },
+    {
+      "source": "hatena_it",
+      "title": "組織レベルごとの品質定義（リライト）｜snsk",
+      "link": "https://note.com/_snsk/n/n9473a6e95b1c",
+      "summary": "組織レベルごとの品質定義大昔に書いたものですが、またさまざまな組織に向けて紹介したい、引用したい機会が増えてきましたので、改めてリライトします。 製品を社会に提供する組織（多くの企業が当てはまります）において、組織レベルごとにさまざまな抽象度での品質定義が明示的、暗黙的に存在し、持続的イノベーショ..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "Update on a security incident involving 1Password’s backend systems. | 1Password",
+      "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "summary": "What happenedOn November 19, 2026, 1Password began investigating indications that an attacker gained access to an employee’s corporate GitHub account. The actor used the account to access source code and push malicious code to backend services, which downloaded administrative data pertaining to o..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "ChordTube - YouTube の曲のコード進行・キー・BPM",
+      "link": "https://chordtube.net/",
+      "summary": "コード・キー・拍は AI の自動推定と利用者の編集によるもので、正確とは限りません。動画は YouTube の埋め込みで再生しています。"
+    },
+    {
+      "source": "hatena_it",
+      "title": "米国の小学校で今学期になって毎日AI生成された気持ち悪い歌が放送、クラスのみんなが嫌がっているので娘が先生に話したところ「聞かなくていいよ。耳を塞いで」と言われた",
+      "link": "https://togetter.com/li/2775074",
+      "summary": "maiya🕊️ @mhutam03 AIをできるだけ使わないようにと指導されているはずの小学校で、今学期になってから毎日AI生成された気持ち悪い歌が放送されていてクラスのみんなが嫌がってると娘が言うので、生徒会でそれ止めるように提言しなよと言ったところ、先生に直接話してきたらしい娘が 2026-11-25 12:48:21 maiya🕊️ @mhutam0..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "「Google Workspace MCPサーバ」と「Google Workspace CLI」が正式版としてリリース",
+      "link": "https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html",
+      "summary": "Googleは、Google WorkspaceをAIエージェントが操作するためのインターフェイスとして「Google Workspace MCP Server」と「Google Workspace CLI」が正式版になったことを発表しました。 下記は、Alphabet傘下でGoogleのAI研究開発を行っているGoogle Deepmind所属のPhilipp Schmid氏のポストです。 Google Workspace MC..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "Skills - Model Context Protocol",
+      "link": "https://modelcontextprotocol.io/extensions/skills/overview",
+      "summary": "The ext-skills repository contains the published specification for the official Skills extension (io.modelcontextprotocol/skills). SEP-2640 is Final. The Skills Over MCP Working Group maintains the extension. SDK and host support is still being implemented; see the client support matrix and imple..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "愛知県豊橋の人から無限にCHARGESPOTが送りつけられるけど、どうしたらいい？「送り主が間違って送っている？」「カニの仕業？」という謎めいた反応も→公式から連絡が来る",
+      "link": "https://togetter.com/li/2775045",
+      "summary": "紅のTaka @kurenai_taka 送り主がChangeSpotの事務所住所間違えて送っている？ 中野の神田川投棄と言い溜め込んでいた人が処分困って適当に送り付けてるとか？ @CHARGESPOT_JP さんが確認したら最後に借りた人解るから回収してもらうのが良いんだろうけど。 x.com/nekosan_kemono… 2026-11-25 18:36:05 CHARGESPOT(チャ..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "脆弱性の発見数、1年で2倍超　Microsoft製品も月100件から1000件超に……AIで一変",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
+      "summary": "米Microsoftが毎月公開しているWindowsのセキュリティ更新プログラム。11月は1000件以上の脆弱性が修正された。他社の製品も含めると、2026年に入って発見された脆弱性は10万件を超え、すでに25年の倍以上だ。AIの進化に伴い脆弱性の発見とそれを悪用した攻撃が激増する中で、パッチを適用する側はどう対処すればいいの..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "都が育児支援で配った「QUOカードPay」が「使えない」「残高減っている」……委託先への不正アクセスが関係か",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003472/",
+      "summary": "赤ちゃんファーストは、都内の新生児の保護者に対して13万円分のポイントを提供し、専用サイトを通じて育児用品や家電、デジタル商品券などに交換できる都の育児支援策。 赤ちゃんファーストコールセンターに「QUOカードPayが利用できない」「残高が少なくなっている」などの相談が寄せられ、リンベルが調べたところ、問..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "Button Sounds — tactile SFX for your UI",
+      "link": "https://buttons.joshwcomeau.com/",
+      "summary": "A free collection of 50+ professionally-recorded multi-sampled clicks and toggles. Distributed via NPM."
+    },
+    {
+      "source": "hatena_it",
+      "title": "AWS WAF の新料金（simplified pricing）と旧料金を試算して比べてみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/aws-waf-simplified-pricing-estimate/",
+      "summary": "リソース料金は、web ACL を関連付けたリソース 1 つごとにかかります。10 個のリソースに関連付けた web ACL では、10 リソース分が課金されます。 web ACL、ルール、ルールグループ、キャパシティ、ボディ検査、CAPTCHA、Challenge の料金はなくなります。web ACL あたり 2,500 WCU まで追加料金なしです（従来は 1,50..."
+    },
+    {
+      "source": "hatena_it",
+      "title": "iPhone、広告を1回タップするだけでマルウェアに感染の恐れ　日本が主要な標的に",
+      "link": "https://news.mynavi.jp/techplus/article/20261125-5406233/",
+      "summary": "広告セキュリティ企業のConfiantは11月20日（現地時間）、MoldyRoost: A Malvertising Machine Built to Deliver iOS Exploitsにおいて、iPhoneを狙った大規模なサイバー攻撃「MoldyRoost」の詳細を公開した。 脆弱性が残るiPhoneでは、悪質な広告を1回タップするだけでマルウェアに感染し、パスワードや暗号資産ウォレ..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "specは実装後に8割削除しよう",
+      "link": "https://zenn.dev/ruri/articles/distill-specs-after-implementation",
+      "summary": "参考にした仕組み: GitHub Spec Kit / OpenSpec のテンプレートとコマンド定義\n参照日: 2026-10-18\n\n\n TL;DR\nspec は、実装の前に考えるための文書です。実装が終わったら、そのまま残さずに仕分けます。実際の spec 7 本で数えると、8 割強は消してよいものでした。\n真実はコードにあります。機能要件・用語・非機能の目標値は、テスト・型・定義箇所のコメントに移ります。動機や設計の判断は ADR に移ります。spec として残るのは、意図・スコープの境界・外の世界についての前提の三種類だけです。\n残った意図と境界は、補助のドキュメントではあり..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "アウトプットの「質」ってじゃあなんなんだよ",
+      "link": "https://zenn.dev/watany/articles/1efe3adea67dd5",
+      "summary": "はじめに\n登壇にしてもブログにしても「やれば偉い」ってオチにすればみんなハッピーなんだけど、それはそれとして自分のために時間を使ってくれている受け手には失望して欲しくないし、何かを得てもらいたくないですか？面倒なので以降は、共感できる方だけ読み進めてください。\n\n チェックリスト\n他にもあるかもしれませんが、1番近いなと思うものを選んでください\n\n 実験系(やってみた)\n\n公式ドキュメントからの逸脱はあるか？\n　　- 差分や制約があると面白い\n　　- ドキュメント外のナレッジは知りたい\n公式ドキュメントの逸脱を見つけられたか？\n　　- できると書いてあるのに実はできないところはみんな..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "RustでFiberを用いたJob Systemを実装したらReleaseビルドでバグが発生した",
+      "link": "https://zenn.dev/otinpan/articles/082f6178eb1472",
+      "summary": "はじめに\n現在、RustとVulkanを用いた自作ゲームエンジン KaniVolcanoEngine を開発しています。\nKaniVolcanoEngineでは、Jobの並列実行を実現するために、WindowsのFiber APIを用いたJob Systemを実装しています。\n今回、ReleaseビルドでJob Systemを動作させたところ、assertによるpanicや、RefCellの借用エラーが発生しました。原因を調査する過程で、Fiberのスレッド間移動と、コンパイラによるTLS（Thread Local Storage）アクセスの最適化が関係している可能性が浮上しました。..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "結局「オントロジー」って何なのさ 〜概念と良さを4つのレイヤーで整理する〜",
+      "link": "https://zenn.dev/algomatic/articles/ece749a7e3cb24",
+      "summary": "こんにちは。11月より、Algomaticでエンジニアをしているひさふるです。\n最近、AIに関連するワードで&quot;オントロジー&quot;という用語をよく耳にします。\n「オントロジーを使えば企業のデータを文脈としてAIに理解させられる」のように説明されることも多く、AI時代の企業のデータの持ち方として今非常に注目されています。AIの会社を名乗る我々Algomaticでも、オントロジーの活用は避けては通れず、今様々な領域でオントロジー活用にチャレンジしています。\nしかしこの&quot;オントロジー&quot;、概念自体が非常に複雑であり、また人によって&quot;オントロジー&amp;qu"
+    },
+    {
+      "source": "zenn_trend",
+      "title": "AIを使った開発に「敵対的検証」を取り入れてみた",
+      "link": "https://zenn.dev/visionarray/articles/26b316ff128513",
+      "summary": "AIを使った開発に「敵対的検証」を取り入れてみた\n\n はじめに\n普段、私はCodexやClaude Codeを利用して、設計、実装、コードレビューなどの開発作業を行っています。\nAIを利用することで開発効率は向上しましたが、その一方で、生成されたコードの品質をどのように担保するかについては、日々試行錯誤しています。\nそんな中、たまたまインターネットの記事で「敵対的検証」という言葉を目にしました。\n聞いたことのない言葉だったので興味を持ち、これをAIを使った開発に取り入れてみたら面白いのではないかと思いました。\n実際に取り入れてみると、通常のコードレビューでは見つからなかった問題が見つ..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
+      "link": "https://zenn.dev/codehex/articles/33bc6ee330b880",
+      "summary": "Meta の個人向け AI エージェント「Muse」を使い込んでいくうちに、どうしても欲しくなった仕組みがあります。Slack でメンションされた瞬間や、GitHub でリリースが出た瞬間に、そのまま Muse を動かすことです。\n執筆時点（2026 年 11 月）で僕が調べた範囲では、Muse を外部イベントで即座に動かす仕組みを公開している例は見当たりませんでした。（でもいつかはリリースされそう...?）\nそして、これを見てください！！\nhttps://x.com/codehex/status/2125375389241675856?a=SmFmSPV7nT_lsgSAYbs&amp;am"
+    },
+    {
+      "source": "zenn_trend",
+      "title": "AIエージェントのMemory設計 ― 会話履歴・業務データ・長期Memoryの使い分け",
+      "link": "https://zenn.dev/taru_neko/articles/ai-agent-memory-architecture-2026",
+      "summary": "AIエージェントでは、過去の会話を記憶し、次の会話に活用するMemoryという仕組みが使われる。\n一方、従来のWebアプリケーションでも、セッション管理や業務DBによって情報を保持してきた。AIエージェントだからといって、専用のMemory機構が必要とは限らない。\n本記事では、社内の経費精算システムを例に、短期・長期Memoryの構成と既存の仕組みとの使い分けを整理する。さらに、何を記憶するか、情報の更新・削除やセキュリティをどう設計するかを考え、専用の長期Memory機構を採用する条件を明らかにする。\n\n 1. 短期Memoryと長期Memoryの違い\n例えば、利用者が次のように依頼す..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）",
+      "link": "https://zenn.dev/happy_elements/articles/27e14ff6754044",
+      "summary": "Claude に実行を任せた Bash コマンドは、Claude Code を起動したマシンの上で、自分のユーザー権限で動きます。Mac のターミナルで起動したなら、その Mac です。サンドボックスをオンにしても動く場所は同じで、変わるのは、実行中のコマンドがアクセスできるファイルと通信先の制限です。\n2026 年 11 月時点の公式ドキュメントと changelog をもとに、Claude Code CLI の権限ルール、Bash サンドボックス、MCP の設定をサンプルとチェックリストにまとめました。認証情報を使わずに、ダミーファイルで読み取り制限を確認する手順も載せています。\n実..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Personal Agent Protocol (Poppy) が解く問題と仕組み",
+      "link": "https://zenn.dev/sierra_japan/articles/0b9ba590232345",
+      "summary": "こんにちは、Sierra で Agent Engineer をしている konippi です。\nこの度、Sierra Japan の有志で Engineering Blog を始めました 🎉🎉🎉\nhttps://zenn.dev/p/sierra_japan\n記念すべき最初の記事では、パーソナル AI エージェントと企業をつなぐオープンなプロトコル、Personal Agent Protocol を取り上げます。\n\n はじめに\nMeta の Muse のように、ユーザーの代わりに予約や買い物、問い合わせをこなすパーソナル AI エージェントが増えています。一方で、企業側にはエージェントを..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "なんとなくgrill-meしている人に伝えたい、作者本人から学んだSkillsの使い方",
+      "link": "https://zenn.dev/mediaforce/articles/27df1f22a00546",
+      "summary": "はじめに\n株式会社メディアフォースでエンジニアをしている池田です。自社プロダクトの開発を担当しています。\n弊社の開発チームは、設計や実装にClaude Codeを利用しています。\n周りのエンジニアに勧められたことをきっかけに、最近はMatt PocockのSkillsを利用しています。\nこのSkillsは2026年春頃から話題になっていたgrill-me（grilling）[1]を含んだスキル集です。\n仕様の曖昧さを排除しながら設計できる便利さを感じつつも、質問の多さに疲れたり、途中で仕事の進め方を見失ったりと、時折使いこなせていないと感じることも出てきました。\nそこで、公式ドキュメ..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "モデルの性能が出ないのは AI ゲートウェイのせいかもしれない",
+      "link": "https://zenn.dev/google_cloud_jp/articles/7e29a9acf06557",
+      "summary": "TL;DR\n\nClaude Code 等から AI ゲートウェイ経由で別プロバイダーのモデルを呼ぶと、HTTP 200 のまま思考のリセットやキャッシュ失効が起きることがある\n異変に気づくには応答品質やエラー率だけでなく、2 ターン目以降の思考トークン数・キャッシュヒット率や、プロバイダー純正のクライアント・API の組み合わせで直接動かしたときとの差を確認するのが有効\nネイティブ API を使える場合はゲートウェイの無変換パススルーを選び、変換を挟む場合はマルチターンの結合テストで状態維持を検証する\n\n\n 1. 期待した性能が出ないときの盲点\n新しいモデルを試したり、普段使っている..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
+      "link": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
+      "summary": "形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。\nhttps://github.com/henteko/murder-mystery-checker\n決まった仕様(JSON)でシナリオを記述すると、到達しないエンディングがあるなど、矛盾を指摘してくれます。\n$ mmcheck check --strict examples/hexagon-house/scenario.json\nwarning H003  持っている物がハンドアウトに書かれていない\n          shimeji / sleeping_pill\nwarning H003  持..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Gemini 4 Neon を API で叩いて Claude Code・Codex CLI と比べた：65万トークンの超長文、費用、失敗",
+      "link": "https://zenn.dev/canly/articles/40e773759da8f8",
+      "summary": "カンリーCAIOの萩野です。\n2026年11月18日に Google が出した Gemini 4 Neon を、同じ8つの課題で Claude Opus 5.5（Claude Code 経由）と GPT-6.2 Sol（Codex CLI 経由）と比べました。一般向けのまとめは note に書いたので、この記事ではどんなリクエストを送り、どう採点し、いくらかかり、どこで失敗したかを、手順を追える粒度で書きます。プロンプトの全文と正解データの作り方は付録に載せました。\n結論を先に書きます。\n\n正解が決まる課題（数学・論理、グラフ読み取り、17万トークンの文書検索、8万トークンのグラフ探索、..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "エンジニア20人の組織を、デザイナー1人と AI で支える仕組み",
+      "link": "https://zenn.dev/rimo/articles/c25919207b1cde",
+      "summary": "こんにちは。Rimo 合同会社で 1人目デザイナーをやっているにしゃみー (@NishaMe1024) です。\nRimo にはエンジニアが約20人いて、正社員のデザイナーは入社した3年前から相変わらず私1人です。今年の2月頃、Claude が超絶進化したのを皮切りにプロトタイプを作らせる仕組みを自作し、8ヶ月近くデザイナー1人でもこの人数の開発を支えられる体制をつくってきたので、今回は仕組みや溜まった知見についてご紹介します。\n7月のデザインハーネスイベントで登壇したときの内容がベースですが、5分の登壇では話しきれなかった裏側の話もいれて内容をアップデートして書いていきます。✍️\n\n A..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Claude Code の /ship を図解する",
+      "link": "https://zenn.dev/peoplex_blog/articles/claude-code-ship",
+      "summary": "はじめに\nPeopleX でプロダクト開発をしている Aki です🚀\nClaude Code に /ship というスキルがベータ版としてリリースされました。コミットと push、PR の作成、レビューと修正、マージかクローズまでの見張りを、1つのセッションで受け持つスキルです。\nhttps://x.com/claudedevs/status/2124959436640858475\n私は普段、自作のスキルと Claude Desktop の Auto-fix を組み合わせて、PR を出してからボットの指摘に対応するまでをほぼ同じ流れで回しています。\n自分の流れと何が違うのかを確かめる..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
+      "link": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
+      "summary": "Claude Code は、VSCode の拡張機能で使うのが好きだ。\nMarkdown が見やすく、コードも Git の変更差分もその場で見られる。\nパネルを横に並べられるので、セッション同士が隠れない。VSCode から離れずに済む。\nただ、セッションを5つほど並べると困ることが出てくる。\n一番困ったのは、パネルの見出しが短くて、どれが何の作業をしているのか一目で分からないことだった。\n一時期はメモ帳にパネルの並び順と同じ順で、それぞれ何をしているかを書いていた。\n困りごとはほかにもあった。\n\nどれが自分の返事を待っているのか、パネルを1つずつ見て回らないと分からない\nSlack を..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "JSConf JP 2026 公開資料・Xアカウントリンクまとめ",
+      "link": "https://zenn.dev/h_yoshikawa0724/articles/2026-11-23-jsconf-jp-2026",
+      "summary": "2026/11/22(日)で開催された JSConf JP 2026に関する、現時点での公開資料と X アカウントリンクをまとめました。\nよろしければご活用ください。\n!\nこの記事は、個人ブログへ投稿した記事の転載です。\n\n\n はじめに\nhttps://jsconf.jp/2026/ja\n登壇社名および登壇者名は敬称略させていただいています。\nx アカウントについては、以下のように確認できたものを記載しております。\n\nJSConf JP 公式サイトに記載のプロフィールと一致している\n当イベントで登壇されることに言及されている\nスライドに記載されている\n\nリンクの間違い等ありましたらコメン..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
+      "link": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
+      "summary": "こんにちは。コロンビア大学の博士課程でシステムセキュリティ・形式検証の研究をしている Koukyosyumei です。\n今回は、ざっくり言うと、Rust製の有名なOSSをLean 4で形式検証するベンチマークを作っていたら、思いがけず実際のセキュリティ脆弱性をいくつも発見してしまった、という話です。\n現在私がやっているプロジェクトの一つに、RustのWebアプリケーションをLean 4で形式検証できるフレームワーク h5i があります。h5iは、RustのWebフレームワークであるAxumをベースに、アプリケーションの重要なロジックをLean 4に変換し、認可、データの分離、ビジネスロジ..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "プログラミング教育の功罪",
+      "link": "https://zenn.dev/nobkz/articles/a8ed5591cd3e7d",
+      "summary": "プログラミング教育の界隈から抜けて1年と半年以上になる。そのころ私はエンジニアとしての業務と、プログラミング教育を並行してやっていた。\nこの1年半で世の中の状況がだいぶ一変してしまった。1年半前はまだ私は手でコードを書いていて、レビューが機能していたように思う。もうそれがほとんどなくなってしまった。それ以前ではプログラミング教育は根本的な問題を抱えながらも、その重要性が認められてきた。子ども向けのプログラミング教育では、塾でプログラミングが流行り、義務教育に取り入れられてきた。そして社会人に向けてプログラミングスクールが流行ってきたのであった。\nそれが今では、子供向けではプログラミングス..."
+    },
+    {
+      "source": "zenn_trend",
+      "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
+      "link": "https://zenn.dev/canly/articles/ca6875cd79539f",
+      "summary": "カンリーCAIOの萩野です。\n\n「All Code Is Slop (Except Mine)（全てのコードはゴミ、私のは除く）」を掲げる開発者 poteto（Lauren Tan）さんの基調講演（2026年11月11日、AI Engineer CODE 2026）では、1か月で3,000本のPRを本番に出し、その多くを寝ている間に進めた話が語られました。そのやり方を MIT ライセンスで公開した Cursor 公式スキル集 pstack を Claude Code に入れ、指示1回・約10分・途中の人手なしで設計からツール実装、自動テスト14件、コードをわざと壊すテスト検証まで完走させ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "情報量が4倍のQRコードを作ろう",
+      "link": "https://qiita.com/reipandada/items/17496db6ac5f64a5e61a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "ネタ記事です。細かいところは適当なのでゆるく読んでください。\n\n世紀の大発明\nQRコードの向きは3つの角にある「回」のようなマークを見て、マークのない角の位置で判断しているそうです。\nそこでふと思いつきました。4隅すべてにマークを置いて1つを隠したら？\n\n隠す角によ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "Rails（Sidekiq＋Selenium）経験者向け：Node.jsのBullMQ＋Playwrightでバッチ処理を組むときのハマりどころ",
+      "link": "https://qiita.com/jinxin4869/items/7771db4dccb7ddf3ac4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nRailsでバッチ処理を書くときは、ジョブキューにSidekiq、ブラウザ操作にSeleniumを使うことがよくあります。\nでは、同じことをNode.js、TypeScriptでやるなら何を選べばいいのか。この記事では、ジョブキューにBullMQ、ブラウザ操作に..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【完全解説】本質から学ぶSOLIDの原則｜なんとなく分かるから完全理解へ【設計シリーズ】",
+      "link": "https://qiita.com/Sicut_study/items/2bbdfbacab915773dad1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこんにちは、Watanabe Jin(@Sicut_study)です。\n今回から私が得意な設計に関するチュートリアルを投稿していこうと思います。\nソフトウェア設計は学ぶのが難しいです。\nなぜかというと、抽象的な概念が多く、現実世界で利用しにくいためです。\n利用..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "VS Code 1.147：エージェントへの依頼を予約できる！？Send Later と Drafts を整理した",
+      "link": "https://qiita.com/shahin0809/items/e6cbd71914171b8b6b49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこんにちは！やっと期末テストが終わったロホマン シャヒンです！\n\nこの記事が少しでも参考になったら、ぜひいいね・共有をお願いします。\n間違っている箇所や「ここが分かりにくかった」という指摘は、やさしくコメントいただけると助かります！\n\n2026年11月18日..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "海外で話題！「VS Codeが重い」を軽くする方法。まず測って、効く順に削る（2026年11月版）",
+      "link": "https://qiita.com/shahin0809/items/46b64d3f76c9a4440298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこんにちは！VSCode/GitHubオタクのMicrosoft Student Ambassador/Github Copilot User Group Japan運営のロホマン シャヒンです\n\nこの記事が少しでも参考になったら、ぜひいいね・共有をお願いしま..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "コピペでSSHしていた初心者が、仕組みから学び直してみる",
+      "link": "https://qiita.com/Yuzuki-ki/items/b23e578d820d411bcb92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこんにちは！ソーイ株式会社の木寺です。\n業務で「このサーバーにSSHで入ってログを見ておいて」と言われて、「SSH……？とりあえずコマンドをコピペしたら入れたけど、何をしているのかはよく分からない」という経験はありませんか？実は私もまさに今その状態で、先輩に教わ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "VS Code 1.148：エージェント専用の Dev Container と Sandbox profiles。「隔離」の3種類を使い分ける",
+      "link": "https://qiita.com/shahin0809/items/05a6c7431ee7e5b6e520?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこんにちは！VSCode/GitHubオタクのMicrosoft Student Ambassador/Github Copilot User Group Japan運営のロホマン シャヒンです！\n\nこの記事が少しでも参考になったら、ぜひいいね・共有をお願いし..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "Gemini 4のCarbon・Argon・Neon・Hydrogen、結局どれを使う？使い分けを1枚の表にした",
+      "link": "https://qiita.com/N-Kyo/items/6156bc251e826cdbf92d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n2026年11月18日、Gemini 4に新しいモデル「Gemini 4 Neon」が出ました。\nGoogle Cloudでは、Agent Platform（旧Vertex AI）からGA（一般提供）として使えます。\nこれで、Gemini 4のモデルは、Carb..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【OCIベクトルDB】無料枠から始められるRAGを無料で始める前に知っておきたいこと",
+      "link": "https://qiita.com/N-Kyo/items/f976e9467320807b2c3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n2026年11月17日、OCIのリリースノートに「Oracle Autonomous AI Vector Database」が載りました。\nベクトルの保存と検索に特化した、フルマネージドのデータベースです。\n製品ページには、Always Freeと低価格のDev..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【EventBridge Webhook】SlackはNG、GitHubはOK？署名の仕様を突き合わせて調べた",
+      "link": "https://qiita.com/N-Kyo/items/3ed8f4a0a17eb4b1409d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n2026年11月20日、Amazon EventBridgeのカスタムイベントバスが、Webhookを直接受けられるようになりました。\nこれまでは、外部のサービスからの通知を受けるには、API GatewayやLambdaで受け口を自分で作る必要がありました。\n..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【技術書典21】Claudeと作った同人誌で初出展しました。部数の決め方と当日の売れ方の記録",
+      "link": "https://qiita.com/minorun365/items/4416bd940ca0cd3aaabc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "技術書典に初出展しました！\n技術書典21、おつかれさまでした！ 初めての出展で、Claude と一緒に作った同人誌を300部刷り、紙の本はおかげさまで全部お届けできました。\n\nお待ちしてます！#技術書典 pic.twitter.com/tOZ1NwRlsr— 🍊❄️ (@..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "FlutterでOneLinkを開くと「最近使用したアプリ」で元のアプリに戻れなくなった話",
+      "link": "https://qiita.com/tyoshika/items/0b5addfc68219f3777c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nFlutterアプリのWebViewからAppsFlyer OneLinkを開いたところ、一部のリンクで想定と違う動きになりました。\nリンク先のアプリ自体は問題なく呼び出せますが、Androidの「最近使用したアプリ」の一覧を表示すると、呼び出し元のアプリとリン..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "New Relicの認定がリニューアル！30分から始められる日本語の認定試験",
+      "link": "https://qiita.com/seamoooooo/items/be1047af8fa86f22299a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "New Relicの日本語認定資格が新しくなりました！今回ご紹介する試験は受験料が無料で、APMの認定は最短30分のマイクロ試験から始められます。New Relicを触り始めた方向けの基礎資格と、6つの試験で認定バッジを目指す実践者向けのコースを、公式ページの画面と一緒に見..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "New Relic アップデート(2026年10月)",
+      "link": "https://qiita.com/nr-mito/items/edfc9563e95e8283142a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "2026年10月のNew Relic のアップデートをまとめて紹介です！！アプリケーションに潜む隠れたパフォーマンスリスクを自動検出する「Performance Risks Inbox」や、ビジネス影響を即座に特定する「Intelligent Workloads」、DBとア..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【個人開発】AIでバトルロイヤルゲームを作ってみた",
+      "link": "https://qiita.com/yangon/items/4b0e3752764eb13f15be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n「荒野行動みたいなバトロワを、ブラウザで、three.js なしで作って」\nそう AI に頼んだら、2日後にはこうなっていました。\n\nブラウザで動く30人バトルロイヤル（オンライン対戦 / ボット戦）\n\nRust → WebAssembly のゲームコア、生..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "1年ぶりに出す、AWS re:Invent 2025 旅行記",
+      "link": "https://qiita.com/har1101/items/58ee6392cfda0d92521e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "こんにちは、ふくちと申します。\nAWS re:Inventに初めて現地参加させていただいたので、私なりの準備とそれがどうだったのかについてまとめておきます。1年前の下書きが出てきたので記憶を頼りに書いてます。\n初めて行く方が少しでも参考になれば幸いです。1年前の僕、下書き書..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "[俺のターン！]Amazon Textract Insightsで遊戯王カードを分類・抽出してみた",
+      "link": "https://qiita.com/kikuziro/items/7a4c618b1ded3350870f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "※イメージです\n\n ドローフェーズ（はじめに）\n2026年11月20日にGAしたAmazon Textract Insightsは、書類の種類を判定して、決めた項目を抜き出すサービスです。詳しくはこちらの記事が参考になります。\n\nこれを見て真っ先に思い浮かんだのが請求..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "心理的安全性を現場で育てる ― 「なんで？」をやめただけで2チーム統合リーダーの現場が変わった話",
+      "link": "https://qiita.com/teppei19980914/items/205353ed847956c45dd2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "この記事は約12分で読めます。\n\n心理的安全性は、制度を1つ導入すれば手に入るものではありません。2026年9月、私は自社の2チームを統合するリーダーとしてアサインされました。現場はお客様から「稼働負荷を下げてほしい」と要望され、成果物の品質も安定していませんでした。そこ..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "【JavaScript】イテレータを文字列に変換できるよ！",
+      "link": "https://qiita.com/rana_kualu/items/1bb54c15ab8d1b97d77e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "ES2027\nconst iter = [1, 2, 3].values();\n\nconst str = iter.join();      // '1,2,3'\nconst str = iter.join('---'); // '1---2---3'\n\nconst st..."
+    },
+    {
+      "source": "qiita_popular",
+      "title": "AIが何をしたか、あとから追える？ GitHub CopilotをNew Relic Preflightで観測してみた",
+      "link": "https://qiita.com/seamoooooo/items/e004485d36346655ef36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "New Relic PreflightにGitHub Copilotデスクトップ対応が加わったので、ツール実行の記録を試してみました。調査を引き継ぐときに実行済みの手順を確かめる、同じコマンドが続いたら調査方針を見直す、ファイル整理のあとに削除先を確認する。実際の画面で、こ..."
+    }
+  ]
+}
